@@ -1,4 +1,4 @@
-import { Results } from "./UPC-Hosted/js/objects.js";
+import { Results } from "./js/objects.js";
 
 export class Exam{
     constructor(chapter){
