@@ -171,6 +171,9 @@ a {
     align-content: left;
     width: 75%;
 }
+.results_div label{
+    font-size: 34pt;
+}
 .orange_label{
     color: var(--text_color);
 }
