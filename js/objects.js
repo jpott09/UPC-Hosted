@@ -18,7 +18,7 @@ export class Question{
         this.image = image;
         this.options = [];
         this.answer = null;
-        this.user_answer = null;
+        this.user_answer_letter = null;
         this.correct = null;
     }
     addOption(option_letter,option_text){
@@ -28,8 +28,8 @@ export class Question{
         this.answer = new Answer(answer_number, answer_letter);
     }
     setUserAnswer( answer_letter){
-        this.user_answer = answer_letter;
-        if(this.user_answer === this.answer.letter){
+        this.user_answer_letter = answer_letter;
+        if(this.user_answer_letter === this.answer.letter){
             this.correct = true;
         }else{
             this.correct = false;

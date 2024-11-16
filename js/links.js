@@ -1,7 +1,10 @@
 export class Links {
-    constructor(parent_div, async_onlclick_callback){
+    constructor(header_element,parent_div, async_onlclick_callback){
         /* Takes a parent div (to draw links within) and callback function to call when a link is clicked */
         // parent div is the div where this class will be shown
+        this.header_element = header_element;
+        // set the header element text
+        this.header_element.innerText = "2018 UPC Tests and Exams";
         this.parent_div = parent_div;
         // on_click_callback is the function that will be called when a link is clicked
         this.async_onlclick_callback = async_onlclick_callback;
@@ -73,6 +76,8 @@ export class Links {
         if(!this.parent_div.contains(this.links_div)){
             this.parent_div.appendChild(this.links_div);
         }
+        // set the header element text
+        this.header_element.innerText = "2018 UPC Tests and Exams";
     }
     hide(){
         /* Hides the links div */

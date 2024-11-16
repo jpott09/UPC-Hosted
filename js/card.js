@@ -75,13 +75,16 @@ export class Card{
     }
 }
 export class CardDisplay{
-    constructor(parent_div, current_chapter, home_callback){
+    constructor(header_element, parent_div, current_chapter, home_callback){
+        this.header_element = header_element;
         this.parent_div = parent_div;
         this.current_chapter  = current_chapter;
         this.home_callback = home_callback;
         this.Exam = new Exam(this.current_chapter);
         this.current_question = this.Exam.getNextQuestion();
         this.total_questions = this.current_chapter.getLastQuestionNumber();
+        // udpate the header
+        this.updateHeaderDiv(this.current_chapter.number, this.current_chapter.title, this.current_question.number, this.total_questions);
         // create buttons div
         this.button_div = document.createElement("div");
         this.button_div.id = "div_card_buttons";
@@ -137,6 +140,7 @@ export class CardDisplay{
         }else{
             this.current_question = this.Exam.getNextQuestion();
             this.card = new Card(this.parent_div, this.current_question, this.total_questions);
+            this.updateHeaderDiv(this.current_chapter.number, this.current_chapter.title, this.current_question.number, this.total_questions);
             if(this.current_question.number === this.total_questions){
                 this.next_button.innerText = "Submit";
             }
@@ -146,16 +150,29 @@ export class CardDisplay{
         if(this.current_question.number !== 1){
             this.current_question = this.Exam.getPreviousQuestion();
             this.card = new Card(this.parent_div, this.current_question, this.total_questions);
+            this.updateHeaderDiv(this.current_chapter.number, this.current_chapter.title, this.current_question.number, this.total_questions);
             if(this.current_question.number !== this.total_questions){
                 this.next_button.innerText = "Next";
             }
         }
+    }
+    updateHeaderDiv(chapter_number, chapter_name, current_question_number, total_question_number){
+        this.header_element.innerText = "Chapter " + chapter_number + ": " + chapter_name + " - Question " + current_question_number + " of " + total_question_number;
+    }
+    resultsHeaderDiv(passed_bool){
+        let text = "Passed";
+        if (!passed_bool){
+            text = "Failed";
+        }
+        this.header_element.innerText = "Results: "+text;
     }
     goHome(){
         this.remove();
         this.home_callback();
     }
     showResults(){
+        // update header div
+        this.resultsHeaderDiv(this.Exam.getResults().passed);
         let Results = this.Exam.getResults();
         // remove the button div
         if(this.parent_div.contains(this.button_div)){
@@ -172,16 +189,8 @@ export class CardDisplay{
         this.results_div.id = "results_div";
         this.results_div.classList.add("results_div");
         this.parent_div.appendChild(this.results_div);
-        // create a home button
-        this.home_button = document.createElement("button");
-        this.home_button.id = "home_button";
-        this.home_button.classList.add("home_button");
-        this.home_button.innerText = "Home";
-        this.home_button.addEventListener("click", () => {
-            this.home_callback();
-        });
-        this.results_div.appendChild(this.home_button);
         // show results
+        // ---------------------- STATISTICS ----------------------
         let correct_label = document.createElement("label");
         correct_label.classList.add("blue_label");
         correct_label.innerText = "Correct: " + Results.correct_question_count;
@@ -207,6 +216,17 @@ export class CardDisplay{
             passed_label.classList.add("highlight_orange_label");
         }
         this.results_div.appendChild(passed_label);
+        // create a home button
+        this.home_button = document.createElement("button");
+        this.home_button.id = "home_button";
+        this.home_button.classList.add("home_button");
+        this.home_button.innerText = "Home";
+        this.home_button.addEventListener("click", () => {
+            this.home_callback();
+        });
+        this.results_div.appendChild(this.home_button);
+        
+        // ----------------------- INCORRECT ANSWERS ------------------------------
         let incorrect_answers_label = document.createElement("label");
         incorrect_answers_label.innerText = "Incorrect Answers:";
         incorrect_answers_label.classList.add("highlight_blue_label");
@@ -214,7 +234,7 @@ export class CardDisplay{
         incorrect_answers_label.style.marginBottom = "10px";
         this.results_div.appendChild(incorrect_answers_label);
         let count = 0;
-        Results.correct_questions.forEach(q => {
+        Results.incorrect_questions.forEach(q => {
             count++
             let question_label = document.createElement("label");
             question_label.innerText = q.number + ": " + q.text;
@@ -223,6 +243,11 @@ export class CardDisplay{
             answer_label.innerText = "Answer: " + q.answer.letter + " - " + q.getOptionText(q.answer.letter);
             answer_label.classList.add("blue_label");
             this.results_div.appendChild(answer_label);
+            let user_answer_label = document.createElement("label");
+            user_answer_label.innerText = "Your Answer: " + q.user_answer_letter + " - " + q.getOptionText(q.user_answer_letter);
+            user_answer_label.classList.add("highlight_orange_label");
+            user_answer_label.style.marginBottom = "10px";
+            this.results_div.appendChild(user_answer_label);
         });
         if(count === 0){
             let no_incorrect_label = document.createElement("label");
@@ -230,6 +255,7 @@ export class CardDisplay{
             no_incorrect_label.classList.add("orange_label");
             this.results_div.appendChild(no_incorrect_label);
         }
+        // ----------------------- UNANSWERED QUESTIONS ------------------------------
         let unsanswered_answers_label = document.createElement("label");
         unsanswered_answers_label.innerText = "Unanswered Questions:";
         unsanswered_answers_label.classList.add("highlight_blue_label");
@@ -255,7 +281,7 @@ export class CardDisplay{
             no_unanswered_label.classList.add("orange_label");
             this.results_div.appendChild(no_unanswered_label);
         }
-        // add another home button
+        // ----------------------- HOME BUTTON ------------------------------
         // create a home button
         this.home_button = document.createElement("button");
         this.home_button.id = "home_button2";

@@ -7,10 +7,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // OBJECTS AND VARIABLES
     let image_folder_path = "./assets/web_images/"
+    let h2_header = document.getElementById("h2_header");
     let div_body = document.getElementById("div_body");
 
     // DISPLAY OBJECTS
-    let links = new Links(div_body, getExam);
+    let links = new Links(h2_header, div_body, getExam);
     let card_display = null;
 
 
@@ -20,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
         let chapter = utils.dataToChapter(data,image_folder_path);
         if(!chapter){console.log("Error in getExam(): chapter is null");return}
         links.hide();
-        card_display = new CardDisplay(div_body, chapter,showHome);
+        card_display = new CardDisplay(h2_header, div_body, chapter,showHome);
     }
     function showHome(){
         card_display.remove();

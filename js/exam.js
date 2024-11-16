@@ -45,6 +45,11 @@ export class Exam{
                 throw new Error("Unexpected question.correct value: " + q.correct);
             }
         });
+        let output = "Results:\n";
+        output += "Correct: " + correct_answers.length + "\n";
+        output += "Incorrect: " + incorrect_answers.length + "\n";
+        output += "Unanswered: " + unanswered_questions.length + "\n";
+        console.log(output);
         return new Results(correct_answers, incorrect_answers, unanswered_questions);
     }
 }
