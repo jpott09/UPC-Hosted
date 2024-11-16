@@ -2,8 +2,20 @@
 <head>
     <charset="UTF-8">
     <title>TMX UPC Home</title>
-    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <script type="module">
+        import {isMobile} from './js/utilities.js';
+        function createLink(path){
+            let link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = path + '?v=' + Date.now();
+            document.head.appendChild(link);
+        }
+        if(isMobile()){createLink('./css/mobile.css')}
+        else{createLink('./css/desktop.css')}
+    </script>
     <script src="js/utilities.js" type="module"></script>
+    <!-- prevent caching css-->
 </head>
 <body>
     <div class="div_header" id="div_header">

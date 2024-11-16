@@ -93,6 +93,7 @@ export class CardDisplay{
         this.previous_button = document.createElement("button");
         this.previous_button.id = "previous_button";
         this.previous_button.innerText = "Previous";
+        this.previous_button.style.borderRadius = "15px 0px 0px 15px";
         this.previous_button.addEventListener("click", () => {
             this.previous();
         });
@@ -108,6 +109,7 @@ export class CardDisplay{
         // create the next button
         this.next_button = document.createElement("button");
         this.next_button.id = "next_button";
+        this.next_button.style.borderRadius = "0px 15px 15px 0px";
         if(this.current_question.number !== this.total_questions){
             this.next_button.innerText = "Next";
         }else{
