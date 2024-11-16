@@ -1,0 +1,791 @@
+{
+    "number": 8,
+    "text": "INDIRECT WASTES",
+    "questions": [
+        {
+            "number": 1,
+            "text": "All indirect waste piping that requires an airgap shall discharge into the building drainage system through _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "an automatic vent"
+                },
+                {
+                    "letter": "B",
+                    "text": "an airgap of two pipe diameters"
+                },
+                {
+                    "letter": "C",
+                    "text": "a drainage airgap of 1 inch minimum"
+                },
+                {
+                    "letter": "D",
+                    "text": "a trap"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "Except for refrigeration coils and ice-making machines, the minimum size of the indirect waste pipe shall not be smaller than the drain on the unit and not smaller than _____ inch(es).",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "3/4"
+                },
+                {
+                    "letter": "B",
+                    "text": "1"
+                },
+                {
+                    "letter": "C",
+                    "text": "1-1/4"
+                },
+                {
+                    "letter": "D",
+                    "text": "1-1/2"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "Floor drains in walk-in coolers shall discharge _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "directly to the main building drain"
+                },
+                {
+                    "letter": "B",
+                    "text": "directly to the exterior of the building"
+                },
+                {
+                    "letter": "C",
+                    "text": "to a separate drainage line discharging into an outside receptor through an airgap or airbreak"
+                },
+                {
+                    "letter": "D",
+                    "text": "to a grease interceptor"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "Drains, overflows, or relief pipes from a water distribution system shall discharge to the building drain by _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "indirect waste by means of a water-distribution airgap"
+                },
+                {
+                    "letter": "B",
+                    "text": "direct connection to the building drain"
+                },
+                {
+                    "letter": "C",
+                    "text": "direct connection to the building drain through a trap"
+                },
+                {
+                    "letter": "D",
+                    "text": "indirect waste piping through a vented trap"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "Stills, sterilizers, and similar equipment that produce waste shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "connected directly to the building drain"
+                },
+                {
+                    "letter": "B",
+                    "text": "directly connected to the building drain using an airbreak"
+                },
+                {
+                    "letter": "C",
+                    "text": "indirectly connected by means of an airgap"
+                },
+                {
+                    "letter": "D",
+                    "text": "indirectly connected to a lavatory tailpiece"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "Devices that are not regularly classified as plumbing fixtures, but which have drip or drainage outlets, shall be drained by _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a connection directly to the building"
+                },
+                {
+                    "letter": "B",
+                    "text": "indirect waste pipes discharging into an open receptor through an airgap or airbreak"
+                },
+                {
+                    "letter": "C",
+                    "text": "indirect waste piping connected to the building drain"
+                },
+                {
+                    "letter": "D",
+                    "text": "direct connection to a storm sewer"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "No plumbing fixture that is receiving discharge from indirect waste pipes shall be installed until first approved by the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "architect"
+                },
+                {
+                    "letter": "B",
+                    "text": "local health department"
+                },
+                {
+                    "letter": "C",
+                    "text": "Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "D",
+                    "text": "mechanical engineer"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "The developed length from the fixture outlet of a bar sink to the receptor shall not exceed _____ feet.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "6"
+                },
+                {
+                    "letter": "B",
+                    "text": "5"
+                },
+                {
+                    "letter": "C",
+                    "text": "3"
+                },
+                {
+                    "letter": "D",
+                    "text": "15"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "All receptors receiving the discharge from indirect waste piping shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "approved for the proposed use"
+                },
+                {
+                    "letter": "B",
+                    "text": "shaped and sized to prevent splashing or flooding"
+                },
+                {
+                    "letter": "C",
+                    "text": "located where they are readily accessible for inspection and cleaning"
+                },
+                {
+                    "letter": "D",
+                    "text": "all of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 10,
+            "text": "A standpipe for a clothes washer shall have a minimum and maximum length of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "4 inches and 12 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "18 inches and 30 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "18 inches and 24 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "12 inches and 36 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 11,
+            "text": "An indirect waste receptor shall not be installed in a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "toilet room"
+                },
+                {
+                    "letter": "B",
+                    "text": "boiler room"
+                },
+                {
+                    "letter": "C",
+                    "text": "commercial kitchen"
+                },
+                {
+                    "letter": "D",
+                    "text": "air compressor equipment room"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "No drain, overflow, or relief vent from a water supply system, or any other discharges under pressure shall be discharge to the drainage system _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "by means of indirect waste through an airgap or airbreak"
+                },
+                {
+                    "letter": "B",
+                    "text": "by direct connection"
+                },
+                {
+                    "letter": "C",
+                    "text": "through the garbage disposal"
+                },
+                {
+                    "letter": "D",
+                    "text": "with a branch wye tailpiece"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "A domestic dishwashing machine shall be connected to the drainage system by using _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a direct connection"
+                },
+                {
+                    "letter": "B",
+                    "text": "a double-check valve"
+                },
+                {
+                    "letter": "C",
+                    "text": "an approved airgap fitting"
+                },
+                {
+                    "letter": "D",
+                    "text": "a hartford loop"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "Drinking fountains may be installed with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a hose connection"
+                },
+                {
+                    "letter": "B",
+                    "text": "a condensate pump"
+                },
+                {
+                    "letter": "C",
+                    "text": "a Hartford loop"
+                },
+                {
+                    "letter": "D",
+                    "text": "indirect waste"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 15,
+            "text": "Water having a temperature above _____ shall not be discharged under pressure directly into the drainage system.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "212\u00b0 F"
+                },
+                {
+                    "letter": "B",
+                    "text": "180\u00b0 F"
+                },
+                {
+                    "letter": "C",
+                    "text": "140\u00b0 F"
+                },
+                {
+                    "letter": "D",
+                    "text": "232\u00b0 F"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 16,
+            "text": "Every indirect waste interceptor receiving discharge containing particles that would clog the receptor drain shall _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "have a readily removable beehive strainer"
+                },
+                {
+                    "letter": "B",
+                    "text": "drain into a funnel connected to the floor sink"
+                },
+                {
+                    "letter": "C",
+                    "text": "be connected directly into the drainage system"
+                },
+                {
+                    "letter": "D",
+                    "text": "both A and B"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 17,
+            "text": "_____ shall not be used for chemical or industrial waste that requires pretreatment.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Glass"
+                },
+                {
+                    "letter": "B",
+                    "text": "PVC"
+                },
+                {
+                    "letter": "C",
+                    "text": "Cast-iron"
+                },
+                {
+                    "letter": "D",
+                    "text": "Copper tube"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 18,
+            "text": "Lead waste pipe that may receive discharge containing acid or corrosive chemicals, and each vent pipe connected to it, shall be not less than _____ wall thickness.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/16 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "3/32 inch"
+                },
+                {
+                    "letter": "C",
+                    "text": "1/8 inch"
+                },
+                {
+                    "letter": "D",
+                    "text": "5/32 inch"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 19,
+            "text": "Whenever practicable, all piping receiving chemical waste shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "concealed"
+                },
+                {
+                    "letter": "B",
+                    "text": "readily accessible"
+                },
+                {
+                    "letter": "C",
+                    "text": "covered"
+                },
+                {
+                    "letter": "D",
+                    "text": "in clear view"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 20,
+            "text": "The owner shall make and keep a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "blueprint of the construction"
+                },
+                {
+                    "letter": "B",
+                    "text": "log of all chemicals used"
+                },
+                {
+                    "letter": "C",
+                    "text": "permanent record of all piping and venting carrying chemical waste"
+                },
+                {
+                    "letter": "D",
+                    "text": "record of materials used for all chemical wastes"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 21,
+            "text": "No chemical waste vent shall _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "terminate outside the building"
+                },
+                {
+                    "letter": "B",
+                    "text": "be connected to any vent from water service lines"
+                },
+                {
+                    "letter": "C",
+                    "text": "intersect vents for other services"
+                },
+                {
+                    "letter": "D",
+                    "text": "connect to any waste line"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 22,
+            "text": "No chemical waste shall be discharged without _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "being properly vented"
+                },
+                {
+                    "letter": "B",
+                    "text": "approval of the local Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "C",
+                    "text": "first going through a chemical waste separator"
+                },
+                {
+                    "letter": "D",
+                    "text": "being properly trapped"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 23,
+            "text": "Water lifts, expansion tanks, cooling jackets, sprinkler systems, drip or overflow pans, and other similar devices that discharge clear wastewater into the building drainage system shall _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "be directly trapped"
+                },
+                {
+                    "letter": "B",
+                    "text": "be discharged into an interceptor"
+                },
+                {
+                    "letter": "C",
+                    "text": "discharge through an indirect waste"
+                },
+                {
+                    "letter": "D",
+                    "text": "be individually vented"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 24,
+            "text": "Pipes carrying wastewater from swimming or wading pools,including pool drainage,backwash from filters, and discharge from pumps, shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "directly connected to the building drain and properly trapped and vented"
+                },
+                {
+                    "letter": "B",
+                    "text": "connected to an interceptor"
+                },
+                {
+                    "letter": "C",
+                    "text": "connected to a holding tank"
+                },
+                {
+                    "letter": "D",
+                    "text": "installed as an indirect waste"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 25,
+            "text": "When discharged into the drainage system, condensate shall drain by means of a/an _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "indirect waste pipe"
+                },
+                {
+                    "letter": "B",
+                    "text": "direct waste pipe"
+                },
+                {
+                    "letter": "C",
+                    "text": "Johnson Tee"
+                },
+                {
+                    "letter": "D",
+                    "text": "backflow preventer"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 26,
+            "text": "Condensate or wastewater shall not drain over _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "dry wells"
+                },
+                {
+                    "letter": "B",
+                    "text": "a public way"
+                },
+                {
+                    "letter": "C",
+                    "text": "leach pits"
+                },
+                {
+                    "letter": "D",
+                    "text": "the tailpiece of plumbing fixtures"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 27,
+            "text": "Condensate from fuel-burning condensing appliances shall be collected and discharged _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "to a planter box"
+                },
+                {
+                    "letter": "B",
+                    "text": "to a public way"
+                },
+                {
+                    "letter": "C",
+                    "text": "to an approved plumbing fixture or disposal area"
+                },
+                {
+                    "letter": "D",
+                    "text": "directly connect to the building sewer"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 28,
+            "text": "If the trap from a sink located in a bar cannot be vented, _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the drain shall discharge through an airgap or airbreak into an approved receptor that is vented"
+                },
+                {
+                    "letter": "B",
+                    "text": "the fixture must be relocated"
+                },
+                {
+                    "letter": "C",
+                    "text": "the discharge may be pumped to an approved receptor"
+                },
+                {
+                    "letter": "D",
+                    "text": "a drum trap shall be used"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 29,
+            "text": "The minimum size condensate waste pipe from a 12-ton refrigeration unit is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "3/4 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "1 inch"
+                },
+                {
+                    "letter": "C",
+                    "text": "1-1/4 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "1-1/2 inches"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "C"
+        },
+        {
+            "number": 2,
+            "letter": "B"
+        },
+        {
+            "number": 3,
+            "letter": "C"
+        },
+        {
+            "number": 4,
+            "letter": "A"
+        },
+        {
+            "number": 5,
+            "letter": "C"
+        },
+        {
+            "number": 6,
+            "letter": "B"
+        },
+        {
+            "number": 7,
+            "letter": "C"
+        },
+        {
+            "number": 8,
+            "letter": "B"
+        },
+        {
+            "number": 9,
+            "letter": "D"
+        },
+        {
+            "number": 10,
+            "letter": "B"
+        },
+        {
+            "number": 11,
+            "letter": "A"
+        },
+        {
+            "number": 12,
+            "letter": "B"
+        },
+        {
+            "number": 13,
+            "letter": "C"
+        },
+        {
+            "number": 14,
+            "letter": "D"
+        },
+        {
+            "number": 15,
+            "letter": "C"
+        },
+        {
+            "number": 16,
+            "letter": "A"
+        },
+        {
+            "number": 17,
+            "letter": "D"
+        },
+        {
+            "number": 18,
+            "letter": "C"
+        },
+        {
+            "number": 19,
+            "letter": "B"
+        },
+        {
+            "number": 20,
+            "letter": "C"
+        },
+        {
+            "number": 21,
+            "letter": "C"
+        },
+        {
+            "number": 22,
+            "letter": "B"
+        },
+        {
+            "number": 23,
+            "letter": "C"
+        },
+        {
+            "number": 24,
+            "letter": "D"
+        },
+        {
+            "number": 25,
+            "letter": "A"
+        },
+        {
+            "number": 26,
+            "letter": "B"
+        },
+        {
+            "number": 27,
+            "letter": "C"
+        },
+        {
+            "number": 28,
+            "letter": "A"
+        },
+        {
+            "number": 29,
+            "letter": "A"
+        }
+    ]
+}

@@ -1,0 +1,1871 @@
+{
+    "number": 6,
+    "text": "WATER SUPPLY AND DISTRIBUTION",
+    "questions": [
+        {
+            "number": 1,
+            "text": "The code requirement for \u201can adequate supply of potable running water\u201d is for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "cleansing and sanitation"
+                },
+                {
+                    "letter": "B",
+                    "text": "protection of trap seals"
+                },
+                {
+                    "letter": "C",
+                    "text": "water-cooled equipment"
+                },
+                {
+                    "letter": "D",
+                    "text": "hydronic systems"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "The primary reason for installing backflow prevention assemblies is to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "prevent excessive pressure"
+                },
+                {
+                    "letter": "B",
+                    "text": "prevent mixing of hot and cold water"
+                },
+                {
+                    "letter": "C",
+                    "text": "prevent pollution or contamination of the potable water supply"
+                },
+                {
+                    "letter": "D",
+                    "text": "prevent scalding"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "Ballcocks in water closet tanks shall be installed so that the critical level of the water inlet is above the full opening of the overflow pipe at least _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/2 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "1 inch"
+                },
+                {
+                    "letter": "C",
+                    "text": "3 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "6 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "(choose the answer you think is correct for the minimum height of the atmospheric vacuum breaker critical level above the point specified. ) Above the highest part of a urinal equipped with a flushometer valve: _____",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "3 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "6 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "12 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "(choose the answer you think is correct for the minimum height of the atmospheric vacuum breaker critical level above the point specified. ) Above the overflow rim of a tank, vat or swimming pool: _____",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "6 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "12 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "Above all downstream piping for lawn sprinkler system: _____",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "6 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "12 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "24 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "PEX tubing shall not be installed within the first _____ of piping connected to a water heater.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "12 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "18 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "24 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "36 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "Each outlet on a nonpotable water system that is used for special purposes shall be posted _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "DANGER \u2013 PROCESSED WATER"
+                },
+                {
+                    "letter": "B",
+                    "text": "DANGER \u2013 CONTAMINATED WATER"
+                },
+                {
+                    "letter": "C",
+                    "text": "DANGER \u2013 POLLUTED WATER"
+                },
+                {
+                    "letter": "D",
+                    "text": "CAUTION \u2013 NONPOTABLE WATER DO NOT DRINK"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "The piping material or materials not approved in the cold water piping located inside a building is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "PVC"
+                },
+                {
+                    "letter": "B",
+                    "text": "PE"
+                },
+                {
+                    "letter": "C",
+                    "text": "asbestos cement"
+                },
+                {
+                    "letter": "D",
+                    "text": "all of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 10,
+            "text": "All malleable iron water fittings shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2 inch or smaller"
+                },
+                {
+                    "letter": "B",
+                    "text": "galvanized"
+                },
+                {
+                    "letter": "C",
+                    "text": "flanged"
+                },
+                {
+                    "letter": "D",
+                    "text": "removed"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 11,
+            "text": "Water valves 2-1/2 inches and larger may have bodies that are _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "galvanized"
+                },
+                {
+                    "letter": "B",
+                    "text": "die-cast"
+                },
+                {
+                    "letter": "C",
+                    "text": "aluminum core"
+                },
+                {
+                    "letter": "D",
+                    "text": "cast iron"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "Changes in direction of copper tubing may be made with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "non deforming bending equipment"
+                },
+                {
+                    "letter": "B",
+                    "text": "heat annealing"
+                },
+                {
+                    "letter": "C",
+                    "text": "ferrous fittings"
+                },
+                {
+                    "letter": "D",
+                    "text": "plastic fittings"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "Water piping systems shall be designed on the basis of the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "maximum pressure"
+                },
+                {
+                    "letter": "B",
+                    "text": "minimum pressure"
+                },
+                {
+                    "letter": "C",
+                    "text": "average residual pressure"
+                },
+                {
+                    "letter": "D",
+                    "text": "average service pressure"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "Copper water tube Type \u201cM\u201d may be installed within a building _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "below slab only"
+                },
+                {
+                    "letter": "B",
+                    "text": "above ground only"
+                },
+                {
+                    "letter": "C",
+                    "text": "for cold water only"
+                },
+                {
+                    "letter": "D",
+                    "text": "if it is wrapped"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 15,
+            "text": "Immediately ahead of each water-supplied appliance and each slip joint or appliance supply is required a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "control valve"
+                },
+                {
+                    "letter": "B",
+                    "text": "check valve"
+                },
+                {
+                    "letter": "C",
+                    "text": "backwater valve"
+                },
+                {
+                    "letter": "D",
+                    "text": "solenoid valve"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 16,
+            "text": "After allowing for friction and other pressure losses, the residual water pressure shall be at least _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": ".433 psi"
+                },
+                {
+                    "letter": "B",
+                    "text": "7.5 psi"
+                },
+                {
+                    "letter": "C",
+                    "text": "15 psi"
+                },
+                {
+                    "letter": "D",
+                    "text": "29 psi"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 17,
+            "text": "A water piping system with a pressure of 110 psi will require a/an _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "reduced pressure backflow device"
+                },
+                {
+                    "letter": "B",
+                    "text": "extra-heavy pipe and fittings"
+                },
+                {
+                    "letter": "C",
+                    "text": "pressure regulator and strainer"
+                },
+                {
+                    "letter": "D",
+                    "text": "pressure-relief valve"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 18,
+            "text": "Any water heater connected to a separate storage tank and having valves between the heater and tank shall be provided with a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "fulIway valve"
+                },
+                {
+                    "letter": "B",
+                    "text": "fulIway gate valve"
+                },
+                {
+                    "letter": "C",
+                    "text": "water pressure regulator"
+                },
+                {
+                    "letter": "D",
+                    "text": "water pressure-relief valve"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 19,
+            "text": "Combination temperature and pressure relief valves shall be installed _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "based on their listing requirements and the manufacturer\u2019s instructions"
+                },
+                {
+                    "letter": "B",
+                    "text": "within 3 inches to 6 inches of the water heater"
+                },
+                {
+                    "letter": "C",
+                    "text": "in lieu of pressure-relief valves"
+                },
+                {
+                    "letter": "D",
+                    "text": "on all nonstorage-type water heaters"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 20,
+            "text": "Galvanized steel piping installed under a concrete floor slab within a building shall _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "have a machine-applied coating"
+                },
+                {
+                    "letter": "B",
+                    "text": "have a spiral wrap"
+                },
+                {
+                    "letter": "C",
+                    "text": "be installed without joints"
+                },
+                {
+                    "letter": "D",
+                    "text": "be installed with brazed joints"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 21,
+            "text": "Cast-iron fittings, up to and including two inches in size, when used in connection with potable water piping, shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "extra heavy"
+                },
+                {
+                    "letter": "B",
+                    "text": "flanged"
+                },
+                {
+                    "letter": "C",
+                    "text": "disallowed"
+                },
+                {
+                    "letter": "D",
+                    "text": "galvanized"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 22,
+            "text": "Water piping may be installed in the same trench with less than 12 inches of separation from a building sewer constructed of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "cast iron"
+                },
+                {
+                    "letter": "B",
+                    "text": "clay"
+                },
+                {
+                    "letter": "C",
+                    "text": "asbestos cement"
+                },
+                {
+                    "letter": "D",
+                    "text": "bituminized fiber"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 23,
+            "text": "The available pressure at the water meter is 80 psi. At the highest supply outlet, 36 feet above the water meter, the pressure would be _____ psi when sizing a water system according to Chapter 6.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "62"
+                },
+                {
+                    "letter": "B",
+                    "text": "44"
+                },
+                {
+                    "letter": "C",
+                    "text": "116"
+                },
+                {
+                    "letter": "D",
+                    "text": "80"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 24,
+            "text": "Building supplies shall be no smaller than that required for the installation and, in no case, smaller than _____ inch(es).",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/2"
+                },
+                {
+                    "letter": "B",
+                    "text": "3/4"
+                },
+                {
+                    "letter": "C",
+                    "text": "1"
+                },
+                {
+                    "letter": "D",
+                    "text": "2"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 25,
+            "text": "Copper tubing used for water piping under a concrete slab within a building shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "installed with brazed joints with cast brass fittings"
+                },
+                {
+                    "letter": "B",
+                    "text": "protected with a factory-applied coating"
+                },
+                {
+                    "letter": "C",
+                    "text": "installed without joints where possible"
+                },
+                {
+                    "letter": "D",
+                    "text": "installed with Type K copper tube with brazed joints"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 26,
+            "text": "CPVC water pipe may be used for hot and cold water distribution systems _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "in residences only"
+                },
+                {
+                    "letter": "B",
+                    "text": "within a building"
+                },
+                {
+                    "letter": "C",
+                    "text": "belowground only"
+                },
+                {
+                    "letter": "D",
+                    "text": "aboveground only"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 27,
+            "text": "Copper or stainless steel flexible connectors for water heater connectors shall be limited to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "12 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "18 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "24 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "36 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 28,
+            "text": "Unions shall be installed in a water supply system within 12 inches of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "water heating tanks"
+                },
+                {
+                    "letter": "B",
+                    "text": "conditioning tanks"
+                },
+                {
+                    "letter": "C",
+                    "text": "regulating equipment"
+                },
+                {
+                    "letter": "D",
+                    "text": "all of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 29,
+            "text": "The type of valve required on a building supply to any building is a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "fullway valve"
+                },
+                {
+                    "letter": "B",
+                    "text": "corporation valve"
+                },
+                {
+                    "letter": "C",
+                    "text": "butterfly valve"
+                },
+                {
+                    "letter": "D",
+                    "text": "globe valve"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 30,
+            "text": "All backflow devices or assemblies shall be tested by a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "licensed agent"
+                },
+                {
+                    "letter": "B",
+                    "text": "representative from the Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "C",
+                    "text": "certified backflow assembly tester"
+                },
+                {
+                    "letter": "D",
+                    "text": "third-party certified agency"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 31,
+            "text": "Other than systems sized by the use of Table 610. 4, the maximum velocity of a cold water system containing copper and copper alloy tube and fittings shall be limited to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "5 feet per second"
+                },
+                {
+                    "letter": "B",
+                    "text": "8 feet per second"
+                },
+                {
+                    "letter": "C",
+                    "text": "10 feet per second"
+                },
+                {
+                    "letter": "D",
+                    "text": "15 feet per second"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 32,
+            "text": "Discharge piping serving a pressure-relief shall be provided with a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "full size drain"
+                },
+                {
+                    "letter": "B",
+                    "text": "check valve to prevent backflow"
+                },
+                {
+                    "letter": "C",
+                    "text": "trapped drain line"
+                },
+                {
+                    "letter": "D",
+                    "text": "drain that terminates 30 inches or more above grade"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 33,
+            "text": "The quantity of water required to be supplied to every plumbing fixture shall be represented by _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "gallons per minute"
+                },
+                {
+                    "letter": "B",
+                    "text": "feet per second"
+                },
+                {
+                    "letter": "C",
+                    "text": "fixture units"
+                },
+                {
+                    "letter": "D",
+                    "text": "available head pressure"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 34,
+            "text": "The size and material of irrigation water piping installed outside of any building and separated from the potable water supply by means of an approved backflow prevention device is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "regulated by code"
+                },
+                {
+                    "letter": "B",
+                    "text": "not regulated by code"
+                },
+                {
+                    "letter": "C",
+                    "text": "regulated by the National Sanitation Foundation"
+                },
+                {
+                    "letter": "D",
+                    "text": "regulated by the American Society of Sanitary Engineers"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 35,
+            "text": "Hard-drawn copper tubing, marked with a blue stripe, is referred to as _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Type \u201cK\u201d"
+                },
+                {
+                    "letter": "B",
+                    "text": "Type \u201cL\u201d"
+                },
+                {
+                    "letter": "C",
+                    "text": "Type \u201cM\u201d"
+                },
+                {
+                    "letter": "D",
+                    "text": "Type \u201cDWV\u201d"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 36,
+            "text": "The color stripe on Type \u201cK\u201d hard-drawn copper tubing is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "green"
+                },
+                {
+                    "letter": "B",
+                    "text": "blue"
+                },
+                {
+                    "letter": "C",
+                    "text": "red"
+                },
+                {
+                    "letter": "D",
+                    "text": "yellow"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 37,
+            "text": "Flaring tools are used to make joints for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "hard Type K copper tubing"
+                },
+                {
+                    "letter": "B",
+                    "text": "soft copper water tubing"
+                },
+                {
+                    "letter": "C",
+                    "text": "yellow brass water piping"
+                },
+                {
+                    "letter": "D",
+                    "text": "aluminum water piping"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 38,
+            "text": "The distance between a water heater and the union on the waterlines shall not be more than inches.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "6"
+                },
+                {
+                    "letter": "B",
+                    "text": "12"
+                },
+                {
+                    "letter": "C",
+                    "text": "18"
+                },
+                {
+                    "letter": "D",
+                    "text": "24"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 39,
+            "text": "Whenever fixtures and/or fixture fittings are installed that require a residual water pressure higher than 15 pounds per square inch _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "that minimum pressure shall be provided"
+                },
+                {
+                    "letter": "B",
+                    "text": "provisions shall be made to use fixtures that do not require higher residual pressure"
+                },
+                {
+                    "letter": "C",
+                    "text": "the piping system shall be not less than copper tubing Type L"
+                },
+                {
+                    "letter": "D",
+                    "text": "A and C apply"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 40,
+            "text": "_____ water piping systems shall be permitted to be tested with air.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "PVC"
+                },
+                {
+                    "letter": "B",
+                    "text": "PEX"
+                },
+                {
+                    "letter": "C",
+                    "text": "CPVC"
+                },
+                {
+                    "letter": "D",
+                    "text": "PB"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 41,
+            "text": "The duration for a water system pressure test shall be for a period of not less than _____ minutes.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "5"
+                },
+                {
+                    "letter": "B",
+                    "text": "10"
+                },
+                {
+                    "letter": "C",
+                    "text": "15"
+                },
+                {
+                    "letter": "D",
+                    "text": "30"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 42,
+            "text": "In occupancies where plumbing fixtures are installed for _____, hot water shall be required for bathing, washing, laundry, cooking and similar purposes.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "public use"
+                },
+                {
+                    "letter": "B",
+                    "text": "commercial use"
+                },
+                {
+                    "letter": "C",
+                    "text": "private use"
+                },
+                {
+                    "letter": "D",
+                    "text": "daycare facilities"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 43,
+            "text": "Except as required in Section 601. 3. 3,non potable water systems shall have a with black uppercase lettering, with the words \u201cCAUTION: NONPOTABLE WATER, DO NOT DRINK. \u201d",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "white background"
+                },
+                {
+                    "letter": "B",
+                    "text": "blue background"
+                },
+                {
+                    "letter": "C",
+                    "text": "green background"
+                },
+                {
+                    "letter": "D",
+                    "text": "yellow background"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 44,
+            "text": "Plastic materials for _____ piping outside underground shall have an electrically continuous corrosion- resistant blue insulated copper tracer wire or other approved conductor installed adjacent to the piping.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "building supply"
+                },
+                {
+                    "letter": "B",
+                    "text": "well"
+                },
+                {
+                    "letter": "C",
+                    "text": "irrigation"
+                },
+                {
+                    "letter": "D",
+                    "text": "hose bibb"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 45,
+            "text": "Any water system that prevents dissipation of building pressure back into the water main shall be provided with an approved, listed, and adequately sized _____ or other approved device.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "double-check valve"
+                },
+                {
+                    "letter": "B",
+                    "text": "expansion tank"
+                },
+                {
+                    "letter": "C",
+                    "text": "temperature & pressure relief valve"
+                },
+                {
+                    "letter": "D",
+                    "text": "PRV"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 46,
+            "text": "Pipe joint material shall be insoluble in water, nontoxic, and applied _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "on male threads only"
+                },
+                {
+                    "letter": "B",
+                    "text": "on pipe threads and inside fittings"
+                },
+                {
+                    "letter": "C",
+                    "text": "on inside fitting threads only"
+                },
+                {
+                    "letter": "D",
+                    "text": "in warm weather onIy"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 47,
+            "text": "Surfaces to be joined by soldering or brazing shall be cleaned bright by _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "mechanical or manual means"
+                },
+                {
+                    "letter": "B",
+                    "text": "a self-cleaning flux"
+                },
+                {
+                    "letter": "C",
+                    "text": "a corrosive flux"
+                },
+                {
+                    "letter": "D",
+                    "text": "sulfuric acid"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 48,
+            "text": "Solder and fluxes used in piping systems conveying potable water are prohibited when the lead content exceeds _____ percent.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "0.2"
+                },
+                {
+                    "letter": "B",
+                    "text": "0.5"
+                },
+                {
+                    "letter": "C",
+                    "text": "1"
+                },
+                {
+                    "letter": "D",
+                    "text": "1.5"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 49,
+            "text": "The minimum wall thickness for threaded plastic pipe (not molded fittings) shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Schedule 40"
+                },
+                {
+                    "letter": "B",
+                    "text": "ScheduIe 80"
+                },
+                {
+                    "letter": "C",
+                    "text": "1/8 inch"
+                },
+                {
+                    "letter": "D",
+                    "text": "1/16 inch"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 50,
+            "text": "When brazing, the alloys shall have a liquid temperature above _____ degrees F.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "800"
+                },
+                {
+                    "letter": "B",
+                    "text": "840"
+                },
+                {
+                    "letter": "C",
+                    "text": "1,000"
+                },
+                {
+                    "letter": "D",
+                    "text": "1,200"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 51,
+            "text": "A push-fit fitting is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "assembled using excessive force"
+                },
+                {
+                    "letter": "B",
+                    "text": "assembled by pushing tube/pipe into the fitting and is sealed with an \u201cO\u201d ring that forms the joint"
+                },
+                {
+                    "letter": "C",
+                    "text": "prohibited by Code"
+                },
+                {
+                    "letter": "D",
+                    "text": "permitted to be installed in accessible locations only"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 52,
+            "text": "Heat-fusion weld joints _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "are used in some thermoplastic systems"
+                },
+                {
+                    "letter": "B",
+                    "text": "are low-temperature, metallic pipe welds"
+                },
+                {
+                    "letter": "C",
+                    "text": "require prior approval of an Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "D",
+                    "text": "may be used in drainage systems but not pressure systems"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 53,
+            "text": "_____ systems shall be clearly identified, have a purple background with uppercase yellow lettering.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Gray water"
+                },
+                {
+                    "letter": "B",
+                    "text": "Reclaimed"
+                },
+                {
+                    "letter": "C",
+                    "text": "Rainwater catchment"
+                },
+                {
+                    "letter": "D",
+                    "text": "None of those listed"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 54,
+            "text": "The area of coverage of a single fire sprinkler shall not exceed _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "100 square feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "200 square feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "300 square feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "400 square feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 55,
+            "text": "What size drain for the fire sprinkler system shall be provided on the system side of the water distribution shut off valve? _____",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1\u20442 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "3\u20444 inch"
+                },
+                {
+                    "letter": "C",
+                    "text": "1 inch"
+                },
+                {
+                    "letter": "D",
+                    "text": "1-1\u20442 inch"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 56,
+            "text": "Nonmetallic pipe and tubing for fire sprinklers shall be protected from exposure to the occupied space by a material having a minimum fire rating of _____ minutes?",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "15"
+                },
+                {
+                    "letter": "B",
+                    "text": "30"
+                },
+                {
+                    "letter": "C",
+                    "text": "45"
+                },
+                {
+                    "letter": "D",
+                    "text": "60"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 57,
+            "text": "In locations where intermediate temperature sprinklers are required, the minimum distance from a kitchen range top (heat source) is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "6 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "9 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "18 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "24 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 58,
+            "text": "The minimum separation from a wood burning stove to a fire sprinkler shall be measured in a straight line from the nearest edge of the sprinkler to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the centerline of the wood burning stove"
+                },
+                {
+                    "letter": "B",
+                    "text": "the nearest edge of the wood burning stove"
+                },
+                {
+                    "letter": "C",
+                    "text": "the far edge of the wood burning stove"
+                },
+                {
+                    "letter": "D",
+                    "text": "the nearest igniter"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 59,
+            "text": "The sprinkler pipe size from the water supply source to a sprinkler shall not be less than _____ inch.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "3/8"
+                },
+                {
+                    "letter": "B",
+                    "text": "1/2"
+                },
+                {
+                    "letter": "C",
+                    "text": "3/4"
+                },
+                {
+                    "letter": "D",
+                    "text": "1"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 60,
+            "text": "What is the minimum temperature rating of intermediate temperature fire sprinklers when installed in attics and concealed spaces directly beneath a roof? _____",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "135\u00b0 F"
+                },
+                {
+                    "letter": "B",
+                    "text": "170\u00b0 F"
+                },
+                {
+                    "letter": "C",
+                    "text": "175\u00b0 F"
+                },
+                {
+                    "letter": "D",
+                    "text": "225\u00b0 F"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 61,
+            "text": "The water distribution size of the fire sprinkler system in a single-family home has been determined to be 1 inch. The available pressure at the service is 55 psi. The water meter listing specifies a flow rate of 14 gpm. With a water service developed length of 38 feet, the available psi for fire sprinklers is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "49.8"
+                },
+                {
+                    "letter": "B",
+                    "text": "50.8"
+                },
+                {
+                    "letter": "C",
+                    "text": "51.8"
+                },
+                {
+                    "letter": "D",
+                    "text": "55.0"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 62,
+            "text": "The minimum water test time for a fire sprinkler system is _____ minutes.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "15"
+                },
+                {
+                    "letter": "B",
+                    "text": "30"
+                },
+                {
+                    "letter": "C",
+                    "text": "60"
+                },
+                {
+                    "letter": "D",
+                    "text": "120"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 63,
+            "text": "Nonmetallic fire sprinkler pipe shall be certified for residential sprinkler installations and shall have a pressure rating of not less than _____ psi at 120\u00b0 F.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "100"
+                },
+                {
+                    "letter": "B",
+                    "text": "120"
+                },
+                {
+                    "letter": "C",
+                    "text": "130"
+                },
+                {
+                    "letter": "D",
+                    "text": "150"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 64,
+            "text": "The water supply for a one story dwelling unit of 1785 square feet shall have the capacity to provide the required flow rate to the sprinklers for a period _____ minutes.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "5"
+                },
+                {
+                    "letter": "B",
+                    "text": "7"
+                },
+                {
+                    "letter": "C",
+                    "text": "10"
+                },
+                {
+                    "letter": "D",
+                    "text": "15"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 65,
+            "text": "Which of the following is an approved method of protecting the water supply for a chemical dispenser?",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Double check assembly"
+                },
+                {
+                    "letter": "B",
+                    "text": "Air gap"
+                },
+                {
+                    "letter": "C",
+                    "text": "Check valve"
+                },
+                {
+                    "letter": "D",
+                    "text": "Not needed"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 66,
+            "text": "A _____ joint is an example of a mechanical joint for CPVC Plastic pipe.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "welded"
+                },
+                {
+                    "letter": "B",
+                    "text": "soldered"
+                },
+                {
+                    "letter": "C",
+                    "text": "solvent welded"
+                },
+                {
+                    "letter": "D",
+                    "text": "flanged"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 67,
+            "text": "Fittings that employ a quick assembly push fit connector shall comply with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "ASSE 1053"
+                },
+                {
+                    "letter": "B",
+                    "text": "ASSE 1061"
+                },
+                {
+                    "letter": "C",
+                    "text": "ASSE 1069"
+                },
+                {
+                    "letter": "D",
+                    "text": "ASSE 1079"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 68,
+            "text": "PVC water pipe, that is smaller in diameter than 24 inches that is exposed to direct sunlight shall be protected by a wrap of no less than _____ of an inch to protect the piping from UV degradation.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": ".04"
+                },
+                {
+                    "letter": "B",
+                    "text": ".05"
+                },
+                {
+                    "letter": "C",
+                    "text": ".07"
+                },
+                {
+                    "letter": "D",
+                    "text": ".09"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 69,
+            "text": "A type of plastic water piping that may be tested with air is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "PVC"
+                },
+                {
+                    "letter": "B",
+                    "text": "CPVC"
+                },
+                {
+                    "letter": "C",
+                    "text": "PP"
+                },
+                {
+                    "letter": "D",
+                    "text": "PEX"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "A"
+        },
+        {
+            "number": 2,
+            "letter": "C"
+        },
+        {
+            "number": 3,
+            "letter": "B"
+        },
+        {
+            "number": 4,
+            "letter": "C"
+        },
+        {
+            "number": 5,
+            "letter": "C"
+        },
+        {
+            "number": 6,
+            "letter": "B"
+        },
+        {
+            "number": 7,
+            "letter": "B"
+        },
+        {
+            "number": 8,
+            "letter": "D"
+        },
+        {
+            "number": 9,
+            "letter": "D"
+        },
+        {
+            "number": 10,
+            "letter": "B"
+        },
+        {
+            "number": 11,
+            "letter": "D"
+        },
+        {
+            "number": 12,
+            "letter": "A"
+        },
+        {
+            "number": 13,
+            "letter": "B"
+        },
+        {
+            "number": 14,
+            "letter": "B"
+        },
+        {
+            "number": 15,
+            "letter": "A"
+        },
+        {
+            "number": 16,
+            "letter": "C"
+        },
+        {
+            "number": 17,
+            "letter": "C"
+        },
+        {
+            "number": 18,
+            "letter": "D"
+        },
+        {
+            "number": 19,
+            "letter": "A"
+        },
+        {
+            "number": 20,
+            "letter": "A"
+        },
+        {
+            "number": 21,
+            "letter": "D"
+        },
+        {
+            "number": 22,
+            "letter": "A"
+        },
+        {
+            "number": 23,
+            "letter": "A"
+        },
+        {
+            "number": 24,
+            "letter": "B"
+        },
+        {
+            "number": 25,
+            "letter": "C"
+        },
+        {
+            "number": 26,
+            "letter": "B"
+        },
+        {
+            "number": 27,
+            "letter": "C"
+        },
+        {
+            "number": 28,
+            "letter": "D"
+        },
+        {
+            "number": 29,
+            "letter": "A"
+        },
+        {
+            "number": 30,
+            "letter": "C"
+        },
+        {
+            "number": 31,
+            "letter": "B"
+        },
+        {
+            "number": 32,
+            "letter": "A"
+        },
+        {
+            "number": 33,
+            "letter": "C"
+        },
+        {
+            "number": 34,
+            "letter": "B"
+        },
+        {
+            "number": 35,
+            "letter": "B"
+        },
+        {
+            "number": 36,
+            "letter": "A"
+        },
+        {
+            "number": 37,
+            "letter": "B"
+        },
+        {
+            "number": 38,
+            "letter": "B"
+        },
+        {
+            "number": 39,
+            "letter": "A"
+        },
+        {
+            "number": 40,
+            "letter": "B"
+        },
+        {
+            "number": 41,
+            "letter": "C"
+        },
+        {
+            "number": 42,
+            "letter": "C"
+        },
+        {
+            "number": 43,
+            "letter": "D"
+        },
+        {
+            "number": 44,
+            "letter": "A"
+        },
+        {
+            "number": 45,
+            "letter": "B"
+        },
+        {
+            "number": 46,
+            "letter": "A"
+        },
+        {
+            "number": 47,
+            "letter": "A"
+        },
+        {
+            "number": 48,
+            "letter": "A"
+        },
+        {
+            "number": 49,
+            "letter": "B"
+        },
+        {
+            "number": 50,
+            "letter": "C"
+        },
+        {
+            "number": 51,
+            "letter": "B"
+        },
+        {
+            "number": 52,
+            "letter": "A"
+        },
+        {
+            "number": 53,
+            "letter": "D"
+        },
+        {
+            "number": 54,
+            "letter": "D"
+        },
+        {
+            "number": 55,
+            "letter": "A"
+        },
+        {
+            "number": 56,
+            "letter": "A"
+        },
+        {
+            "number": 57,
+            "letter": "B"
+        },
+        {
+            "number": 58,
+            "letter": "B"
+        },
+        {
+            "number": 59,
+            "letter": "C"
+        },
+        {
+            "number": 60,
+            "letter": "C"
+        },
+        {
+            "number": 61,
+            "letter": "A"
+        },
+        {
+            "number": 62,
+            "letter": "A"
+        },
+        {
+            "number": 63,
+            "letter": "C"
+        },
+        {
+            "number": 64,
+            "letter": "B"
+        },
+        {
+            "number": 65,
+            "letter": "B"
+        },
+        {
+            "number": 66,
+            "letter": "D"
+        },
+        {
+            "number": 67,
+            "letter": "B"
+        },
+        {
+            "number": 68,
+            "letter": "A"
+        },
+        {
+            "number": 69,
+            "letter": "D"
+        }
+    ]
+}

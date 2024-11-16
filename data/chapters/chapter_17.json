@@ -1,0 +1,702 @@
+{
+    "number": 17,
+    "text": "REFERENCED STANDARDS",
+    "questions": [
+        {
+            "number": 1,
+            "text": "The standards listed in Table 1701. 1 are intended for use in the design, testing, and installation of materials, devices, appliances, and equipment regulated by this code.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "true"
+                },
+                {
+                    "letter": "B",
+                    "text": "false"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "The approved standards for gas storage water heaters are developed by _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "CSA"
+                },
+                {
+                    "letter": "B",
+                    "text": "ASTM"
+                },
+                {
+                    "letter": "C",
+                    "text": "ASME"
+                },
+                {
+                    "letter": "D",
+                    "text": "UL"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "\u201cPiping, Ferrous\u201d would include _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "copper"
+                },
+                {
+                    "letter": "B",
+                    "text": "clay"
+                },
+                {
+                    "letter": "C",
+                    "text": "steel"
+                },
+                {
+                    "letter": "D",
+                    "text": "plastic"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "Backwater valves are found listed under _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "AHAM DWI"
+                },
+                {
+                    "letter": "B",
+                    "text": "ASTM F667"
+                },
+                {
+                    "letter": "C",
+                    "text": "ASME A112.14.1"
+                },
+                {
+                    "letter": "D",
+                    "text": "NSF 61"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "ANSI stands for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "American National Standards Institute"
+                },
+                {
+                    "letter": "B",
+                    "text": "American National Steel Institute"
+                },
+                {
+                    "letter": "C",
+                    "text": "American National Service Institution"
+                },
+                {
+                    "letter": "D",
+                    "text": "American National Standards International"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "In the application column of Table 1701. 1, \u201cPiping, Ferrous,\u201d the standard for stainless steel pipe is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "ASTM A 312/312M-2016A"
+                },
+                {
+                    "letter": "B",
+                    "text": "ASME B36.19-2004"
+                },
+                {
+                    "letter": "C",
+                    "text": "none of the above"
+                },
+                {
+                    "letter": "D",
+                    "text": "both A and B apply"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "Listed as \u201cFuel Gas, Appliances,\u201d draft hoods are constructed to standard _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "CSA Z21.12b-1994"
+                },
+                {
+                    "letter": "B",
+                    "text": "CSA Z21.13-90"
+                },
+                {
+                    "letter": "C",
+                    "text": "ANSI Z21. 90"
+                },
+                {
+                    "letter": "D",
+                    "text": "ANSI Z121.12-90"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "Professional qualifications standards for medical gas systems personnel are certified to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "ASSE Series 5000-2015"
+                },
+                {
+                    "letter": "B",
+                    "text": "ASSE Series 6000-2015"
+                },
+                {
+                    "letter": "C",
+                    "text": "NFPA 85-2011"
+                },
+                {
+                    "letter": "D",
+                    "text": "NFPA 99-2015"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "Flexible water connectors (Application - Piping) are listed under _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "ASME A112.18.6- 2009"
+                },
+                {
+                    "letter": "B",
+                    "text": "ASMEA1112.18.6.99"
+                },
+                {
+                    "letter": "C",
+                    "text": "ASTM 112.8.6-2001"
+                },
+                {
+                    "letter": "D",
+                    "text": "ASMEA12.1.6-2000"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 10,
+            "text": "ASME A112. 19. 1-2013 (Enameled Cast-Iron Plumbing Fixtures) is also known as _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "ASME A112.19.19-2006"
+                },
+                {
+                    "letter": "B",
+                    "text": "ASTM D2774-2012"
+                },
+                {
+                    "letter": "C",
+                    "text": "CSA B45.0-2002"
+                },
+                {
+                    "letter": "D",
+                    "text": "CSA B45.2-2013"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 11,
+            "text": "In the \u201capplication\u201d column of Table 1701. 1 titled \u201cFixtures, \u201d the correct standard for Hydromassage Bathtub System would be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "ASME A112.19.7-2012"
+                },
+                {
+                    "letter": "B",
+                    "text": "ASME A112.19.3-2008"
+                },
+                {
+                    "letter": "C",
+                    "text": "CSA B45.10-2012"
+                },
+                {
+                    "letter": "D",
+                    "text": "A or C apply"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "ASME B16. 4-2011 in Table 1701. 1 is classified under the application of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "joints"
+                },
+                {
+                    "letter": "B",
+                    "text": "fuel gas"
+                },
+                {
+                    "letter": "C",
+                    "text": "fittings"
+                },
+                {
+                    "letter": "D",
+                    "text": "miscellaneous"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "ASME B16. 15-2013 (Cast Copper Alloy Threaded Fittings) covers classes _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "125 and 200"
+                },
+                {
+                    "letter": "B",
+                    "text": "125 and 250"
+                },
+                {
+                    "letter": "C",
+                    "text": "200 and 225"
+                },
+                {
+                    "letter": "D",
+                    "text": "300 only"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "ASME B16. 33-2012 covers piping system valves up to 175 psig for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "steam"
+                },
+                {
+                    "letter": "B",
+                    "text": "hot water"
+                },
+                {
+                    "letter": "C",
+                    "text": "gas"
+                },
+                {
+                    "letter": "D",
+                    "text": "oil"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 15,
+            "text": "The application referenced for ASME BPVC Section IX-2015 is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "classification"
+                },
+                {
+                    "letter": "B",
+                    "text": "certification"
+                },
+                {
+                    "letter": "C",
+                    "text": "clarification"
+                },
+                {
+                    "letter": "D",
+                    "text": "class"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 16,
+            "text": "The type of backflow protection device indicated by ASSE 1001-2008 is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "AVB"
+                },
+                {
+                    "letter": "B",
+                    "text": "PVB"
+                },
+                {
+                    "letter": "C",
+                    "text": "DCV"
+                },
+                {
+                    "letter": "D",
+                    "text": "RPV"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 17,
+            "text": "The type of application ASSE 1020-2004 is indicated to be used for is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "pressure reducing"
+                },
+                {
+                    "letter": "B",
+                    "text": "reverse osmosis"
+                },
+                {
+                    "letter": "C",
+                    "text": "backflow prevention"
+                },
+                {
+                    "letter": "D",
+                    "text": "valves"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 18,
+            "text": "The standard for Hot Water Dispenser, Household Storage Type, Electrical (Appliance) is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "ASME 1023-1979"
+                },
+                {
+                    "letter": "B",
+                    "text": "ANSI l023-1979"
+                },
+                {
+                    "letter": "C",
+                    "text": "ASSE 1023-1979"
+                },
+                {
+                    "letter": "D",
+                    "text": "ASTM 1023-1979"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 19,
+            "text": "Under ASTM A 74 2016, as applied to Cast Iron Soil Pipe and Fittings, the application would be for.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "piping, non-ferrous"
+                },
+                {
+                    "letter": "B",
+                    "text": "piping"
+                },
+                {
+                    "letter": "C",
+                    "text": "piping, plastic"
+                },
+                {
+                    "letter": "D",
+                    "text": "piping, copper"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 20,
+            "text": "ASTM C425-2004 indicates joints for _____ piping.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "galvanized steel"
+                },
+                {
+                    "letter": "B",
+                    "text": "bituminous"
+                },
+                {
+                    "letter": "C",
+                    "text": "fiberglass"
+                },
+                {
+                    "letter": "D",
+                    "text": "vitrified clay"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 21,
+            "text": "AWWA stands for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "American Waste Water Agency"
+                },
+                {
+                    "letter": "B",
+                    "text": "American Water Works Agency"
+                },
+                {
+                    "letter": "C",
+                    "text": "American Water Works Association"
+                },
+                {
+                    "letter": "D",
+                    "text": "none of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 22,
+            "text": "CISPI 301- 2012 standard for Hubless Cast Iron Pipe and Fittings applies to _____ piping.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "wrought iron"
+                },
+                {
+                    "letter": "B",
+                    "text": "wrought steel"
+                },
+                {
+                    "letter": "C",
+                    "text": "non-ferrous"
+                },
+                {
+                    "letter": "D",
+                    "text": "ferrous"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 23,
+            "text": "ASTM F877- 2011a applies to _____ piping.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "polyethylene"
+                },
+                {
+                    "letter": "B",
+                    "text": "crosslinked polyethylene"
+                },
+                {
+                    "letter": "C",
+                    "text": "PE-AL-PE"
+                },
+                {
+                    "letter": "D",
+                    "text": "PEX-AL-PEX"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 24,
+            "text": "In the application column of Table 1701. 2, IAPMOPS23-2006a, Dishwasher Drain Air gaps, the type listed in the column is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "bathrooms"
+                },
+                {
+                    "letter": "B",
+                    "text": "showers"
+                },
+                {
+                    "letter": "C",
+                    "text": "fixtures"
+                },
+                {
+                    "letter": "D",
+                    "text": "backflow protection"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 25,
+            "text": "IAPMO PS 65-2002 applies to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "dishwasher air gaps"
+                },
+                {
+                    "letter": "B",
+                    "text": "plumbing fixture air gaps"
+                },
+                {
+                    "letter": "C",
+                    "text": "air gaps for water conditioners"
+                },
+                {
+                    "letter": "D",
+                    "text": "none of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 26,
+            "text": "IAPMO PS 66-2015 pertains to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "twin fittings"
+                },
+                {
+                    "letter": "B",
+                    "text": "electric components"
+                },
+                {
+                    "letter": "C",
+                    "text": "dielectric fittings"
+                },
+                {
+                    "letter": "D",
+                    "text": "grease traps"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "A"
+        },
+        {
+            "number": 2,
+            "letter": "A"
+        },
+        {
+            "number": 3,
+            "letter": "C"
+        },
+        {
+            "number": 4,
+            "letter": "C"
+        },
+        {
+            "number": 5,
+            "letter": "A"
+        },
+        {
+            "number": 6,
+            "letter": "B"
+        },
+        {
+            "number": 7,
+            "letter": "A"
+        },
+        {
+            "number": 8,
+            "letter": "B"
+        },
+        {
+            "number": 9,
+            "letter": "A"
+        },
+        {
+            "number": 10,
+            "letter": "D"
+        },
+        {
+            "number": 11,
+            "letter": "D"
+        },
+        {
+            "number": 12,
+            "letter": "C"
+        },
+        {
+            "number": 13,
+            "letter": "B"
+        },
+        {
+            "number": 14,
+            "letter": "C"
+        },
+        {
+            "number": 15,
+            "letter": "B"
+        },
+        {
+            "number": 16,
+            "letter": "A"
+        },
+        {
+            "number": 17,
+            "letter": "C"
+        },
+        {
+            "number": 18,
+            "letter": "C"
+        },
+        {
+            "number": 19,
+            "letter": "B"
+        },
+        {
+            "number": 20,
+            "letter": "D"
+        },
+        {
+            "number": 21,
+            "letter": "C"
+        },
+        {
+            "number": 22,
+            "letter": "D"
+        },
+        {
+            "number": 23,
+            "letter": "B"
+        },
+        {
+            "number": 24,
+            "letter": "D"
+        },
+        {
+            "number": 25,
+            "letter": "C"
+        },
+        {
+            "number": 26,
+            "letter": "C"
+        }
+    ]
+}

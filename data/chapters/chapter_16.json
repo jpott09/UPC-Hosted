@@ -1,0 +1,575 @@
+{
+    "number": 16,
+    "text": "NONPOTABLE RAINWATER CATCHMENT SYSTEMS",
+    "questions": [
+        {
+            "number": 1,
+            "text": "The provisions of chapter 16 shall apply to the installation, construction, alteration, and repair of _____ rainwater catchment systems.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "nonpotable"
+                },
+                {
+                    "letter": "B",
+                    "text": "potable"
+                },
+                {
+                    "letter": "C",
+                    "text": "acid"
+                },
+                {
+                    "letter": "D",
+                    "text": "stored potable"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "Rainwater catchment systems intended to supply uses such as dishwashers shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "approved by the Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "B",
+                    "text": "approved by the health inspector"
+                },
+                {
+                    "letter": "C",
+                    "text": "prohibited"
+                },
+                {
+                    "letter": "D",
+                    "text": "approved by the Dept. of Natural Resources"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "Where a portion of a rainwater catchment system is installed within a building, a _____ test is required in accordance with Section 1605. 3",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Cross-connection"
+                },
+                {
+                    "letter": "B",
+                    "text": "Pressure"
+                },
+                {
+                    "letter": "C",
+                    "text": "Smoke"
+                },
+                {
+                    "letter": "D",
+                    "text": "Dye"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "Hose bibs supplying rainwater shall be labeled with the words: _____",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "\u201cCAUTION:NONPOTABLE WATER, DO NOT DRINK.\u201d"
+                },
+                {
+                    "letter": "B",
+                    "text": "\u201cCAUTION:DO NOT DRINK.\u201d"
+                },
+                {
+                    "letter": "C",
+                    "text": "\u201cCAUTION:RAINWATER, DO NOT DRINK.\u201d"
+                },
+                {
+                    "letter": "D",
+                    "text": "\u201cNONPOTABLE RAINWATER WATER, DO NOT DRINK.\u201d"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "Rainwater catchment tanks shall be marked _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "\u201cCAUTION\u201d"
+                },
+                {
+                    "letter": "B",
+                    "text": "\u201cDO NOT DRINK\u201d"
+                },
+                {
+                    "letter": "C",
+                    "text": "\u201cNONPOTABLE RAINWATER\u201d"
+                },
+                {
+                    "letter": "D",
+                    "text": "\u201cCAUTION: NONPOTABLE WATER, DO NOT DRINK\u201d"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "Rainwater shall be collected from _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "roof surfaces"
+                },
+                {
+                    "letter": "B",
+                    "text": "vehicular parking surfaces"
+                },
+                {
+                    "letter": "C",
+                    "text": "surface water runoff"
+                },
+                {
+                    "letter": "D",
+                    "text": "bodies of standing water"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "No treatment is required for rainwater catchment systems used for above ground irrigation where a maximum storage capacity of _____ gallons",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "380"
+                },
+                {
+                    "letter": "B",
+                    "text": "360"
+                },
+                {
+                    "letter": "C",
+                    "text": "370"
+                },
+                {
+                    "letter": "D",
+                    "text": "390"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "Rainwater tank access openings exceeding _____ inches in diameter shall be secured to prevent tampering and unintended entry by either a lockable device or other approved method",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "8"
+                },
+                {
+                    "letter": "B",
+                    "text": "10"
+                },
+                {
+                    "letter": "C",
+                    "text": "11"
+                },
+                {
+                    "letter": "D",
+                    "text": "12"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "Pumps supplying water to water closets, urinals, and trap primers shall be capable of delivering not less than _____ pounds-force per square inch (psi) residual pressure at the highest and most remote outlet served.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "15"
+                },
+                {
+                    "letter": "B",
+                    "text": "25"
+                },
+                {
+                    "letter": "C",
+                    "text": "40"
+                },
+                {
+                    "letter": "D",
+                    "text": "60"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 10,
+            "text": "Where the water pressure in the rainwater supply system within the building exceeds _____ psi, a pressure reducing valve shall be installed in accordance with this code",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "60"
+                },
+                {
+                    "letter": "B",
+                    "text": "70"
+                },
+                {
+                    "letter": "C",
+                    "text": "75"
+                },
+                {
+                    "letter": "D",
+                    "text": "80"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 11,
+            "text": "A filter permitting the passage of particulates not larger than _____ microns shall be provided for rainwater supplied to water closets, urinals, trap primers, and drip irrigation system.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "50"
+                },
+                {
+                    "letter": "B",
+                    "text": "75"
+                },
+                {
+                    "letter": "C",
+                    "text": "100"
+                },
+                {
+                    "letter": "D",
+                    "text": "25"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "Each equipment room containing nonpotable rainwater equipment shall have a sign posted with wording in _____ inch letters",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1"
+                },
+                {
+                    "letter": "B",
+                    "text": "2"
+                },
+                {
+                    "letter": "C",
+                    "text": "3"
+                },
+                {
+                    "letter": "D",
+                    "text": "4"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "A sign shall be installed in restrooms in commercial, industrial, and institutional occupancies using nonpotable rainwater for water closets, urinals, or both. Each sign shall contain _____ of an inch letters of a highly visible color on a contrasting background.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/4"
+                },
+                {
+                    "letter": "B",
+                    "text": "1/2"
+                },
+                {
+                    "letter": "C",
+                    "text": "3/4"
+                },
+                {
+                    "letter": "D",
+                    "text": "1"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "During the cross-connection test, the minimum period the rainwater catchment system is to remain depressurized shall in no case be less than _____ minutes.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "15"
+                },
+                {
+                    "letter": "B",
+                    "text": "30"
+                },
+                {
+                    "letter": "C",
+                    "text": "45"
+                },
+                {
+                    "letter": "D",
+                    "text": "60"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 15,
+            "text": "The potable water system after cross connection corrections shall be chlorinated with _____ ppm chlorine for _____ hours",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "25, 6"
+                },
+                {
+                    "letter": "B",
+                    "text": "30, 8"
+                },
+                {
+                    "letter": "C",
+                    "text": "50, 24"
+                },
+                {
+                    "letter": "D",
+                    "text": "24, 48"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 16,
+            "text": "Rainwater holding tank covers shall be capable of supporting an earth load of not less than _____ pounds per square foot (lb/ft2) where the tank is designed for underground installation",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "100"
+                },
+                {
+                    "letter": "B",
+                    "text": "200"
+                },
+                {
+                    "letter": "C",
+                    "text": "300"
+                },
+                {
+                    "letter": "D",
+                    "text": "250"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 17,
+            "text": "The manhole opening on below grade rainwater tanks shall be located not less than _____ inches above the surrounding grade.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "4"
+                },
+                {
+                    "letter": "B",
+                    "text": "3"
+                },
+                {
+                    "letter": "C",
+                    "text": "2"
+                },
+                {
+                    "letter": "D",
+                    "text": "1"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 18,
+            "text": "The design and size of rainwater drains, gutters, conductors, and leaders shall comply with Chapter _____ of this code",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "3"
+                },
+                {
+                    "letter": "B",
+                    "text": "6"
+                },
+                {
+                    "letter": "C",
+                    "text": "7"
+                },
+                {
+                    "letter": "D",
+                    "text": "11"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 19,
+            "text": "Where a vent is provided for a rainwater storage tank, the vent shall extend from the top of the tank and terminate not less than _____ above grade.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "12 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "6 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "7 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "10 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 20,
+            "text": "A person registered or licensed to perform plumbing design work is not required to design rainwater catchment systems used for irrigation with a maximum storage capacity of _____ gallons.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "250"
+                },
+                {
+                    "letter": "B",
+                    "text": "300"
+                },
+                {
+                    "letter": "C",
+                    "text": "350"
+                },
+                {
+                    "letter": "D",
+                    "text": "360"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 21,
+            "text": "For car washing, a filter permitting the passage of particulates not larger than _____ microns shall be provided.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "5"
+                },
+                {
+                    "letter": "B",
+                    "text": "10"
+                },
+                {
+                    "letter": "C",
+                    "text": "25"
+                },
+                {
+                    "letter": "D",
+                    "text": "100"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "A"
+        },
+        {
+            "number": 2,
+            "letter": "C"
+        },
+        {
+            "number": 3,
+            "letter": "A"
+        },
+        {
+            "number": 4,
+            "letter": "A"
+        },
+        {
+            "number": 5,
+            "letter": "C"
+        },
+        {
+            "number": 6,
+            "letter": "A"
+        },
+        {
+            "number": 7,
+            "letter": "B"
+        },
+        {
+            "number": 8,
+            "letter": "D"
+        },
+        {
+            "number": 9,
+            "letter": "A"
+        },
+        {
+            "number": 10,
+            "letter": "D"
+        },
+        {
+            "number": 11,
+            "letter": "C"
+        },
+        {
+            "number": 12,
+            "letter": "A"
+        },
+        {
+            "number": 13,
+            "letter": "B"
+        },
+        {
+            "number": 14,
+            "letter": "D"
+        },
+        {
+            "number": 15,
+            "letter": "C"
+        },
+        {
+            "number": 16,
+            "letter": "C"
+        },
+        {
+            "number": 17,
+            "letter": "A"
+        },
+        {
+            "number": 18,
+            "letter": "D"
+        },
+        {
+            "number": 19,
+            "letter": "B"
+        },
+        {
+            "number": 20,
+            "letter": "D"
+        },
+        {
+            "number": 21,
+            "letter": "D"
+        }
+    ]
+}

@@ -1,0 +1,1242 @@
+{
+    "number": 7,
+    "text": "SANITARY DRAINAGE",
+    "questions": [
+        {
+            "number": 1,
+            "text": "The maximum fixture unit loading allowed on a 2 inch waste stack is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "four"
+                },
+                {
+                    "letter": "B",
+                    "text": "six"
+                },
+                {
+                    "letter": "C",
+                    "text": "eight"
+                },
+                {
+                    "letter": "D",
+                    "text": "sixteen"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "Three-inch horizontal drainage piping shall have a grade or slope of not less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/4 inch per foot"
+                },
+                {
+                    "letter": "B",
+                    "text": "1/8 inch per foot"
+                },
+                {
+                    "letter": "C",
+                    "text": "1/2 inch per foot"
+                },
+                {
+                    "letter": "D",
+                    "text": "1 inch per foot"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "The maximum trap loading for a 3 inch trap is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "one unit"
+                },
+                {
+                    "letter": "B",
+                    "text": "three units"
+                },
+                {
+                    "letter": "C",
+                    "text": "four units"
+                },
+                {
+                    "letter": "D",
+                    "text": "six units"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "The minimum sizes of vertical and horizontal drainage shall be determined from the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "location of fixtures"
+                },
+                {
+                    "letter": "B",
+                    "text": "type of building"
+                },
+                {
+                    "letter": "C",
+                    "text": "total bathrooms"
+                },
+                {
+                    "letter": "D",
+                    "text": "total fixture units"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "The minimum size trap and trap arm for a bathtub is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1-1/2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "2-1/2 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "3 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "The maximum discharge capacity for intermittent flow only, in gallons per minute, for one fixture unit is equal to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "7-1/2 gpm"
+                },
+                {
+                    "letter": "B",
+                    "text": "15 gpm"
+                },
+                {
+                    "letter": "C",
+                    "text": "30 gpm"
+                },
+                {
+                    "letter": "D",
+                    "text": "50 gpm"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "The minimum size drain line for a wall-hung urinal is _____ inches.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2"
+                },
+                {
+                    "letter": "B",
+                    "text": "1-1/4"
+                },
+                {
+                    "letter": "C",
+                    "text": "1-1/2"
+                },
+                {
+                    "letter": "D",
+                    "text": "3"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "Of those listed the acceptable fitting for connecting a horizontal drain line with another horizontal drain line is a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "sanitary tee"
+                },
+                {
+                    "letter": "B",
+                    "text": "cross tee"
+                },
+                {
+                    "letter": "C",
+                    "text": "combination wye and 1/8 bend"
+                },
+                {
+                    "letter": "D",
+                    "text": "side inlet 1/4 bend"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "The clearance required in front of a 2 inch cleanout shall not be less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "6 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "12 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "18 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "24 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 10,
+            "text": "The discharge line from an ejector shall be provided with a backwater valve, _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "or swing check valve, and gate valve"
+                },
+                {
+                    "letter": "B",
+                    "text": "or double check valve, and globe valve"
+                },
+                {
+                    "letter": "C",
+                    "text": "spring-loaded check valve, and union"
+                },
+                {
+                    "letter": "D",
+                    "text": "gate valve, and flange"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 11,
+            "text": "The minimum size discharge pipe from an ejector or pump in a single dwelling unit having a water closet connected thereto is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 1/2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "3 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "4 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "A horizontal drain pipe has an existing load of 30 fixture units. After adding a new discharge pipe from an ejector rated at 60 gpm, the total load on the horizontal drain pipe will be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "90 fixture units"
+                },
+                {
+                    "letter": "B",
+                    "text": "120 fixture units"
+                },
+                {
+                    "letter": "C",
+                    "text": "130 fixture units"
+                },
+                {
+                    "letter": "D",
+                    "text": "150 fixture units"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "Because of structural conditions, a 4-inch building drain is installed with a slope of 1/8 inch per foot. This installation will result in _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "separation of solids and liquid"
+                },
+                {
+                    "letter": "B",
+                    "text": "increased scouring and cleansing action"
+                },
+                {
+                    "letter": "C",
+                    "text": "a reduction in fixture unit loading allowance"
+                },
+                {
+                    "letter": "D",
+                    "text": "an increased allowance in fixture unit loading"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "The total number of fixture units at \u201cA\u201d is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "16"
+                },
+                {
+                    "letter": "B",
+                    "text": "20"
+                },
+                {
+                    "letter": "C",
+                    "text": "22"
+                },
+                {
+                    "letter": "D",
+                    "text": "24"
+                }
+            ],
+            "image": "chapter 7 - figure 14-21"
+        },
+        {
+            "number": 15,
+            "text": "The minimum size pipe at \u201cA\u201d is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "3 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "4 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "6 inches"
+                }
+            ],
+            "image": "chapter 7 - figure 14-21"
+        },
+        {
+            "number": 16,
+            "text": "The minimum size pipe at \u201cB\u201d is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 1/2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "1 1/4 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "2 1/2 inches"
+                }
+            ],
+            "image": "chapter 7 - figure 14-21"
+        },
+        {
+            "number": 17,
+            "text": "The number of fixture units at \u201cC\u201d is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2"
+                },
+                {
+                    "letter": "B",
+                    "text": "4"
+                },
+                {
+                    "letter": "C",
+                    "text": "6"
+                },
+                {
+                    "letter": "D",
+                    "text": "8"
+                }
+            ],
+            "image": "chapter 7 - figure 14-21"
+        },
+        {
+            "number": 18,
+            "text": "The minimum size trap at \u201cD\u201d is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 1/2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "3 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "4 inches"
+                }
+            ],
+            "image": "chapter 7 - figure 14-21"
+        },
+        {
+            "number": 19,
+            "text": "Of those listed, the appropriate fitting at \u201cE\u201d would be a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "drainage wye"
+                },
+                {
+                    "letter": "B",
+                    "text": "drainage tee"
+                },
+                {
+                    "letter": "C",
+                    "text": "combination Y and 1/16 bend"
+                },
+                {
+                    "letter": "D",
+                    "text": "long sweep 90\u02da bend"
+                }
+            ],
+            "image": "chapter 7 - figure 14-21"
+        },
+        {
+            "number": 20,
+            "text": "The cleanout opening at \u201cF\u201d shall be at least _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "2-1/2 inch"
+                },
+                {
+                    "letter": "C",
+                    "text": "3 inch"
+                },
+                {
+                    "letter": "D",
+                    "text": "4 inch"
+                }
+            ],
+            "image": "chapter 7 - figure 14-21"
+        },
+        {
+            "number": 21,
+            "text": "The minimum size trap arm at \u201cG\u201d is _____ inch.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 1/2"
+                },
+                {
+                    "letter": "C",
+                    "text": "3"
+                },
+                {
+                    "letter": "D",
+                    "text": "4"
+                }
+            ],
+            "image": "chapter 7 - figure 14-21"
+        },
+        {
+            "number": 22,
+            "text": "Except in single-family residences, drainage stacks 3 stories or more in height serving _____ are considered suds-producing fixtures.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "kitchen sinks"
+                },
+                {
+                    "letter": "B",
+                    "text": "bathtubs"
+                },
+                {
+                    "letter": "C",
+                    "text": "washing machine standpipes"
+                },
+                {
+                    "letter": "D",
+                    "text": "all of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 23,
+            "text": "Drainage connections shall not be made into a drainage piping system within _____ of any vertical to horizontal change of direction of a stack containing suds-producing fixtures.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "4 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "6 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "8 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 24,
+            "text": "Vertical drainage lines connecting with horizontal drainage lines shall enter through a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "45 degree wye"
+                },
+                {
+                    "letter": "B",
+                    "text": "90 degree tee"
+                },
+                {
+                    "letter": "C",
+                    "text": "combination wye and 1/8 bend"
+                },
+                {
+                    "letter": "D",
+                    "text": "A and C apply"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 25,
+            "text": "The maximum fixture units allowed on a 4-inch horizontal drain with a 1/8 inch per foot slope is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "256 fixture units"
+                },
+                {
+                    "letter": "B",
+                    "text": "225 fixture units"
+                },
+                {
+                    "letter": "C",
+                    "text": "215 fixture units"
+                },
+                {
+                    "letter": "D",
+                    "text": "173 fixture units"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 26,
+            "text": "The minimum size of any building sewer shall be determined on the basis of the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "type of building"
+                },
+                {
+                    "letter": "B",
+                    "text": "total number of fixture units and building drain size"
+                },
+                {
+                    "letter": "C",
+                    "text": "the material used for sewer piping"
+                },
+                {
+                    "letter": "D",
+                    "text": "number of bedrooms the building"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 27,
+            "text": "A straight run of building sewer will require cleanouts at intervals not to exceed _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "50 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "75 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "100 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "300 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 28,
+            "text": "With appropriate cause and Authority Having Jurisdiction approval, building sewers 8 inches or larger shall be permitted to have a slope of not less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/16 inch per foot"
+                },
+                {
+                    "letter": "B",
+                    "text": "1/8 inch per foot"
+                },
+                {
+                    "letter": "C",
+                    "text": "1/4 inch per foot"
+                },
+                {
+                    "letter": "D",
+                    "text": "1/2 inch per foot"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 29,
+            "text": "The maximum distance between manholes shall not exceed _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "50 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "100 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "200 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "300 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 30,
+            "text": "ABS and PVC DWV piping may be installed in structures of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "noncombustible construction"
+                },
+                {
+                    "letter": "B",
+                    "text": "unlimited height"
+                },
+                {
+                    "letter": "C",
+                    "text": "all of these"
+                },
+                {
+                    "letter": "D",
+                    "text": "combustible construction"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 31,
+            "text": "Fittings on screwed pipe shall be of (the) _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "caulk-drainage type"
+                },
+                {
+                    "letter": "B",
+                    "text": "duro iron"
+                },
+                {
+                    "letter": "C",
+                    "text": "recessed-drainage type"
+                },
+                {
+                    "letter": "D",
+                    "text": "galvanized steel"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 32,
+            "text": "Except for plastic pipe, in lieu of a water test, drainage piping may be tested with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "air"
+                },
+                {
+                    "letter": "B",
+                    "text": "ether"
+                },
+                {
+                    "letter": "C",
+                    "text": "smoke"
+                },
+                {
+                    "letter": "D",
+                    "text": "gas"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 33,
+            "text": "Threads in drainage fittings shall be tapped to allow for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "adjustment"
+                },
+                {
+                    "letter": "B",
+                    "text": "grade"
+                },
+                {
+                    "letter": "C",
+                    "text": "expansion"
+                },
+                {
+                    "letter": "D",
+                    "text": "economy"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 34,
+            "text": "The maximum number of fixture units allowed on a 4 inch building sewer with a slope of 1/8 inch per foot, as compared to a 4-inch building sewer with a slope of 1/4 inch per foot is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the same"
+                },
+                {
+                    "letter": "B",
+                    "text": "less"
+                },
+                {
+                    "letter": "C",
+                    "text": "more"
+                },
+                {
+                    "letter": "D",
+                    "text": "unlimited"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 35,
+            "text": "Macerating toilet systems shall be permitted _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "for private use"
+                },
+                {
+                    "letter": "B",
+                    "text": "for public use"
+                },
+                {
+                    "letter": "C",
+                    "text": "when approved by Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "D",
+                    "text": "not allowed by code"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 36,
+            "text": "Sumps for macerating toilets shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "above ground"
+                },
+                {
+                    "letter": "B",
+                    "text": "a minimum of 10 gallons"
+                },
+                {
+                    "letter": "C",
+                    "text": "watertight and gastight"
+                },
+                {
+                    "letter": "D",
+                    "text": "in the same room as the toilet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 37,
+            "text": "The drainage fixture unit value assigned to a bathtub or combination bath/shower is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1.5"
+                },
+                {
+                    "letter": "B",
+                    "text": "2.0"
+                },
+                {
+                    "letter": "C",
+                    "text": "2.5"
+                },
+                {
+                    "letter": "D",
+                    "text": "3.0"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 38,
+            "text": "With a few exceptions, all horizontal drainage piping shall be provided with a cleanout at _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "each 45 degree fitting"
+                },
+                {
+                    "letter": "B",
+                    "text": "its upper terminal"
+                },
+                {
+                    "letter": "C",
+                    "text": "25 foot intervals"
+                },
+                {
+                    "letter": "D",
+                    "text": "each offset"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 39,
+            "text": "Every abandoned building sewer shall be plugged or capped _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "at the sidewalk or curb"
+                },
+                {
+                    "letter": "B",
+                    "text": "within 5 feet of the property line"
+                },
+                {
+                    "letter": "C",
+                    "text": "at the street tap"
+                },
+                {
+                    "letter": "D",
+                    "text": "where convenient"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 40,
+            "text": "The building sewer and water piping maybe installed in the same trench with the proper clearances if the building sewer piping is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "cast iron"
+                },
+                {
+                    "letter": "B",
+                    "text": "extra strength vitrified clay"
+                },
+                {
+                    "letter": "C",
+                    "text": "PVC"
+                },
+                {
+                    "letter": "D",
+                    "text": "any of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 41,
+            "text": "Cleanouts shall be designed to be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "threaded"
+                },
+                {
+                    "letter": "B",
+                    "text": "gastight and watertight"
+                },
+                {
+                    "letter": "C",
+                    "text": "easy opening"
+                },
+                {
+                    "letter": "D",
+                    "text": "concealed"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 42,
+            "text": "A domestic dishwasher, with independent drain, has a drainage fixture unit value of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2"
+                },
+                {
+                    "letter": "B",
+                    "text": "3"
+                },
+                {
+                    "letter": "C",
+                    "text": "4"
+                },
+                {
+                    "letter": "D",
+                    "text": "1"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 43,
+            "text": "After caulking a lead joint in a cast iron hub, the finished joint shall not exceed of an inch below the rim of the hub.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/8"
+                },
+                {
+                    "letter": "B",
+                    "text": "1/6"
+                },
+                {
+                    "letter": "C",
+                    "text": "1/5"
+                },
+                {
+                    "letter": "D",
+                    "text": "1/4"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 44,
+            "text": "A connection to the public sewer, or private sewage disposal system, is required for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "buildings with or without plumbing fixtures"
+                },
+                {
+                    "letter": "B",
+                    "text": "buildings with plumbing fixtures"
+                },
+                {
+                    "letter": "C",
+                    "text": "buildings with emergency drain systems"
+                },
+                {
+                    "letter": "D",
+                    "text": "buildings with storm drain systems"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 45,
+            "text": "An acceptable method for joining Polyethylene sewer pipe is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "threaded"
+                },
+                {
+                    "letter": "B",
+                    "text": "Butt fusion"
+                },
+                {
+                    "letter": "C",
+                    "text": "solvent cement"
+                },
+                {
+                    "letter": "D",
+                    "text": "push on"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 46,
+            "text": "Cured-in place pipe liners may be used to repair collapsed or compromised cast iron.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "true"
+                },
+                {
+                    "letter": "B",
+                    "text": "false"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "D"
+        },
+        {
+            "number": 2,
+            "letter": "A"
+        },
+        {
+            "number": 3,
+            "letter": "D"
+        },
+        {
+            "number": 4,
+            "letter": "D"
+        },
+        {
+            "number": 5,
+            "letter": "A"
+        },
+        {
+            "number": 6,
+            "letter": "A"
+        },
+        {
+            "number": 7,
+            "letter": "A"
+        },
+        {
+            "number": 8,
+            "letter": "C"
+        },
+        {
+            "number": 9,
+            "letter": "C"
+        },
+        {
+            "number": 10,
+            "letter": "A"
+        },
+        {
+            "number": 11,
+            "letter": "B"
+        },
+        {
+            "number": 12,
+            "letter": "D"
+        },
+        {
+            "number": 13,
+            "letter": "C"
+        },
+        {
+            "number": 14,
+            "letter": "A"
+        },
+        {
+            "number": 15,
+            "letter": "B"
+        },
+        {
+            "number": 16,
+            "letter": "A"
+        },
+        {
+            "number": 17,
+            "letter": "B"
+        },
+        {
+            "number": 18,
+            "letter": "B"
+        },
+        {
+            "number": 19,
+            "letter": "D"
+        },
+        {
+            "number": 20,
+            "letter": "B"
+        },
+        {
+            "number": 21,
+            "letter": "C"
+        },
+        {
+            "number": 22,
+            "letter": "D"
+        },
+        {
+            "number": 23,
+            "letter": "D"
+        },
+        {
+            "number": 24,
+            "letter": "D"
+        },
+        {
+            "number": 25,
+            "letter": "D"
+        },
+        {
+            "number": 26,
+            "letter": "B"
+        },
+        {
+            "number": 27,
+            "letter": "C"
+        },
+        {
+            "number": 28,
+            "letter": "A"
+        },
+        {
+            "number": 29,
+            "letter": "D"
+        },
+        {
+            "number": 30,
+            "letter": "C"
+        },
+        {
+            "number": 31,
+            "letter": "C"
+        },
+        {
+            "number": 32,
+            "letter": "A"
+        },
+        {
+            "number": 33,
+            "letter": "B"
+        },
+        {
+            "number": 34,
+            "letter": "B"
+        },
+        {
+            "number": 35,
+            "letter": "C"
+        },
+        {
+            "number": 36,
+            "letter": "C"
+        },
+        {
+            "number": 37,
+            "letter": "B"
+        },
+        {
+            "number": 38,
+            "letter": "B"
+        },
+        {
+            "number": 39,
+            "letter": "B"
+        },
+        {
+            "number": 40,
+            "letter": "D"
+        },
+        {
+            "number": 41,
+            "letter": "B"
+        },
+        {
+            "number": 42,
+            "letter": "A"
+        },
+        {
+            "number": 43,
+            "letter": "A"
+        },
+        {
+            "number": 44,
+            "letter": "B"
+        },
+        {
+            "number": 45,
+            "letter": "B"
+        },
+        {
+            "number": 46,
+            "letter": "B"
+        }
+    ]
+}

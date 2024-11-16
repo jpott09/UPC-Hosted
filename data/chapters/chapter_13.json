@@ -1,0 +1,1169 @@
+{
+    "number": 13,
+    "text": "HEALTH CARE FACILITIES AND MEDICAL GAS AND MEDICAL VACUUM SYSTEMS",
+    "questions": [
+        {
+            "number": 1,
+            "text": "Prior to any medical gas system being the _____ shall be performed.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "B",
+                    "text": "design engineer"
+                },
+                {
+                    "letter": "C",
+                    "text": "plumbing inspector"
+                },
+                {
+                    "letter": "D",
+                    "text": "certification agency"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "O2 is the symbol for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "nitrous Oxide"
+                },
+                {
+                    "letter": "B",
+                    "text": "nitrogen"
+                },
+                {
+                    "letter": "C",
+                    "text": "oxygen"
+                },
+                {
+                    "letter": "D",
+                    "text": "helium"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "Tubing for medical gas systems shall be hard-drawn seamless copper medical gas tube _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Type L or K"
+                },
+                {
+                    "letter": "B",
+                    "text": "Type L or M"
+                },
+                {
+                    "letter": "C",
+                    "text": "Type K or M"
+                },
+                {
+                    "letter": "D",
+                    "text": "Type DWV medical"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "Copper to copper joints shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "soldered"
+                },
+                {
+                    "letter": "B",
+                    "text": "flared"
+                },
+                {
+                    "letter": "C",
+                    "text": "brazed"
+                },
+                {
+                    "letter": "D",
+                    "text": "silver soldered"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "The minimum size pipe allowed in medical gas systems is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/4 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "1/2 inch"
+                },
+                {
+                    "letter": "C",
+                    "text": "3/8 inch"
+                },
+                {
+                    "letter": "D",
+                    "text": "1 inch"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "The minimum static pressure for carbon dioxide (CO2) is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "50 psig"
+                },
+                {
+                    "letter": "B",
+                    "text": "75 psig"
+                },
+                {
+                    "letter": "C",
+                    "text": "100 psig"
+                },
+                {
+                    "letter": "D",
+                    "text": "200 psig"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "Which of the following is not part of the certification test?",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Checking labels of the control valves"
+                },
+                {
+                    "letter": "B",
+                    "text": "Testing of the alarm systems"
+                },
+                {
+                    "letter": "C",
+                    "text": "Testing for cross-connections"
+                },
+                {
+                    "letter": "D",
+                    "text": "Pressure-testing tubing by dry nitrogen"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "The final pressure test of a medical gas system is for a _____ duration.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "30 minute"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 hour"
+                },
+                {
+                    "letter": "C",
+                    "text": "24 hour"
+                },
+                {
+                    "letter": "D",
+                    "text": "15 minute"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "The initial test of medical gas piping requires a minimum test pressure of _____ psi.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "60"
+                },
+                {
+                    "letter": "B",
+                    "text": "100"
+                },
+                {
+                    "letter": "C",
+                    "text": "50"
+                },
+                {
+                    "letter": "D",
+                    "text": "150"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 10,
+            "text": "Medical-surgical vacuum sources shall consist of _____ vacuum pump(s).",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "two or more"
+                },
+                {
+                    "letter": "B",
+                    "text": "one"
+                },
+                {
+                    "letter": "C",
+                    "text": "four parallel piped"
+                },
+                {
+                    "letter": "D",
+                    "text": "three 1,250 cfm"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 11,
+            "text": "The exhaust from the vacuum pumps shall be piped to the outside with the end _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "turned down and screened"
+                },
+                {
+                    "letter": "B",
+                    "text": "6 inches or more above ground"
+                },
+                {
+                    "letter": "C",
+                    "text": "50 feet from doors or windows"
+                },
+                {
+                    "letter": "D",
+                    "text": "40 feet from the air intake"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "Vacuum pump exhaust termination shall be atleast feet from any door, window, air in take, orother openings in buildings.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "30"
+                },
+                {
+                    "letter": "B",
+                    "text": "100"
+                },
+                {
+                    "letter": "C",
+                    "text": "25"
+                },
+                {
+                    "letter": "D",
+                    "text": "50"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "Where positive pressure gas piping system operate at a higher pressure than the gauge pressure in Table 1305. 1 it shall be labeled with the _____ of the gas.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "name"
+                },
+                {
+                    "letter": "B",
+                    "text": "pressure"
+                },
+                {
+                    "letter": "C",
+                    "text": "volume"
+                },
+                {
+                    "letter": "D",
+                    "text": "name and pressure"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "The standard designation colors for marking pipe carrying oxygen is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "green/white or white/green"
+                },
+                {
+                    "letter": "B",
+                    "text": "green/black or black/green"
+                },
+                {
+                    "letter": "C",
+                    "text": "blue/white"
+                },
+                {
+                    "letter": "D",
+                    "text": "black/white"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 15,
+            "text": "Which of the following is an approved method for labeling medical gas systems?",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "plastic color-coded tags"
+                },
+                {
+                    "letter": "B",
+                    "text": "metal tags"
+                },
+                {
+                    "letter": "C",
+                    "text": "adhesive markers"
+                },
+                {
+                    "letter": "D",
+                    "text": "thermal printed DYMO label"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 16,
+            "text": "Station outlets and inlets shall be installed in strict accordance with the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "designer\u2019s recommendations"
+                },
+                {
+                    "letter": "B",
+                    "text": "hospital\u2019s regulations"
+                },
+                {
+                    "letter": "C",
+                    "text": "standard installation procedures"
+                },
+                {
+                    "letter": "D",
+                    "text": "manufacturer\u2019s instructions"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 17,
+            "text": "Medical air compressors shall be installed in a well-lit, ventilated, and clean location and shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "accessible"
+                },
+                {
+                    "letter": "B",
+                    "text": "sound-rated"
+                },
+                {
+                    "letter": "C",
+                    "text": "located in a med-gas storage area"
+                },
+                {
+                    "letter": "D",
+                    "text": "operated simultaneously"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 18,
+            "text": "Piping and drain traps in psychiatric patient rooms shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "exposed"
+                },
+                {
+                    "letter": "B",
+                    "text": "concealed"
+                },
+                {
+                    "letter": "C",
+                    "text": "vandal-proof"
+                },
+                {
+                    "letter": "D",
+                    "text": "conventional"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 19,
+            "text": "New or replacement shutoff valves shall be of any type but shall also be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/4 turn to off"
+                },
+                {
+                    "letter": "B",
+                    "text": "1/2 turn to off"
+                },
+                {
+                    "letter": "C",
+                    "text": "2 psi pressure"
+                },
+                {
+                    "letter": "D",
+                    "text": "5 psi pressure"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 20,
+            "text": "An indirect waste pipe for a bed pan steamer shall have a trap seal of not less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "3 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "4 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 21,
+            "text": "The minimum flow rate for nitrogen is _____ per outlet.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "0.71 cfm"
+                },
+                {
+                    "letter": "B",
+                    "text": "1 scfm"
+                },
+                {
+                    "letter": "C",
+                    "text": "15 cfm"
+                },
+                {
+                    "letter": "D",
+                    "text": "2 scfm"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 22,
+            "text": "Hard-drawn seamless copper medical gas tube shall be used where installed pressures exceed 185 psi and shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Type L or K"
+                },
+                {
+                    "letter": "B",
+                    "text": "Type K"
+                },
+                {
+                    "letter": "C",
+                    "text": "Type M"
+                },
+                {
+                    "letter": "D",
+                    "text": "Type L"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 23,
+            "text": "Re cleaning of the interior surfaces of tube ends requires the use of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "steel wool"
+                },
+                {
+                    "letter": "B",
+                    "text": "steel wool or sand cloth"
+                },
+                {
+                    "letter": "C",
+                    "text": "clean hot-water alkaline solution such as trisodium phosphate"
+                },
+                {
+                    "letter": "D",
+                    "text": "nonabrasive pads"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 24,
+            "text": "Threaded joints in medical gas piping systems shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "U.S. machine threads"
+                },
+                {
+                    "letter": "B",
+                    "text": "tapered pipe threads complying with ASME B1.20.1"
+                },
+                {
+                    "letter": "C",
+                    "text": "nontapered pipe threads complying with ASTM 20.1.2"
+                },
+                {
+                    "letter": "D",
+                    "text": "right or left threads complying with Federal Standard Z.B.1900"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 25,
+            "text": "Joints shall be brazed within _____ after surfaces have been cleaned for brazing.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "30 minutes"
+                },
+                {
+                    "letter": "B",
+                    "text": "1 hour"
+                },
+                {
+                    "letter": "C",
+                    "text": "4 hours"
+                },
+                {
+                    "letter": "D",
+                    "text": "8 hours"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 26,
+            "text": "Flux shall only be used when brazing _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Type K tubing"
+                },
+                {
+                    "letter": "B",
+                    "text": "isolation or control valves"
+                },
+                {
+                    "letter": "C",
+                    "text": "pressure-regulating equipment"
+                },
+                {
+                    "letter": "D",
+                    "text": "dissimilar metals"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 27,
+            "text": "The cut end of tubes shall be deburred using a sharp, clean _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "reamer"
+                },
+                {
+                    "letter": "B",
+                    "text": "pocket knife or similar tool"
+                },
+                {
+                    "letter": "C",
+                    "text": "deburring tool"
+                },
+                {
+                    "letter": "D",
+                    "text": "round metal file listed for copper tube use"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 28,
+            "text": "Medical gas and medical vacuum risers shall not be located in _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "elevator shafts"
+                },
+                {
+                    "letter": "B",
+                    "text": "intensive care areas"
+                },
+                {
+                    "letter": "C",
+                    "text": "pipe shafts"
+                },
+                {
+                    "letter": "D",
+                    "text": "patient rooms"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 29,
+            "text": "Zone valves shall be installed so that the closure of one zone valve _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "shuts off all zone valves"
+                },
+                {
+                    "letter": "B",
+                    "text": "does not affect other areas"
+                },
+                {
+                    "letter": "C",
+                    "text": "shuts down all vacuum systems"
+                },
+                {
+                    "letter": "D",
+                    "text": "shuts down all medical systems"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 30,
+            "text": "Medical gas piping installed in kitchens is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "permitted in this code"
+                },
+                {
+                    "letter": "B",
+                    "text": "prohibited in this code"
+                },
+                {
+                    "letter": "C",
+                    "text": "permitted if protected from physical damage"
+                },
+                {
+                    "letter": "D",
+                    "text": "permitted if ambient temperature does not exceed 130\u02daF"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 31,
+            "text": "Hangers for copper tube in damp locations shall have a _____ and be sized for copper tube.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "plastic coat"
+                },
+                {
+                    "letter": "B",
+                    "text": "copper finish"
+                },
+                {
+                    "letter": "C",
+                    "text": "positive restraint to movement"
+                },
+                {
+                    "letter": "D",
+                    "text": "fiber or cloth insert"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 32,
+            "text": "Dryers, after-coolers, separators, and receivers shall be equipped with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "p-traps"
+                },
+                {
+                    "letter": "B",
+                    "text": "drum traps"
+                },
+                {
+                    "letter": "C",
+                    "text": "deep seal traps"
+                },
+                {
+                    "letter": "D",
+                    "text": "drains"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 33,
+            "text": "Before attachment of system components, all piping shall be subjected to a test pressure not less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "system operating pressure"
+                },
+                {
+                    "letter": "B",
+                    "text": "system operating pressure plus 100 percent"
+                },
+                {
+                    "letter": "C",
+                    "text": "20 percent higher than operating pressure for 24 hours"
+                },
+                {
+                    "letter": "D",
+                    "text": "150 psi"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 34,
+            "text": "After successful completion of initial pressure tests, vacuum distributing piping shall be subjected to a standing vacuum test for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "36 hours"
+                },
+                {
+                    "letter": "B",
+                    "text": "48 hours"
+                },
+                {
+                    "letter": "C",
+                    "text": "24 hours"
+                },
+                {
+                    "letter": "D",
+                    "text": "12 hours"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 35,
+            "text": "Ice makers/storage chests shall be located in nurses stations or similarly supervised areas to prevent _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "theft"
+                },
+                {
+                    "letter": "B",
+                    "text": "vandalism"
+                },
+                {
+                    "letter": "C",
+                    "text": "contamination"
+                },
+                {
+                    "letter": "D",
+                    "text": "misuse"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 36,
+            "text": "Receptors for indirect waste from sterilizers or bedpan steamers shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "located within the same room"
+                },
+                {
+                    "letter": "B",
+                    "text": "located in a common area"
+                },
+                {
+                    "letter": "C",
+                    "text": "in a mechanical equipment room"
+                },
+                {
+                    "letter": "D",
+                    "text": "accessible to the patient"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 37,
+            "text": "When a sterilizer has provisions for a vapor vent, the vent shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "equipped with backflow protection"
+                },
+                {
+                    "letter": "B",
+                    "text": "extended to the outdoors above the roof"
+                },
+                {
+                    "letter": "C",
+                    "text": "connected to the sanitary system vents"
+                },
+                {
+                    "letter": "D",
+                    "text": "piped to an indirect waste receptor"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 38,
+            "text": "Water-operated aspirators shall be installed only when approved by the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "health agencies"
+                },
+                {
+                    "letter": "B",
+                    "text": "Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "C",
+                    "text": "American Medical Association"
+                },
+                {
+                    "letter": "D",
+                    "text": "listing agency"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 39,
+            "text": "Potable water supply to the aspirator shall be protected by _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a vacuum breaker or equivalent backflow protection device"
+                },
+                {
+                    "letter": "B",
+                    "text": "a vacuum pump"
+                },
+                {
+                    "letter": "C",
+                    "text": "an airgap"
+                },
+                {
+                    "letter": "D",
+                    "text": "Backflow protection unnecessary"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 40,
+            "text": "This chapter does not apply to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "compressed gas systems"
+                },
+                {
+                    "letter": "B",
+                    "text": "installation requirements"
+                },
+                {
+                    "letter": "C",
+                    "text": "portable compressed gas systems"
+                },
+                {
+                    "letter": "D",
+                    "text": "oxygen compatibility"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 41,
+            "text": "The symbol for nitrogen is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "N2O"
+                },
+                {
+                    "letter": "B",
+                    "text": "N2"
+                },
+                {
+                    "letter": "C",
+                    "text": "N2O2"
+                },
+                {
+                    "letter": "D",
+                    "text": "N"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 42,
+            "text": "System verification testing shall be performed by a party other than the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "in-house personnel"
+                },
+                {
+                    "letter": "B",
+                    "text": "installing contractor"
+                },
+                {
+                    "letter": "C",
+                    "text": "design engineer"
+                },
+                {
+                    "letter": "D",
+                    "text": "facility authority"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 43,
+            "text": "In the brazing process all ambient air must be removed and _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the presence of nitrogen confirmed"
+                },
+                {
+                    "letter": "B",
+                    "text": "a continual purge of argon be used"
+                },
+                {
+                    "letter": "C",
+                    "text": "verified by an oxygen analyzer"
+                },
+                {
+                    "letter": "D",
+                    "text": "a vacuum maintained"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "D"
+        },
+        {
+            "number": 2,
+            "letter": "C"
+        },
+        {
+            "number": 3,
+            "letter": "A"
+        },
+        {
+            "number": 4,
+            "letter": "C"
+        },
+        {
+            "number": 5,
+            "letter": "B"
+        },
+        {
+            "number": 6,
+            "letter": "A"
+        },
+        {
+            "number": 7,
+            "letter": "D"
+        },
+        {
+            "number": 8,
+            "letter": "C"
+        },
+        {
+            "number": 9,
+            "letter": "D"
+        },
+        {
+            "number": 10,
+            "letter": "A"
+        },
+        {
+            "number": 11,
+            "letter": "A"
+        },
+        {
+            "number": 12,
+            "letter": "C"
+        },
+        {
+            "number": 13,
+            "letter": "D"
+        },
+        {
+            "number": 14,
+            "letter": "A"
+        },
+        {
+            "number": 15,
+            "letter": "C"
+        },
+        {
+            "number": 16,
+            "letter": "D"
+        },
+        {
+            "number": 17,
+            "letter": "A"
+        },
+        {
+            "number": 18,
+            "letter": "B"
+        },
+        {
+            "number": 19,
+            "letter": "A"
+        },
+        {
+            "number": 20,
+            "letter": "C"
+        },
+        {
+            "number": 21,
+            "letter": "C"
+        },
+        {
+            "number": 22,
+            "letter": "B"
+        },
+        {
+            "number": 23,
+            "letter": "C"
+        },
+        {
+            "number": 24,
+            "letter": "B"
+        },
+        {
+            "number": 25,
+            "letter": "D"
+        },
+        {
+            "number": 26,
+            "letter": "D"
+        },
+        {
+            "number": 27,
+            "letter": "C"
+        },
+        {
+            "number": 28,
+            "letter": "A"
+        },
+        {
+            "number": 29,
+            "letter": "B"
+        },
+        {
+            "number": 30,
+            "letter": "B"
+        },
+        {
+            "number": 31,
+            "letter": "A"
+        },
+        {
+            "number": 32,
+            "letter": "D"
+        },
+        {
+            "number": 33,
+            "letter": "D"
+        },
+        {
+            "number": 34,
+            "letter": "C"
+        },
+        {
+            "number": 35,
+            "letter": "C"
+        },
+        {
+            "number": 36,
+            "letter": "A"
+        },
+        {
+            "number": 37,
+            "letter": "B"
+        },
+        {
+            "number": 38,
+            "letter": "B"
+        },
+        {
+            "number": 39,
+            "letter": "A"
+        },
+        {
+            "number": 40,
+            "letter": "C"
+        },
+        {
+            "number": 41,
+            "letter": "B"
+        },
+        {
+            "number": 42,
+            "letter": "B"
+        },
+        {
+            "number": 43,
+            "letter": "C"
+        }
+    ]
+}

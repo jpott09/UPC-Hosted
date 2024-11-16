@@ -1,0 +1,710 @@
+{
+    "number": 15,
+    "text": "ALTERNATE WATER SOURCES FOR NONPOTABLE APPLICATIONS",
+    "questions": [
+        {
+            "number": 1,
+            "text": "Gray water installations exceeding a maximum discharge capacity of _____ gallons per day shall be designed by a registered design professional.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "150"
+                },
+                {
+                    "letter": "B",
+                    "text": "175"
+                },
+                {
+                    "letter": "C",
+                    "text": "200"
+                },
+                {
+                    "letter": "D",
+                    "text": "250"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "The total estimated gray water flow for each occupant in a single family home shall be _____ gpd.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "15"
+                },
+                {
+                    "letter": "B",
+                    "text": "25"
+                },
+                {
+                    "letter": "C",
+                    "text": "35"
+                },
+                {
+                    "letter": "D",
+                    "text": "40"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "All valves, including the three-way valve, shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "accessible"
+                },
+                {
+                    "letter": "B",
+                    "text": "metal"
+                },
+                {
+                    "letter": "C",
+                    "text": "non corrosive"
+                },
+                {
+                    "letter": "D",
+                    "text": "plastic"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "The reclaimed water system shall not be connected to a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "building sewer"
+                },
+                {
+                    "letter": "B",
+                    "text": "house sewer"
+                },
+                {
+                    "letter": "C",
+                    "text": "subsurface drain"
+                },
+                {
+                    "letter": "D",
+                    "text": "potable water system"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "For gray water surge tanks of 75 gallons or less, the distance or clearance to a building or structure may be reduced to _____ ft.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "0"
+                },
+                {
+                    "letter": "B",
+                    "text": "5"
+                },
+                {
+                    "letter": "C",
+                    "text": "10"
+                },
+                {
+                    "letter": "D",
+                    "text": "15"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "All valves shall be equipped with a locking feature except for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "fixture supply control valves"
+                },
+                {
+                    "letter": "B",
+                    "text": "fullway valves"
+                },
+                {
+                    "letter": "C",
+                    "text": "gate valves"
+                },
+                {
+                    "letter": "D",
+                    "text": "main valves"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "The maximum downstream pressure from a pump serving a gray water irrigation field shall not exceed _____ psi.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "10"
+                },
+                {
+                    "letter": "B",
+                    "text": "15"
+                },
+                {
+                    "letter": "C",
+                    "text": "20"
+                },
+                {
+                    "letter": "D",
+                    "text": "30"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "Subsurface irrigation fields and mulch basins shall be sized as per _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Table 703.2"
+                },
+                {
+                    "letter": "B",
+                    "text": "Table 1504.2"
+                },
+                {
+                    "letter": "C",
+                    "text": "the inlet size"
+                },
+                {
+                    "letter": "D",
+                    "text": "Table 1502.11"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "Gray water supply piping, including drip feeders, shall be not be less than _____ inches below finished grade and covered with mulch.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2"
+                },
+                {
+                    "letter": "B",
+                    "text": "6"
+                },
+                {
+                    "letter": "C",
+                    "text": "10"
+                },
+                {
+                    "letter": "D",
+                    "text": "12"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 10,
+            "text": "The distance between a septic tank and a gray water disposal field shall be _____ feet.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "5"
+                },
+                {
+                    "letter": "B",
+                    "text": "10"
+                },
+                {
+                    "letter": "C",
+                    "text": "12"
+                },
+                {
+                    "letter": "D",
+                    "text": "20"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 11,
+            "text": "Where irrigation and disposal fields are installed in sloping ground, the minimum horizontal separation between the distribution system and ground surface shall be _____ feet",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "5"
+                },
+                {
+                    "letter": "B",
+                    "text": "15"
+                },
+                {
+                    "letter": "C",
+                    "text": "30"
+                },
+                {
+                    "letter": "D",
+                    "text": "50"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "Gray water systems shall be designed to distribute the total amount of estimated gray water on a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "twice daily basis"
+                },
+                {
+                    "letter": "B",
+                    "text": "daily basis"
+                },
+                {
+                    "letter": "C",
+                    "text": "hourly basis"
+                },
+                {
+                    "letter": "D",
+                    "text": "yearly basis"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "Reclaimed water pipes shall be permitted to run in the same trench as potable water pipes with a _____ inch minimum vertical and horizontal separation where both pipe materials are approved for use within a building",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "6"
+                },
+                {
+                    "letter": "B",
+                    "text": "12"
+                },
+                {
+                    "letter": "C",
+                    "text": "18"
+                },
+                {
+                    "letter": "D",
+                    "text": "24"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "On-site treated nonpotable water piping sizing shall comply with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Section 610.0"
+                },
+                {
+                    "letter": "B",
+                    "text": "Table 1502.4"
+                },
+                {
+                    "letter": "C",
+                    "text": "Table 1502.11"
+                },
+                {
+                    "letter": "D",
+                    "text": "Section 1601.12"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 15,
+            "text": "On-site treated water systems shall have a colored background and marking information in accordance with Section _____ of this code.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "601.3"
+                },
+                {
+                    "letter": "B",
+                    "text": "1502.9.1"
+                },
+                {
+                    "letter": "C",
+                    "text": "1503.7"
+                },
+                {
+                    "letter": "D",
+                    "text": "1602.10"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 16,
+            "text": "Upon discovery of a cross-connection, the potable water system shall be chlorinated with _____ parts-per- million chlorine.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "50"
+                },
+                {
+                    "letter": "B",
+                    "text": "75"
+                },
+                {
+                    "letter": "C",
+                    "text": "100"
+                },
+                {
+                    "letter": "D",
+                    "text": "110"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 17,
+            "text": "In calculating for gray water systems, the first bedroom is equal to _____ occupants",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1"
+                },
+                {
+                    "letter": "B",
+                    "text": "2"
+                },
+                {
+                    "letter": "C",
+                    "text": "3"
+                },
+                {
+                    "letter": "D",
+                    "text": "4"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 18,
+            "text": "The gray water discharge amount for a laundry is _____ gallons per day/occupant.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "5"
+                },
+                {
+                    "letter": "B",
+                    "text": "10"
+                },
+                {
+                    "letter": "C",
+                    "text": "15"
+                },
+                {
+                    "letter": "D",
+                    "text": "20"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 19,
+            "text": "Surge tanks placed above ground shall be placed _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "on a 1\u201d concrete slab"
+                },
+                {
+                    "letter": "B",
+                    "text": "on a 2\u201d concrete slab"
+                },
+                {
+                    "letter": "C",
+                    "text": "on a 3\u201d concrete slab"
+                },
+                {
+                    "letter": "D",
+                    "text": "on flat ground"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 20,
+            "text": "A filter permitting the passage of particulates no larger than _____ microns shall be provided for on-site treated nonpotable water supplied to water closets, urinals, trap primers, and drip irrigation system.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "25"
+                },
+                {
+                    "letter": "B",
+                    "text": "50"
+                },
+                {
+                    "letter": "C",
+                    "text": "75"
+                },
+                {
+                    "letter": "D",
+                    "text": "100"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 21,
+            "text": "3-inch piping conveying on-site treated non-potable water shall have lettering with a minimum size of _____ inch(es).",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/2"
+                },
+                {
+                    "letter": "B",
+                    "text": "3/4"
+                },
+                {
+                    "letter": "C",
+                    "text": "1"
+                },
+                {
+                    "letter": "D",
+                    "text": "1-1/4"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 22,
+            "text": "Each room containing alternate water source non-potable water and equipment shall have signage with visible lettering _____ inch.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/2"
+                },
+                {
+                    "letter": "B",
+                    "text": "3/4"
+                },
+                {
+                    "letter": "C",
+                    "text": "1"
+                },
+                {
+                    "letter": "D",
+                    "text": "1-1/4"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 23,
+            "text": "The maximum absorption capacity for sandy clay is _____ gallons per feet of irrigation/leaching area for a 24-hour period.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1.1"
+                },
+                {
+                    "letter": "B",
+                    "text": "1.7"
+                },
+                {
+                    "letter": "C",
+                    "text": "2.5"
+                },
+                {
+                    "letter": "D",
+                    "text": "4.0"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 24,
+            "text": "The discharge from a _____ is not used to calculate gray water discharge.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "bath or shower"
+                },
+                {
+                    "letter": "B",
+                    "text": "kitchen"
+                },
+                {
+                    "letter": "C",
+                    "text": "lavatory"
+                },
+                {
+                    "letter": "D",
+                    "text": "laundry"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 25,
+            "text": "No excavation for an irrigation field,disposal field,or mulch basin shall extend within feet vertical of the highest known seasonal groundwater level, nor to a depth where gray water contaminates the groundwater or surface water.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2"
+                },
+                {
+                    "letter": "B",
+                    "text": "3"
+                },
+                {
+                    "letter": "C",
+                    "text": "5"
+                },
+                {
+                    "letter": "D",
+                    "text": "6"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 26,
+            "text": "A gray water system discharges 2, 100 gallons per day into a sandy clay irrigation field. The minimum size of the area shall be _____ square feet.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "170"
+                },
+                {
+                    "letter": "B",
+                    "text": "1,260"
+                },
+                {
+                    "letter": "C",
+                    "text": "2,142"
+                },
+                {
+                    "letter": "D",
+                    "text": "6,000"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "D"
+        },
+        {
+            "number": 2,
+            "letter": "D"
+        },
+        {
+            "number": 3,
+            "letter": "A"
+        },
+        {
+            "number": 4,
+            "letter": "D"
+        },
+        {
+            "number": 5,
+            "letter": "A"
+        },
+        {
+            "number": 6,
+            "letter": "A"
+        },
+        {
+            "number": 7,
+            "letter": "C"
+        },
+        {
+            "number": 8,
+            "letter": "B"
+        },
+        {
+            "number": 9,
+            "letter": "A"
+        },
+        {
+            "number": 10,
+            "letter": "A"
+        },
+        {
+            "number": 11,
+            "letter": "B"
+        },
+        {
+            "number": 12,
+            "letter": "B"
+        },
+        {
+            "number": 13,
+            "letter": "B"
+        },
+        {
+            "number": 14,
+            "letter": "A"
+        },
+        {
+            "number": 15,
+            "letter": "A"
+        },
+        {
+            "number": 16,
+            "letter": "A"
+        },
+        {
+            "number": 17,
+            "letter": "B"
+        },
+        {
+            "number": 18,
+            "letter": "C"
+        },
+        {
+            "number": 19,
+            "letter": "C"
+        },
+        {
+            "number": 20,
+            "letter": "D"
+        },
+        {
+            "number": 21,
+            "letter": "D"
+        },
+        {
+            "number": 22,
+            "letter": "C"
+        },
+        {
+            "number": 23,
+            "letter": "B"
+        },
+        {
+            "number": 24,
+            "letter": "B"
+        },
+        {
+            "number": 25,
+            "letter": "B"
+        },
+        {
+            "number": 26,
+            "letter": "B"
+        }
+    ]
+}

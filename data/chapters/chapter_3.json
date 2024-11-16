@@ -1,0 +1,921 @@
+{
+    "number": 3,
+    "text": "GENERAL REGULATIONS",
+    "questions": [
+        {
+            "number": 1,
+            "text": "Disposal of sewage, or other liquid wastes, shall be by means of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "chemical toilets"
+                },
+                {
+                    "letter": "B",
+                    "text": "sewage-retaining tanks"
+                },
+                {
+                    "letter": "C",
+                    "text": "the drainage system of the building or premises"
+                },
+                {
+                    "letter": "D",
+                    "text": "subsurface leaching pits"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "It shall be unlawful for a person to permit the disposal of sewage or other liquid wastes not properly connected to a drainage system.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "true"
+                },
+                {
+                    "letter": "B",
+                    "text": "false"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "Burred ends of pipe and tubing shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "avoided by use of special cutting tools"
+                },
+                {
+                    "letter": "B",
+                    "text": "confined to exposed and readily accessible locations"
+                },
+                {
+                    "letter": "C",
+                    "text": "reamed to the full bore of the pipe or tube"
+                },
+                {
+                    "letter": "D",
+                    "text": "painted to reduce friction"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "Except as otherwise provided in this code, no plumbing system, drainage system, building sewer, private sewage disposal system, or parts thereof, shall be located in _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the walls, floors, or underground in any building"
+                },
+                {
+                    "letter": "B",
+                    "text": "any lot other than the lot that is the site of the building served by such facilities"
+                },
+                {
+                    "letter": "C",
+                    "text": "pipe access spaces where accessible for repair"
+                },
+                {
+                    "letter": "D",
+                    "text": "any garage, or equipment or locker room"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "Piping, fixtures, or equipment that are installed so that they interfere with normal operation and use of windows or doors shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "protected from damage"
+                },
+                {
+                    "letter": "B",
+                    "text": "identified for restricted use"
+                },
+                {
+                    "letter": "C",
+                    "text": "relocated to avoid interference"
+                },
+                {
+                    "letter": "D",
+                    "text": "approved if acceptable by the owner"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "All design, construction, and workmanship shall be in accordance with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "accepted engineering practices"
+                },
+                {
+                    "letter": "B",
+                    "text": "practices of the contractor"
+                },
+                {
+                    "letter": "C",
+                    "text": "standard shop procedures"
+                },
+                {
+                    "letter": "D",
+                    "text": "minimizing man hours"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "When supporting horizontal piping 5-inches in diameter with hangers, a _____ inch diameter rod shall be used.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "3/8"
+                },
+                {
+                    "letter": "B",
+                    "text": "1/2"
+                },
+                {
+                    "letter": "C",
+                    "text": "5/8"
+                },
+                {
+                    "letter": "D",
+                    "text": "1"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "The building drain from the front building may be extended to the rear building when both buildings are located _____ and no private sewer is available or can be constructed.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "on a corner lot"
+                },
+                {
+                    "letter": "B",
+                    "text": "on an interior lot"
+                },
+                {
+                    "letter": "C",
+                    "text": "200 feet from the public sewer"
+                },
+                {
+                    "letter": "D",
+                    "text": "300 feet from the public sewer"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "All trenches deeper than the footing of a building or structure, and paralleling the same shall be located not less than _____ from the bottom exterior edge of the footing or as approved.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "45 degrees"
+                },
+                {
+                    "letter": "B",
+                    "text": "90 degrees"
+                },
+                {
+                    "letter": "C",
+                    "text": "4 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "12 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 10,
+            "text": "Cast-iron soil pipe, installed vertically, shall be supported at its base and _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "each floor not to exceed 15 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "every other story"
+                },
+                {
+                    "letter": "C",
+                    "text": "5-foot intervals"
+                },
+                {
+                    "letter": "D",
+                    "text": "10-foot intervals"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 11,
+            "text": "Threaded or welded 3/4 inch steel pipe supplying water installed horizontally shall be supported at intervals not exceeding _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "5 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "10 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "12 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "15 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "Piping in the ground shall be laid on _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a firm bed"
+                },
+                {
+                    "letter": "B",
+                    "text": "concrete blocks"
+                },
+                {
+                    "letter": "C",
+                    "text": "redwood stakes"
+                },
+                {
+                    "letter": "D",
+                    "text": "common bricks"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "PEX piping may be coupled together with shielded couplings.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "true"
+                },
+                {
+                    "letter": "B",
+                    "text": "false"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "The type of acceptable joints for PEX-AL-PEX shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "metal insert or metal compression"
+                },
+                {
+                    "letter": "B",
+                    "text": "solvent cemented"
+                },
+                {
+                    "letter": "C",
+                    "text": "shielded coupling"
+                },
+                {
+                    "letter": "D",
+                    "text": "mechanical"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 15,
+            "text": "Copper tubing installed vertically shall be supported at each floor or at intervals not to exceed _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "4 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "10 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "8 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "6 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 16,
+            "text": "Mechanical devices such as bulldozers, graders, etc. , shall be permitted to complete back f iI ling to grade where covering above piping is at least _____ inches.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "6"
+                },
+                {
+                    "letter": "B",
+                    "text": "12"
+                },
+                {
+                    "letter": "C",
+                    "text": "30"
+                },
+                {
+                    "letter": "D",
+                    "text": "36"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 17,
+            "text": "Two-inch copper drain pipe installed horizontally shall be supported at intervals not exceeding _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "4 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "6 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "10 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "12 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 18,
+            "text": "Horizontal hubless pipe shall be braced at not more than 40-foot intervals to prevent _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "noise"
+                },
+                {
+                    "letter": "B",
+                    "text": "leaking"
+                },
+                {
+                    "letter": "C",
+                    "text": "vertical movement"
+                },
+                {
+                    "letter": "D",
+                    "text": "horizontal movement"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 19,
+            "text": "All piping, fixtures, and equipment shall be adequately supported in accordance with this _____, the manufacturer\u2019s installation instructions, and in accordance with the Authority Having Jurisdiction.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "contractor"
+                },
+                {
+                    "letter": "B",
+                    "text": "code"
+                },
+                {
+                    "letter": "C",
+                    "text": "owner"
+                },
+                {
+                    "letter": "D",
+                    "text": "interior designer"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 20,
+            "text": "Voids around piping passing through concrete floors on the ground shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "flanged"
+                },
+                {
+                    "letter": "B",
+                    "text": "protected"
+                },
+                {
+                    "letter": "C",
+                    "text": "sealed"
+                },
+                {
+                    "letter": "D",
+                    "text": "packed"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 21,
+            "text": "All materials, fixtures, or devices used or entering into the construction of plumbing and drainage systems shall be listed as _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "complying with approved applicable standards"
+                },
+                {
+                    "letter": "B",
+                    "text": "conforming to green product standards"
+                },
+                {
+                    "letter": "C",
+                    "text": "conforming to price of job"
+                },
+                {
+                    "letter": "D",
+                    "text": "conforming to material availability"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 22,
+            "text": "The provisions of the code allow an alternate material or method of construction provided it is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "approved by the architect as an alternate"
+                },
+                {
+                    "letter": "B",
+                    "text": "accepted by the owner as an alternate"
+                },
+                {
+                    "letter": "C",
+                    "text": "approved by the Authority Having Jurisdiction as an alternate"
+                },
+                {
+                    "letter": "D",
+                    "text": "manufactured by a reputable organization"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 23,
+            "text": "I.P.S. is the abbreviation for ______.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "iron pipe standard"
+                },
+                {
+                    "letter": "B",
+                    "text": "iron pipe size"
+                },
+                {
+                    "letter": "C",
+                    "text": "inside pipe standard"
+                },
+                {
+                    "letter": "D",
+                    "text": "inside pipe size"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 24,
+            "text": "Section 312. 2 prohibits the direct embedment of hubless cast-iron pipe in a concrete slab.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "true"
+                },
+                {
+                    "letter": "B",
+                    "text": "false"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 25,
+            "text": "Tub waste openings in framed construction to crawlspaces at or below the first floor shall be protected by _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "completely covering the opening with plywood collars"
+                },
+                {
+                    "letter": "B",
+                    "text": "the installations of approved metal collars or screens"
+                },
+                {
+                    "letter": "C",
+                    "text": "flashings"
+                },
+                {
+                    "letter": "D",
+                    "text": "filling the annular space with approved fiber material"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 26,
+            "text": "It is permitted to drill and tap a vent pipe to connect an indirect waste pipe.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "true"
+                },
+                {
+                    "letter": "B",
+                    "text": "false"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 27,
+            "text": "All pipe, pipe fittings, traps, fixtures, materials, and devices used in plumbing systems shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "listed or labeled by a listing agency"
+                },
+                {
+                    "letter": "B",
+                    "text": "approved by the Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "C",
+                    "text": "free from defects"
+                },
+                {
+                    "letter": "D",
+                    "text": "all of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 28,
+            "text": "Sleeves shall be provided to protect all piping through _____ and _____ walls.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "floors, concrete"
+                },
+                {
+                    "letter": "B",
+                    "text": "wood, concrete"
+                },
+                {
+                    "letter": "C",
+                    "text": "concrete, masonry"
+                },
+                {
+                    "letter": "D",
+                    "text": "none of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 29,
+            "text": "Hub less cast iron piping shall be supported every other joint, unless over feet in length, then it shall be provided with support at every joint.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "4"
+                },
+                {
+                    "letter": "B",
+                    "text": "6"
+                },
+                {
+                    "letter": "C",
+                    "text": "8"
+                },
+                {
+                    "letter": "D",
+                    "text": "10"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 30,
+            "text": "When installing _____, the Authority Having Jurisdiction shall require evidence of the competency of the installers.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "potable water piping"
+                },
+                {
+                    "letter": "B",
+                    "text": "fuel-gas piping"
+                },
+                {
+                    "letter": "C",
+                    "text": "medical gas piping"
+                },
+                {
+                    "letter": "D",
+                    "text": "plumbing appurtenance"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 31,
+            "text": "Drain pipes subject to condensation over food storage in food-handling establishments shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "installed with a spill pan"
+                },
+                {
+                    "letter": "B",
+                    "text": "thermally insulated"
+                },
+                {
+                    "letter": "C",
+                    "text": "rerouted out of the area"
+                },
+                {
+                    "letter": "D",
+                    "text": "tested with 5 psi of air"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 32,
+            "text": "Test gauges shall not have a pressure range not exceeding _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the test pressure applied"
+                },
+                {
+                    "letter": "B",
+                    "text": "twice the test pressure applied"
+                },
+                {
+                    "letter": "C",
+                    "text": "15 psi"
+                },
+                {
+                    "letter": "D",
+                    "text": "60 psi"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 33,
+            "text": "If an Authority Having Jurisdiction permits an \u201calternative engineered design, \u201d _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the approval shall have effect beyond that Authority Having Jurisdiction boundary"
+                },
+                {
+                    "letter": "B",
+                    "text": "the approval shall have no effect beyond that Authority Having Jurisdiction boundary"
+                },
+                {
+                    "letter": "C",
+                    "text": "a property owner shall also approve the change"
+                },
+                {
+                    "letter": "D",
+                    "text": "a covenant shall be recorded to that effect"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 34,
+            "text": "Plumbing systems shall be located above the design flood elevation _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "under no circumstances"
+                },
+                {
+                    "letter": "B",
+                    "text": "unless approved as a buoyancy compliant system"
+                },
+                {
+                    "letter": "C",
+                    "text": "except when designed to prevent water from entering or accumulating within their components"
+                },
+                {
+                    "letter": "D",
+                    "text": "if they contain backwater valves"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 35,
+            "text": "Sound limitations in plumbing systems shall be designed and installed in accordance with the code.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Mechanical"
+                },
+                {
+                    "letter": "B",
+                    "text": "Fire"
+                },
+                {
+                    "letter": "C",
+                    "text": "Energy"
+                },
+                {
+                    "letter": "D",
+                    "text": "Building"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "C"
+        },
+        {
+            "number": 2,
+            "letter": "A"
+        },
+        {
+            "number": 3,
+            "letter": "C"
+        },
+        {
+            "number": 4,
+            "letter": "B"
+        },
+        {
+            "number": 5,
+            "letter": "C"
+        },
+        {
+            "number": 6,
+            "letter": "A"
+        },
+        {
+            "number": 7,
+            "letter": "B"
+        },
+        {
+            "number": 8,
+            "letter": "B"
+        },
+        {
+            "number": 9,
+            "letter": "A"
+        },
+        {
+            "number": 10,
+            "letter": "A"
+        },
+        {
+            "number": 11,
+            "letter": "B"
+        },
+        {
+            "number": 12,
+            "letter": "A"
+        },
+        {
+            "number": 13,
+            "letter": "B"
+        },
+        {
+            "number": 14,
+            "letter": "A"
+        },
+        {
+            "number": 15,
+            "letter": "B"
+        },
+        {
+            "number": 16,
+            "letter": "B"
+        },
+        {
+            "number": 17,
+            "letter": "C"
+        },
+        {
+            "number": 18,
+            "letter": "D"
+        },
+        {
+            "number": 19,
+            "letter": "B"
+        },
+        {
+            "number": 20,
+            "letter": "C"
+        },
+        {
+            "number": 21,
+            "letter": "A"
+        },
+        {
+            "number": 22,
+            "letter": "C"
+        },
+        {
+            "number": 23,
+            "letter": "B"
+        },
+        {
+            "number": 24,
+            "letter": "A"
+        },
+        {
+            "number": 25,
+            "letter": "B"
+        },
+        {
+            "number": 26,
+            "letter": "B"
+        },
+        {
+            "number": 27,
+            "letter": "D"
+        },
+        {
+            "number": 28,
+            "letter": "C"
+        },
+        {
+            "number": 29,
+            "letter": "A"
+        },
+        {
+            "number": 30,
+            "letter": "C"
+        },
+        {
+            "number": 31,
+            "letter": "B"
+        },
+        {
+            "number": 32,
+            "letter": "B"
+        },
+        {
+            "number": 33,
+            "letter": "B"
+        },
+        {
+            "number": 34,
+            "letter": "C"
+        },
+        {
+            "number": 35,
+            "letter": "D"
+        }
+    ]
+}

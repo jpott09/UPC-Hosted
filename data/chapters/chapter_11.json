@@ -1,0 +1,791 @@
+{
+    "number": 11,
+    "text": "STORM DRAINAGE",
+    "questions": [
+        {
+            "number": 1,
+            "text": "Storm water shall not be drained into sewers intended for.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a combined sewer system"
+                },
+                {
+                    "letter": "B",
+                    "text": "sanitary drainage only"
+                },
+                {
+                    "letter": "C",
+                    "text": "a storm drain system"
+                },
+                {
+                    "letter": "D",
+                    "text": "a storm sewer system"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "Subsoil drains shall be piped to a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "storm drain"
+                },
+                {
+                    "letter": "B",
+                    "text": "street curb"
+                },
+                {
+                    "letter": "C",
+                    "text": "alley"
+                },
+                {
+                    "letter": "D",
+                    "text": "all of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "The perimeter of buildings having basements, cellars, or crawl spaces or floors below grade shall be provided with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "backwater valves"
+                },
+                {
+                    "letter": "B",
+                    "text": "seepage pits"
+                },
+                {
+                    "letter": "C",
+                    "text": "subsoil drains"
+                },
+                {
+                    "letter": "D",
+                    "text": "leech lines"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "All rainwater sumps serving \u201cpublic use\u201d occupancy buildings shall be provided with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "single pumps"
+                },
+                {
+                    "letter": "B",
+                    "text": "dual pumps"
+                },
+                {
+                    "letter": "C",
+                    "text": "separate sumps"
+                },
+                {
+                    "letter": "D",
+                    "text": "overflow tanks"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "Roof drains, gutters, vertical conductors or leaders, and horizontal storm drains for primary drainage shall be sized based on _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "30-minute 30-year storm"
+                },
+                {
+                    "letter": "B",
+                    "text": "3 inches per hour"
+                },
+                {
+                    "letter": "C",
+                    "text": "60-minute 100-year return period"
+                },
+                {
+                    "letter": "D",
+                    "text": "6 inches per hour"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "The overflow level of the secondary drain inlet above the primary drain inlet shall be not less than _____ inch(es) above the roof.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1"
+                },
+                {
+                    "letter": "B",
+                    "text": "2"
+                },
+                {
+                    "letter": "C",
+                    "text": "6"
+                },
+                {
+                    "letter": "D",
+                    "text": "12"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "Leaders and storm drains, where connected to a combined sewer, shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "trapped"
+                },
+                {
+                    "letter": "B",
+                    "text": "identified"
+                },
+                {
+                    "letter": "C",
+                    "text": "crown vented"
+                },
+                {
+                    "letter": "D",
+                    "text": "oversized"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "Of those listed, an approved material for conductors installed above ground level in buildings is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "aluminum sheet metal"
+                },
+                {
+                    "letter": "B",
+                    "text": "ABS Schedule 40"
+                },
+                {
+                    "letter": "C",
+                    "text": "PVC SDR 35"
+                },
+                {
+                    "letter": "D",
+                    "text": "CPVC"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "The sizing data for horizontal storm drain piping is based on the pipes flowing _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/2 full"
+                },
+                {
+                    "letter": "B",
+                    "text": "3/4 full"
+                },
+                {
+                    "letter": "C",
+                    "text": "full"
+                },
+                {
+                    "letter": "D",
+                    "text": "at 2 percent velocity"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 10,
+            "text": "Of those listed, roof drain strainers of the flat surface type may be installed on _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "sun decks"
+                },
+                {
+                    "letter": "B",
+                    "text": "any roof"
+                },
+                {
+                    "letter": "C",
+                    "text": "secondary roof drains"
+                },
+                {
+                    "letter": "D",
+                    "text": "its upper terminal"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 11,
+            "text": "Connection between the roof and roof drains that pass through the roof and into the interior of the building shall be made watertight by the use of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "expansion joints"
+                },
+                {
+                    "letter": "B",
+                    "text": "caulking compound"
+                },
+                {
+                    "letter": "C",
+                    "text": "solvent cement"
+                },
+                {
+                    "letter": "D",
+                    "text": "proper flashing material"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "Roof areas of 10, 000 square feet or less shall have no less than (controlled flow roof drainage) _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "two drains"
+                },
+                {
+                    "letter": "B",
+                    "text": "one drain"
+                },
+                {
+                    "letter": "C",
+                    "text": "one primary drain"
+                },
+                {
+                    "letter": "D",
+                    "text": "one secondary drain"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "Of those listed, storm drain systems shall be tested upon completion of the rough piping by using _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "10 foot head of water"
+                },
+                {
+                    "letter": "B",
+                    "text": "4.34 psi air"
+                },
+                {
+                    "letter": "C",
+                    "text": "4.34 inches mercury"
+                },
+                {
+                    "letter": "D",
+                    "text": "smoke or peppermint oil"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "Schedule 40 plastic DWV storm drain systems shall not be tested by _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "water"
+                },
+                {
+                    "letter": "B",
+                    "text": "air"
+                },
+                {
+                    "letter": "C",
+                    "text": "10 foot head of water"
+                },
+                {
+                    "letter": "D",
+                    "text": "water from low to high point"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 15,
+            "text": "Calculations for the controlled flow roof drainage system shall be submitted along with plans to the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "architect"
+                },
+                {
+                    "letter": "B",
+                    "text": "plumber"
+                },
+                {
+                    "letter": "C",
+                    "text": "design engineer"
+                },
+                {
+                    "letter": "D",
+                    "text": "Authority Having Jurisdiction"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 16,
+            "text": "The minimum size of a drain leader serving a roof with a projected area of 4, 613 square feet and a rainfall rate of 3 inches per hour is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "3 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "4 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "5 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 17,
+            "text": "The minimum size of a horizontal rain water pipe with a 1/8 inch per foot slope, serving a roof with a projected area of 10,700 square feet, and a rainfall rate of 2 inches per hour is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "3 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "5 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "6 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 18,
+            "text": "The size of semicircular gutters shall be based on the maximum projected roof area and _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Table 1105.1"
+                },
+                {
+                    "letter": "B",
+                    "text": "Table 1101.8"
+                },
+                {
+                    "letter": "C",
+                    "text": "Table 1101.12"
+                },
+                {
+                    "letter": "D",
+                    "text": "Table 1103.3"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 19,
+            "text": "For the purposes of calculating roof area, one vertical wall projecting above a roof will _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "add 50 percent of wall area to roof figures"
+                },
+                {
+                    "letter": "B",
+                    "text": "add 35 percent of wall area to roof figures"
+                },
+                {
+                    "letter": "C",
+                    "text": "add no additional area"
+                },
+                {
+                    "letter": "D",
+                    "text": "subtract 35 percent of wall area from roof figures"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 20,
+            "text": "Subsoil drain lines shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "open jointed"
+                },
+                {
+                    "letter": "B",
+                    "text": "perforated pipe"
+                },
+                {
+                    "letter": "C",
+                    "text": "close jointed"
+                },
+                {
+                    "letter": "D",
+                    "text": "A or B apply"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 21,
+            "text": "Leaders installed along alleyways, driveways, or other locations where they may be exposed to damage shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "constructed from ferrous pipe"
+                },
+                {
+                    "letter": "B",
+                    "text": "installed with extra-heavy couplings"
+                },
+                {
+                    "letter": "C",
+                    "text": "provided with expansion joints"
+                },
+                {
+                    "letter": "D",
+                    "text": "Type DWV copper tube"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 22,
+            "text": "A connection between the roof drain and the secondary (overflow) drain in a separate piping system shall _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "be connected at vertical piping only"
+                },
+                {
+                    "letter": "B",
+                    "text": "not exist, and the secondary drain shall discharge independently above grade and in a location observable by building occupants"
+                },
+                {
+                    "letter": "C",
+                    "text": "occur belowground outside of the building"
+                },
+                {
+                    "letter": "D",
+                    "text": "occur below the roof structure, provided that the overflow drain shall be the same size as the roof drain"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 23,
+            "text": "ABS and PVC-DWV installations shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "limited to structures not exceeding three floors above grade"
+                },
+                {
+                    "letter": "B",
+                    "text": "installed in accordance with Chapter 14 \u201cFirestop Protection\u201d"
+                },
+                {
+                    "letter": "C",
+                    "text": "limited to structures of combustible construction"
+                },
+                {
+                    "letter": "D",
+                    "text": "limited to structures of combustible construction not exceeding three floors above grade"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 24,
+            "text": "Vertical piping shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "round"
+                },
+                {
+                    "letter": "B",
+                    "text": "square"
+                },
+                {
+                    "letter": "C",
+                    "text": "rectangle"
+                },
+                {
+                    "letter": "D",
+                    "text": "all of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 25,
+            "text": "Flat deck drains may be installed on _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "sun decks"
+                },
+                {
+                    "letter": "B",
+                    "text": "parking decks"
+                },
+                {
+                    "letter": "C",
+                    "text": "any roof"
+                },
+                {
+                    "letter": "D",
+                    "text": "A and B apply"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 26,
+            "text": "Traps, where installed for individual conductors, shall be _____ the horizontal drain to which they are connected.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "two pipe sizes larger than"
+                },
+                {
+                    "letter": "B",
+                    "text": "1/2 the cross-sectional area of"
+                },
+                {
+                    "letter": "C",
+                    "text": "the same size as"
+                },
+                {
+                    "letter": "D",
+                    "text": "twice the cross-sectional area of"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 27,
+            "text": "With a projected roof area of 18,500 square feet in an area that has a rainfall rate of 3 inches per hour, what minimum size of horizontal pipe is required at a 1/4\u2019\u2019 per foot slope? _____",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "3 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "5 inch"
+                },
+                {
+                    "letter": "C",
+                    "text": "6 inch"
+                },
+                {
+                    "letter": "D",
+                    "text": "8 inch"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 28,
+            "text": "Of those listed, roofs, inner courts, vent shafts, light wells, or similar areas having rainwater drains shall discharge to (a) _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "sanitary sewage system"
+                },
+                {
+                    "letter": "B",
+                    "text": "private sewage disposal system"
+                },
+                {
+                    "letter": "C",
+                    "text": "sump with pump discharge into the house drain"
+                },
+                {
+                    "letter": "D",
+                    "text": "outside of the building or to the gutter"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 29,
+            "text": "Siphonic roof drainage systems shall be designed by a(n) _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "installer"
+                },
+                {
+                    "letter": "B",
+                    "text": "Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "C",
+                    "text": "Registered Design Professional"
+                },
+                {
+                    "letter": "D",
+                    "text": "General Contractor"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "B"
+        },
+        {
+            "number": 2,
+            "letter": "D"
+        },
+        {
+            "number": 3,
+            "letter": "C"
+        },
+        {
+            "number": 4,
+            "letter": "B"
+        },
+        {
+            "number": 5,
+            "letter": "C"
+        },
+        {
+            "number": 6,
+            "letter": "B"
+        },
+        {
+            "number": 7,
+            "letter": "A"
+        },
+        {
+            "number": 8,
+            "letter": "B"
+        },
+        {
+            "number": 9,
+            "letter": "C"
+        },
+        {
+            "number": 10,
+            "letter": "A"
+        },
+        {
+            "number": 11,
+            "letter": "D"
+        },
+        {
+            "number": 12,
+            "letter": "A"
+        },
+        {
+            "number": 13,
+            "letter": "A"
+        },
+        {
+            "number": 14,
+            "letter": "B"
+        },
+        {
+            "number": 15,
+            "letter": "D"
+        },
+        {
+            "number": 16,
+            "letter": "C"
+        },
+        {
+            "number": 17,
+            "letter": "D"
+        },
+        {
+            "number": 18,
+            "letter": "D"
+        },
+        {
+            "number": 19,
+            "letter": "A"
+        },
+        {
+            "number": 20,
+            "letter": "D"
+        },
+        {
+            "number": 21,
+            "letter": "A"
+        },
+        {
+            "number": 22,
+            "letter": "B"
+        },
+        {
+            "number": 23,
+            "letter": "B"
+        },
+        {
+            "number": 24,
+            "letter": "D"
+        },
+        {
+            "number": 25,
+            "letter": "D"
+        },
+        {
+            "number": 26,
+            "letter": "C"
+        },
+        {
+            "number": 27,
+            "letter": "D"
+        },
+        {
+            "number": 28,
+            "letter": "D"
+        },
+        {
+            "number": 29,
+            "letter": "C"
+        }
+    ]
+}

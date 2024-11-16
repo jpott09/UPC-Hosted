@@ -1,0 +1,1115 @@
+{
+    "number": 4,
+    "text": "PLUMBING FIXTURES AND FIXTURE FITTINGS",
+    "questions": [
+        {
+            "number": 1,
+            "text": "Screws or bolts for securing floor-mounted fixtures shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "copper alloy"
+                },
+                {
+                    "letter": "B",
+                    "text": "aluminum"
+                },
+                {
+                    "letter": "C",
+                    "text": "galvanized steel"
+                },
+                {
+                    "letter": "D",
+                    "text": "die-cast zinc"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "Fixtures having concealed slip-joint connections shall be provided with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a utility space or access panel"
+                },
+                {
+                    "letter": "B",
+                    "text": "a ladder and a light fixture"
+                },
+                {
+                    "letter": "C",
+                    "text": "red brass fittings"
+                },
+                {
+                    "letter": "D",
+                    "text": "rubber gaskets"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "The overflow pipe from a fixture shall be connected on the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "house or inlet side of the fixture trap"
+                },
+                {
+                    "letter": "B",
+                    "text": "sewer or outlet side of the fixture trap"
+                },
+                {
+                    "letter": "C",
+                    "text": "downstream side of the fixture tee"
+                },
+                {
+                    "letter": "D",
+                    "text": "upstream side of the fixture tee"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "The diameter of a waste outlet and fixture tailpiece for a bathtub shall not be less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 1/4 inches in diameter"
+                },
+                {
+                    "letter": "B",
+                    "text": "1 3/8 inches in diameter"
+                },
+                {
+                    "letter": "C",
+                    "text": "1 1/2 inches in diameter"
+                },
+                {
+                    "letter": "D",
+                    "text": "1 3/8 inches internal diameter"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "The fitting indicated by the arrow shall be a n _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "sanitary tee"
+                },
+                {
+                    "letter": "B",
+                    "text": "tubing tee"
+                },
+                {
+                    "letter": "C",
+                    "text": "approved wye"
+                },
+                {
+                    "letter": "D",
+                    "text": "cross tee"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "The connection of the dishwasher drain directly to the continuous waste, as indicated by the arrow, is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a code violation"
+                },
+                {
+                    "letter": "B",
+                    "text": "good practice"
+                },
+                {
+                    "letter": "C",
+                    "text": "not a code violation"
+                },
+                {
+                    "letter": "D",
+                    "text": "a cross connection"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "No dry or chemical closet (toilet) shall be installed in any building used for human habitation unless first approved by the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "owner"
+                },
+                {
+                    "letter": "B",
+                    "text": "plumbing inspector"
+                },
+                {
+                    "letter": "C",
+                    "text": "city clerk"
+                },
+                {
+                    "letter": "D",
+                    "text": "health officer"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "The distance X shall be not less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "12 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "15 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "24 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "30 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "The distance Y shall be not less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "12 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "15 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "24 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "30 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 10,
+            "text": "Tanks flushing more than one urinal shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "automatic in operation"
+                },
+                {
+                    "letter": "B",
+                    "text": "continual in operation"
+                },
+                {
+                    "letter": "C",
+                    "text": "manual in operation"
+                },
+                {
+                    "letter": "D",
+                    "text": "acid-resistant enamel"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 11,
+            "text": "A water supply to a urinal shall be protected by an approved _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "relief valve"
+                },
+                {
+                    "letter": "B",
+                    "text": "vacuum breaker"
+                },
+                {
+                    "letter": "C",
+                    "text": "metering valve"
+                },
+                {
+                    "letter": "D",
+                    "text": "automatic switch"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "Trough urinals shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "permissible if constructed of concrete"
+                },
+                {
+                    "letter": "B",
+                    "text": "required in large associations"
+                },
+                {
+                    "letter": "C",
+                    "text": "prohibited"
+                },
+                {
+                    "letter": "D",
+                    "text": "allowed in bus stations"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "With two noted exceptions, all shower compartments and receptors shall be capable of encompassing a _____ diameter circle.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "24 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "30 inch"
+                },
+                {
+                    "letter": "C",
+                    "text": "33 inch"
+                },
+                {
+                    "letter": "D",
+                    "text": "36 inch"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "The curb or threshold of a shower compartment may be eliminated _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "in accordance with ICC A117.1 and accessibility standards"
+                },
+                {
+                    "letter": "B",
+                    "text": "for gang showers"
+                },
+                {
+                    "letter": "C",
+                    "text": "in hospitals only"
+                },
+                {
+                    "letter": "D",
+                    "text": "not permitted"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 15,
+            "text": "The distance X is restricted to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2 inches minimum and 9 inches maximum"
+                },
+                {
+                    "letter": "B",
+                    "text": "1 inch minimum and 7 inches maximum"
+                },
+                {
+                    "letter": "C",
+                    "text": "3 inches minimum and inches maximum"
+                },
+                {
+                    "letter": "D",
+                    "text": "2 inches minimum and 7 inches maximum"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 16,
+            "text": "Shower pan linings may be constructed with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "26 B&S gauge copper"
+                },
+                {
+                    "letter": "B",
+                    "text": "3 pounds per square foot lead"
+                },
+                {
+                    "letter": "C",
+                    "text": "15 pounds asphalt felt"
+                },
+                {
+                    "letter": "D",
+                    "text": "zinc-coated steel"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 17,
+            "text": "Joints in copper shower pan liners shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "burned"
+                },
+                {
+                    "letter": "B",
+                    "text": "swaged"
+                },
+                {
+                    "letter": "C",
+                    "text": "sealed with epoxy cement"
+                },
+                {
+                    "letter": "D",
+                    "text": "soldered or brazed"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 18,
+            "text": "Drinking fountains shall not be installed in _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "public toilet rooms"
+                },
+                {
+                    "letter": "B",
+                    "text": "restaurants"
+                },
+                {
+                    "letter": "C",
+                    "text": "bars"
+                },
+                {
+                    "letter": "D",
+                    "text": "schoolyards"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 19,
+            "text": "Water closets set side by side shall be no closer than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "15 inches center-to-center"
+                },
+                {
+                    "letter": "B",
+                    "text": "18 inches center-to-center"
+                },
+                {
+                    "letter": "C",
+                    "text": "24 inches center-to- center"
+                },
+                {
+                    "letter": "D",
+                    "text": "30 inches center-to- center"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 20,
+            "text": "The minimum distance from a side wall or partition to the center of a urinal shall be _____ inches.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "6"
+                },
+                {
+                    "letter": "B",
+                    "text": "12"
+                },
+                {
+                    "letter": "C",
+                    "text": "18"
+                },
+                {
+                    "letter": "D",
+                    "text": "24"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 21,
+            "text": "Manually controlled flushometer valves shall be used to flush not more than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "one urinal"
+                },
+                {
+                    "letter": "B",
+                    "text": "two urinals"
+                },
+                {
+                    "letter": "C",
+                    "text": "three urinals"
+                },
+                {
+                    "letter": "D",
+                    "text": "four urinals"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 22,
+            "text": "Automatically controlled flushometer valves may be substituted for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "flush tanks"
+                },
+                {
+                    "letter": "B",
+                    "text": "flow control"
+                },
+                {
+                    "letter": "C",
+                    "text": "gate valves"
+                },
+                {
+                    "letter": "D",
+                    "text": "lever valves"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 23,
+            "text": "The joint of a wall-hung lavatory, where it is in contact with the wall, shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "smooth"
+                },
+                {
+                    "letter": "B",
+                    "text": "painted"
+                },
+                {
+                    "letter": "C",
+                    "text": "concealed"
+                },
+                {
+                    "letter": "D",
+                    "text": "made watertight"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 24,
+            "text": "Approved type bonderized and galvanized sheet steel of not less than 16 U.S. gauge may be used to make dishwashing sinks for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "restaurants"
+                },
+                {
+                    "letter": "B",
+                    "text": "lunch counters"
+                },
+                {
+                    "letter": "C",
+                    "text": "commercial buildings"
+                },
+                {
+                    "letter": "D",
+                    "text": "residential buildings"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 25,
+            "text": "Gutters in public shower rooms shall be sloped not less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "5 percent"
+                },
+                {
+                    "letter": "B",
+                    "text": "10 percent"
+                },
+                {
+                    "letter": "C",
+                    "text": "2 percent"
+                },
+                {
+                    "letter": "D",
+                    "text": "3 percent"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 26,
+            "text": "Wall-hung lavatories shall be supported by _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "metal supporting members"
+                },
+                {
+                    "letter": "B",
+                    "text": "rigid traps"
+                },
+                {
+                    "letter": "C",
+                    "text": "wooden legs"
+                },
+                {
+                    "letter": "D",
+                    "text": "their connections"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 27,
+            "text": "The tailpiece diameter for lavatories shall not be less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1-1/4 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "1-3/8 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "1-1/2 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "1-3/4 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 28,
+            "text": "In the construction of \u201con-site built-up shower receptors\u201d, watertight shower pan linings shall be installed, over a smooth and solid sub-base, with a pitch to the \u201cweep holes\u201d of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/8 inch per foot"
+                },
+                {
+                    "letter": "B",
+                    "text": "1/4 inch per foot"
+                },
+                {
+                    "letter": "C",
+                    "text": "1/16 inch per foot"
+                },
+                {
+                    "letter": "D",
+                    "text": "1/32 inch per foot"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 29,
+            "text": "Strainers having waterway areas at least equivalent to the area of their tailpiece are required for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "shower drains"
+                },
+                {
+                    "letter": "B",
+                    "text": "floor drains"
+                },
+                {
+                    "letter": "C",
+                    "text": "urinals"
+                },
+                {
+                    "letter": "D",
+                    "text": "A & B"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 30,
+            "text": "Showers and tub-shower combinations shall be provided with individual control valves of the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "pressure balance type"
+                },
+                {
+                    "letter": "B",
+                    "text": "thermostatic mixing valve type"
+                },
+                {
+                    "letter": "C",
+                    "text": "140\u00b0F limit control type"
+                },
+                {
+                    "letter": "D",
+                    "text": "A and B apply"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 31,
+            "text": "The clear space in front of any water closet, lavatory or bidet shall not be less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "12 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "18 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "24 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "30 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 32,
+            "text": "Non-water urinals _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "are prohibited by code"
+                },
+                {
+                    "letter": "B",
+                    "text": "are exempt from plumbing product listings"
+                },
+                {
+                    "letter": "C",
+                    "text": "require backwater valves"
+                },
+                {
+                    "letter": "D",
+                    "text": "require individually roughed-in water lines"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 33,
+            "text": "Maximum hot water temperature discharging from a bidet shall be limited to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "105\u00b0F"
+                },
+                {
+                    "letter": "B",
+                    "text": "110\u00b0F"
+                },
+                {
+                    "letter": "C",
+                    "text": "120\u00b0F"
+                },
+                {
+                    "letter": "D",
+                    "text": "not limited"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 34,
+            "text": "Closet bends or stubs shall be cut off so as to present a smooth surface, even with the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "top of the rough floor"
+                },
+                {
+                    "letter": "B",
+                    "text": "top of the closet ring"
+                },
+                {
+                    "letter": "C",
+                    "text": "top of the finish floor"
+                },
+                {
+                    "letter": "D",
+                    "text": "bottom of the closet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 35,
+            "text": "Wall-mounted water closets shall be securely bolted to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the wall"
+                },
+                {
+                    "letter": "B",
+                    "text": "double two by six studs"
+                },
+                {
+                    "letter": "C",
+                    "text": "a carrier fitting"
+                },
+                {
+                    "letter": "D",
+                    "text": "a closet bend"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 36,
+            "text": "Fixture connections between drainage pipes and water closets shall be made with approved _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "expansion joints"
+                },
+                {
+                    "letter": "B",
+                    "text": "unions"
+                },
+                {
+                    "letter": "C",
+                    "text": "flanges"
+                },
+                {
+                    "letter": "D",
+                    "text": "hot-poured compound"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 37,
+            "text": "The water supply to a bathtub and whirlpool bathtub filler valve shall be protected by an _____ or in accordance with Section 417.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "air break"
+                },
+                {
+                    "letter": "B",
+                    "text": "air gap"
+                },
+                {
+                    "letter": "C",
+                    "text": "ASSE 1017"
+                },
+                {
+                    "letter": "D",
+                    "text": "ASSE 1070"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 38,
+            "text": "A domestic dishwashing machine shall discharge indirectly through an air gap fitting into a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "wye branch fitting on the tailpiece of a kitchen sink"
+                },
+                {
+                    "letter": "B",
+                    "text": "waste receptor"
+                },
+                {
+                    "letter": "C",
+                    "text": "dishwasher connection of a food waste disposer"
+                },
+                {
+                    "letter": "D",
+                    "text": "all of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 39,
+            "text": "The path of travel to an emergency eyewash shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "clearly identified"
+                },
+                {
+                    "letter": "B",
+                    "text": "in a straight line"
+                },
+                {
+                    "letter": "C",
+                    "text": "no more than 50 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "no more than 100 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 40,
+            "text": "Supports for off the floor public use plumbing fixtures are to comply with ASME _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "A112.6.1.M"
+                },
+                {
+                    "letter": "B",
+                    "text": "A112.6.2"
+                },
+                {
+                    "letter": "C",
+                    "text": "A112.19.3"
+                },
+                {
+                    "letter": "D",
+                    "text": "A112.19.19"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 41,
+            "text": "An emergency eye wash supplied with hot and cold water shall be controlled by a temperature actuated mixing valve complying with ASSE _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1016"
+                },
+                {
+                    "letter": "B",
+                    "text": "1069"
+                },
+                {
+                    "letter": "C",
+                    "text": "1070"
+                },
+                {
+                    "letter": "D",
+                    "text": "1071"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "A"
+        },
+        {
+            "number": 2,
+            "letter": "A"
+        },
+        {
+            "number": 3,
+            "letter": "A"
+        },
+        {
+            "number": 4,
+            "letter": "C"
+        },
+        {
+            "number": 5,
+            "letter": "C"
+        },
+        {
+            "number": 6,
+            "letter": "A"
+        },
+        {
+            "number": 7,
+            "letter": "D"
+        },
+        {
+            "number": 8,
+            "letter": "B"
+        },
+        {
+            "number": 9,
+            "letter": "C"
+        },
+        {
+            "number": 10,
+            "letter": "A"
+        },
+        {
+            "number": 11,
+            "letter": "B"
+        },
+        {
+            "number": 12,
+            "letter": "C"
+        },
+        {
+            "number": 13,
+            "letter": "B"
+        },
+        {
+            "number": 14,
+            "letter": "A"
+        },
+        {
+            "number": 15,
+            "letter": "A"
+        },
+        {
+            "number": 16,
+            "letter": "C"
+        },
+        {
+            "number": 17,
+            "letter": "D"
+        },
+        {
+            "number": 18,
+            "letter": "A"
+        },
+        {
+            "number": 19,
+            "letter": "D"
+        },
+        {
+            "number": 20,
+            "letter": "B"
+        },
+        {
+            "number": 21,
+            "letter": "A"
+        },
+        {
+            "number": 22,
+            "letter": "A"
+        },
+        {
+            "number": 23,
+            "letter": "D"
+        },
+        {
+            "number": 24,
+            "letter": "A"
+        },
+        {
+            "number": 25,
+            "letter": "C"
+        },
+        {
+            "number": 26,
+            "letter": "A"
+        },
+        {
+            "number": 27,
+            "letter": "A"
+        },
+        {
+            "number": 28,
+            "letter": "B"
+        },
+        {
+            "number": 29,
+            "letter": "D"
+        },
+        {
+            "number": 30,
+            "letter": "D"
+        },
+        {
+            "number": 31,
+            "letter": "C"
+        },
+        {
+            "number": 32,
+            "letter": "D"
+        },
+        {
+            "number": 33,
+            "letter": "B"
+        },
+        {
+            "number": 34,
+            "letter": "B"
+        },
+        {
+            "number": 35,
+            "letter": "C"
+        },
+        {
+            "number": 36,
+            "letter": "C"
+        },
+        {
+            "number": 37,
+            "letter": "B"
+        },
+        {
+            "number": 38,
+            "letter": "D"
+        },
+        {
+            "number": 39,
+            "letter": "A"
+        },
+        {
+            "number": 40,
+            "letter": "A"
+        },
+        {
+            "number": 41,
+            "letter": "D"
+        }
+    ]
+}

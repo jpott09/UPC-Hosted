@@ -1,0 +1,1142 @@
+{
+    "number": 5,
+    "text": "WATER HEATERS",
+    "questions": [
+        {
+            "number": 1,
+            "text": "It shall be unlawful for any person to install, remove, or replace any water heater without first _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "obtaining a plumbing contractor license from the Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "B",
+                    "text": "obtaining a permit from the Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "C",
+                    "text": "having a plumbing journeyman\u2019s license"
+                },
+                {
+                    "letter": "D",
+                    "text": "having permission from the building owner"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "Vent connectors of natural draft appliances _____ be connected to mechanical draft systems operating under positive pressure.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "may"
+                },
+                {
+                    "letter": "B",
+                    "text": "shall not"
+                },
+                {
+                    "letter": "C",
+                    "text": "must"
+                },
+                {
+                    "letter": "D",
+                    "text": "must be interlocked before they can"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "A vent connector connected to a chimney flue serving a fireplace is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "prohibited unless the fireplace flue opening is permanently sealed"
+                },
+                {
+                    "letter": "B",
+                    "text": "prohibited"
+                },
+                {
+                    "letter": "C",
+                    "text": "required to be a direct-vent type"
+                },
+                {
+                    "letter": "D",
+                    "text": "required to use Type B connector"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "A draft hood-equipped water heater is vented through a concealed space. The portion of the vent passing through the concealed space shall _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "not exceed 6 feet in length"
+                },
+                {
+                    "letter": "B",
+                    "text": "be a minimum 5 inches in diameter"
+                },
+                {
+                    "letter": "C",
+                    "text": "be listed Type B, Type L, or listed material having equivalent insulating qualities"
+                },
+                {
+                    "letter": "D",
+                    "text": "be a minimum 24 gauge material"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "The minimum capacity for a storage water heater is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "not regulated by code"
+                },
+                {
+                    "letter": "B",
+                    "text": "required to be a minimum of 40 gallons"
+                },
+                {
+                    "letter": "C",
+                    "text": "required to be a minimum of 50 gallons"
+                },
+                {
+                    "letter": "D",
+                    "text": "based on the \u201cfirst hour rating\u201d and the number of bedrooms and bathrooms"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "A water heater installed in a residential garage shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "listed for a garage installation"
+                },
+                {
+                    "letter": "B",
+                    "text": "located or protected from damage by a moving vehicle"
+                },
+                {
+                    "letter": "C",
+                    "text": "located not less than 16 inches above the garage floor"
+                },
+                {
+                    "letter": "D",
+                    "text": "a direct-vent water heater"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "A final water heater inspection shall be made after _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "all plumbing fixtures have been installed"
+                },
+                {
+                    "letter": "B",
+                    "text": "all gas appliances have been installed"
+                },
+                {
+                    "letter": "C",
+                    "text": "work authorized by the permit has been installed"
+                },
+                {
+                    "letter": "D",
+                    "text": "the plumber has left the job"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "Water heaters of other than the direct-vent type shall be located _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "within 6 feet of the chimney or gas vent"
+                },
+                {
+                    "letter": "B",
+                    "text": "within 8 feet of the chimney or gas vent"
+                },
+                {
+                    "letter": "C",
+                    "text": "as close as practical to the chimney or gas vent"
+                },
+                {
+                    "letter": "D",
+                    "text": "within 10 feet of the chimney or gas vent"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "A three-bedroom home with two bathrooms is equipped with a gas storage-type water heater. The minimum capacity for the water heater in accordance with the first hour ratings is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "38 gallon"
+                },
+                {
+                    "letter": "B",
+                    "text": "49 gallon"
+                },
+                {
+                    "letter": "C",
+                    "text": "62 gallon"
+                },
+                {
+                    "letter": "D",
+                    "text": "74 gallon"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 10,
+            "text": "Outdoor combustion air shall be supplied by _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 1/2 inch Schedule 80 PVC"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 inch Schedule 40 PVC"
+                },
+                {
+                    "letter": "C",
+                    "text": "one or two permanent openings"
+                },
+                {
+                    "letter": "D",
+                    "text": "18 gauge round duct"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 11,
+            "text": "Indoor combustion air supplied by using the \u201cStandard Method\u201d requires a minimum volume of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "100 cu. ft. per 1,000 Btu/hr"
+                },
+                {
+                    "letter": "B",
+                    "text": "50 cu. ft. per 1,000 Btu/hr"
+                },
+                {
+                    "letter": "C",
+                    "text": "50 cu. ft. per 2,000 Btu/hr"
+                },
+                {
+                    "letter": "D",
+                    "text": "25 cu. ft. per 2,000 Btu/hr"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "Combustion air ducts shall _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "serve a single space"
+                },
+                {
+                    "letter": "B",
+                    "text": "be equal to the size of the water heater vent"
+                },
+                {
+                    "letter": "C",
+                    "text": "be a minimum of 12 square inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "be located within the upper or lower 12 inches of the water heater"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "Combustion air ducts that terminate in an attic shall _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "be screened at the attic end only"
+                },
+                {
+                    "letter": "B",
+                    "text": "be screened at both ends"
+                },
+                {
+                    "letter": "C",
+                    "text": "not be screened"
+                },
+                {
+                    "letter": "D",
+                    "text": "not be screened unless screen openings are at least 1 inch minimum"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "Draft hood-equipped and other fuel-burning Category I water heaters may be installed in closets, bedrooms and bathrooms provided _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the appliance is listed"
+                },
+                {
+                    "letter": "B",
+                    "text": "the closet is of fire-resistant construction"
+                },
+                {
+                    "letter": "C",
+                    "text": "the closet has a listed, gasketed door assembly and a listed self-closing device"
+                },
+                {
+                    "letter": "D",
+                    "text": "combustion air is provided by adjacent room"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 15,
+            "text": "Water heaters supported from the earth shall rest on _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "listed concrete blocks"
+                },
+                {
+                    "letter": "B",
+                    "text": "a level concrete or other approved base"
+                },
+                {
+                    "letter": "C",
+                    "text": "level solid undisturbed earth"
+                },
+                {
+                    "letter": "D",
+                    "text": "a listed base of noncombustible construction"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 16,
+            "text": "Where damage may result from a leaking water heater, a watertight pan of corrosion-resistant materials shall be installed beneath the water heater when it is located in an attic or _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "second-floor mechanical room"
+                },
+                {
+                    "letter": "B",
+                    "text": "garage"
+                },
+                {
+                    "letter": "C",
+                    "text": "any story above the first story"
+                },
+                {
+                    "letter": "D",
+                    "text": "a floor-ceiling assembly"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 17,
+            "text": "Plastic piping may be used to vent a water heater if the water heater is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a noncondensing type"
+                },
+                {
+                    "letter": "B",
+                    "text": "listed for use with that material"
+                },
+                {
+                    "letter": "C",
+                    "text": "a direct-vent type"
+                },
+                {
+                    "letter": "D",
+                    "text": "an induced-or force-draft type"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 18,
+            "text": "A special gas vent shall only be installed on a water heater if _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a gravity vent is not practicable"
+                },
+                {
+                    "letter": "B",
+                    "text": "head height above the water heater is less than 1 foot"
+                },
+                {
+                    "letter": "C",
+                    "text": "it is listed and installed per the listing and the manufacturer\u2019s instructions"
+                },
+                {
+                    "letter": "D",
+                    "text": "the fire department or fire marshal deems it to be necessary"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 19,
+            "text": "Water heaters incorporating integral venting means shall be considered properly vented when _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Installed per the manufacturer\u2019s instructions and the referenced code sections"
+                },
+                {
+                    "letter": "B",
+                    "text": "installed outside the building"
+                },
+                {
+                    "letter": "C",
+                    "text": "installed inside the building with a direct vent to outside"
+                },
+                {
+                    "letter": "D",
+                    "text": "combustion air is provided per this code"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 20,
+            "text": "Water heater draft hoods or barometric draft regulators shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "of the same size as the vent connector"
+                },
+                {
+                    "letter": "B",
+                    "text": "located outside the appliance enclosure"
+                },
+                {
+                    "letter": "C",
+                    "text": "located as close as practicable to the water heater"
+                },
+                {
+                    "letter": "D",
+                    "text": "installed in the same room or enclosure as the water heater"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 21,
+            "text": "The maximum horizontal length of a 5-inch vent connector for a water heater shall not exceed _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "3 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "6 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "7-1/2 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "4 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 22,
+            "text": "Referring to the above drawing for a direct vent appliance with an input of 50, 000 Btu or less, the minimum distance at X shall be _____ inches. The minimum distance at Y shall be at least _____ inches.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "12, 9"
+                },
+                {
+                    "letter": "B",
+                    "text": "12, 12"
+                },
+                {
+                    "letter": "C",
+                    "text": "9, 12"
+                },
+                {
+                    "letter": "D",
+                    "text": "9, 9"
+                }
+            ],
+            "image": "chapter 5 - figure 22"
+        },
+        {
+            "number": 23,
+            "text": "Referring to the above drawing for a direct vent appliance with an input greater than 50,000 Btu, the minimum distance from an opening into a building shall be _____ inches. The minimum distance of the bottom of the vent terminal above finish grade shall be _____ inches.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "12, 9"
+                },
+                {
+                    "letter": "B",
+                    "text": "12, 12"
+                },
+                {
+                    "letter": "C",
+                    "text": "9, 12"
+                },
+                {
+                    "letter": "D",
+                    "text": "9, 9"
+                }
+            ],
+            "image": "chapter 5 - figure 23"
+        },
+        {
+            "number": 24,
+            "text": "A Type B vent with a listed cap of 14 inches shall terminate at least _____ higher than any portion of a building within 10 feet.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 foot"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "18 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "3 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 25,
+            "text": "A water heater is installed on the roof of a building more than 15 feet in height. The code requires _____ to the roof unless other means acceptable to the Authority Having Jurisdiction are used.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a permanent ladder outside the building"
+                },
+                {
+                    "letter": "B",
+                    "text": "a portable ladder"
+                },
+                {
+                    "letter": "C",
+                    "text": "an outside means of access"
+                },
+                {
+                    "letter": "D",
+                    "text": "an inside means of access"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 26,
+            "text": "When using an alternative method of sizing with two vent connectors for draft hood equipped water heaters, the effective area of the common vent connector or vent manifold and all junction fittings shall not be less than the area of the larger vent connector plus _____ percent of the areas of smaller flue collar outlets.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "50"
+                },
+                {
+                    "letter": "B",
+                    "text": "75"
+                },
+                {
+                    "letter": "C",
+                    "text": "25"
+                },
+                {
+                    "letter": "D",
+                    "text": "10"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 27,
+            "text": "In seismic design categories _____, water heaters shall be anchored or strapped to resist horizontal displacement due to earthquake motion.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "3 and 4"
+                },
+                {
+                    "letter": "B",
+                    "text": "A, B, C, and D"
+                },
+                {
+                    "letter": "C",
+                    "text": "C, D, E, and F"
+                },
+                {
+                    "letter": "D",
+                    "text": "1 and 2"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 28,
+            "text": "Where utilizing louvers and grills to provide combustion air, and the design and free area are not known, it shall be assumed that wood louvers will have _____ percent free area and metal louvers and grills will have _____ percent free area.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "50, 25"
+                },
+                {
+                    "letter": "B",
+                    "text": "25, 75"
+                },
+                {
+                    "letter": "C",
+                    "text": "25, 50"
+                },
+                {
+                    "letter": "D",
+                    "text": "50, 75"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 29,
+            "text": "Exit terminals of mechanical draft systems shall not be less than _____ above grade where located adjacent to public walkways.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "6 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "7 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "10 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "8 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 30,
+            "text": "Clearances for listed water heaters shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a minimum of 1 inch to combustible construction"
+                },
+                {
+                    "letter": "B",
+                    "text": "a minimum of 2 inches to combustible construction"
+                },
+                {
+                    "letter": "C",
+                    "text": "in accordance with their listing and the manufacturer\u2019s instructions"
+                },
+                {
+                    "letter": "D",
+                    "text": "a minimum of 6 inches to unprotected combustible construction"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 31,
+            "text": "Water heaters installed in residential garages shall be installed so that all burners and burner-ignition devices are located not less than 18 inches above the floor unless _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "approved by the fire authority"
+                },
+                {
+                    "letter": "B",
+                    "text": "the water heater has a separate combustion chamber"
+                },
+                {
+                    "letter": "C",
+                    "text": "the water heater is listed as flammable vapor ignition resistant"
+                },
+                {
+                    "letter": "D",
+                    "text": "the garage is detached from the living spaces"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 32,
+            "text": "Water heaters not listed for outside installation but installed outdoors shall be provided with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "protection to the degree that the environment requires"
+                },
+                {
+                    "letter": "B",
+                    "text": "smoke and antitheft alarms"
+                },
+                {
+                    "letter": "C",
+                    "text": "a 1-hour fire-rated roof"
+                },
+                {
+                    "letter": "D",
+                    "text": "a listed anticorrosion coating"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 33,
+            "text": "A Type B gas vent shall terminate at least _____ feet above the highest connected equipment draft hood or flue collar.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "12"
+                },
+                {
+                    "letter": "B",
+                    "text": "6"
+                },
+                {
+                    "letter": "C",
+                    "text": "5"
+                },
+                {
+                    "letter": "D",
+                    "text": "10"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 34,
+            "text": "Appliances may be installed in a separate enclosed space having access only from the outside providing the combustion air is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "provided from the enclosure"
+                },
+                {
+                    "letter": "B",
+                    "text": "supplied from the garage"
+                },
+                {
+                    "letter": "C",
+                    "text": "taken from the exterior"
+                },
+                {
+                    "letter": "D",
+                    "text": "supplied from an attic"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 35,
+            "text": "Indirect-fired water heaters that incorporate a single-wall heat exchanger shall _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "have a maximum operating pressure in the heat exchanger not exceeding the maximum operating pressure of the potable water supply"
+                },
+                {
+                    "letter": "B",
+                    "text": "have a heat-transfer medium of potable water or other nontoxic fluid recognized as safe by the FDA"
+                },
+                {
+                    "letter": "C",
+                    "text": "bear the proper \u201ccaution\u201d labels"
+                },
+                {
+                    "letter": "D",
+                    "text": "meet all of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 36,
+            "text": "A listed water heater, located in an interior floor level closet, must have an access dimension _____ for servicing purposes.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "24\u201dw x 30\u201dh"
+                },
+                {
+                    "letter": "B",
+                    "text": "in accordance with their listing and the manufacture\u2019s instructions"
+                },
+                {
+                    "letter": "C",
+                    "text": "30\u201dw x 36\u201dh"
+                },
+                {
+                    "letter": "D",
+                    "text": "the size of the water heater"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 37,
+            "text": "The passageway for a water heater in an attic shall be unobstructed and shall have a solid flooring not less than _____ inches wide from the entrance opening to the water heater.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "22"
+                },
+                {
+                    "letter": "B",
+                    "text": "30"
+                },
+                {
+                    "letter": "C",
+                    "text": "24"
+                },
+                {
+                    "letter": "D",
+                    "text": "36"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 38,
+            "text": "For attic installation, the passageway and servicing area adjacent to the appliance shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "identified"
+                },
+                {
+                    "letter": "B",
+                    "text": "well lighted"
+                },
+                {
+                    "letter": "C",
+                    "text": "dry"
+                },
+                {
+                    "letter": "D",
+                    "text": "floored"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 39,
+            "text": "Above ceiling venting systems or non-ducted air handling systems passing through an above ceiling air space or other non-ducted portion it shall meet one of the following:",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "shall be listed special gas vent"
+                },
+                {
+                    "letter": "B",
+                    "text": "fittings and joints shall be installed above ceiling"
+                },
+                {
+                    "letter": "C",
+                    "text": "no conduits or enclosures are required"
+                },
+                {
+                    "letter": "D",
+                    "text": "joints shall be airtight"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 40,
+            "text": "When venting an appliance with plastic pipe, it is important _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "not to use transition fittings"
+                },
+                {
+                    "letter": "B",
+                    "text": "to use no more than 4 elbows in a 20\u2019 run of piping"
+                },
+                {
+                    "letter": "C",
+                    "text": "that vent piping shall be graded at a minimum of 2% slope"
+                },
+                {
+                    "letter": "D",
+                    "text": "to identify the piping material by the manufacturer\u2019s instructions"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 41,
+            "text": "When gas vents are installed in a masonry chimney, _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a permanent label is needed where the vent enters the chimney"
+                },
+                {
+                    "letter": "B",
+                    "text": "it must be installed in accordance with the authority having jurisdiction"
+                },
+                {
+                    "letter": "C",
+                    "text": "the piping is must be accessible for maintenance and cleaning"
+                },
+                {
+                    "letter": "D",
+                    "text": "the vent material is needs to be airtight"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 42,
+            "text": "For each additional elbow up to and including 45 degrees,the maximum vent connector capacity listed in the venting tables, where two 90 degree elbows are used, shall be reduced by what percentage?",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": ".5"
+                },
+                {
+                    "letter": "B",
+                    "text": "5"
+                },
+                {
+                    "letter": "C",
+                    "text": "6.25"
+                },
+                {
+                    "letter": "D",
+                    "text": "50"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "B"
+        },
+        {
+            "number": 2,
+            "letter": "B"
+        },
+        {
+            "number": 3,
+            "letter": "A"
+        },
+        {
+            "number": 4,
+            "letter": "C"
+        },
+        {
+            "number": 5,
+            "letter": "D"
+        },
+        {
+            "number": 6,
+            "letter": "B"
+        },
+        {
+            "number": 7,
+            "letter": "C"
+        },
+        {
+            "number": 8,
+            "letter": "C"
+        },
+        {
+            "number": 9,
+            "letter": "C"
+        },
+        {
+            "number": 10,
+            "letter": "C"
+        },
+        {
+            "number": 11,
+            "letter": "B"
+        },
+        {
+            "number": 12,
+            "letter": "A"
+        },
+        {
+            "number": 13,
+            "letter": "C"
+        },
+        {
+            "number": 14,
+            "letter": "C"
+        },
+        {
+            "number": 15,
+            "letter": "B"
+        },
+        {
+            "number": 16,
+            "letter": "D"
+        },
+        {
+            "number": 17,
+            "letter": "B"
+        },
+        {
+            "number": 18,
+            "letter": "C"
+        },
+        {
+            "number": 19,
+            "letter": "A"
+        },
+        {
+            "number": 20,
+            "letter": "D"
+        },
+        {
+            "number": 21,
+            "letter": "C"
+        },
+        {
+            "number": 22,
+            "letter": "C"
+        },
+        {
+            "number": 23,
+            "letter": "B"
+        },
+        {
+            "number": 24,
+            "letter": "B"
+        },
+        {
+            "number": 25,
+            "letter": "D"
+        },
+        {
+            "number": 26,
+            "letter": "A"
+        },
+        {
+            "number": 27,
+            "letter": "C"
+        },
+        {
+            "number": 28,
+            "letter": "B"
+        },
+        {
+            "number": 29,
+            "letter": "B"
+        },
+        {
+            "number": 30,
+            "letter": "C"
+        },
+        {
+            "number": 31,
+            "letter": "C"
+        },
+        {
+            "number": 32,
+            "letter": "A"
+        },
+        {
+            "number": 33,
+            "letter": "C"
+        },
+        {
+            "number": 34,
+            "letter": "C"
+        },
+        {
+            "number": 35,
+            "letter": "D"
+        },
+        {
+            "number": 36,
+            "letter": "B"
+        },
+        {
+            "number": 37,
+            "letter": "C"
+        },
+        {
+            "number": 38,
+            "letter": "D"
+        },
+        {
+            "number": 39,
+            "letter": "A"
+        },
+        {
+            "number": 40,
+            "letter": "D"
+        },
+        {
+            "number": 41,
+            "letter": "A"
+        },
+        {
+            "number": 42,
+            "letter": "B"
+        }
+    ]
+}

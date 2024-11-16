@@ -1,0 +1,243 @@
+{
+    "number": 14,
+    "text": "FIRESTOP PROTECTION",
+    "questions": [
+        {
+            "number": 1,
+            "text": "In addition to meeting the requirements for firestop protection in this chapter the protection of the penetration must meet requirements in the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Fire Code"
+                },
+                {
+                    "letter": "B",
+                    "text": "Mechanical code"
+                },
+                {
+                    "letter": "C",
+                    "text": "design engineers regulation manual"
+                },
+                {
+                    "letter": "D",
+                    "text": "Building Code"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "F and T ratings are tested in accordance with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "ANSI standards"
+                },
+                {
+                    "letter": "B",
+                    "text": "ASTM E119 or ASTM E 814"
+                },
+                {
+                    "letter": "C",
+                    "text": "UL 263 or UL 1479"
+                },
+                {
+                    "letter": "D",
+                    "text": "B or C may apply"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "Where sleeves are installed for a fire-resistance-rated assembly, they _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "shall be prohibited unless they meet the F and P rating"
+                },
+                {
+                    "letter": "B",
+                    "text": "should be securely fastened to the rated assembly"
+                },
+                {
+                    "letter": "C",
+                    "text": "shall meet the requirements of the NFPA 5000 Building Code"
+                },
+                {
+                    "letter": "D",
+                    "text": "may be installed if twice the diameter of the penetration"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "Where piping penetrates a rated assembly, _____ piping shall not connect to noncombustible piping unless it can be demonstrated that the transition is in accordance with this chapter.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "ferrous"
+                },
+                {
+                    "letter": "B",
+                    "text": "non-ferrous"
+                },
+                {
+                    "letter": "C",
+                    "text": "PEX-AL-PE"
+                },
+                {
+                    "letter": "D",
+                    "text": "combustible"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "The Authority Having Jurisdiction shall determine the _____ of penetrations to be inspected.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "size and quality"
+                },
+                {
+                    "letter": "B",
+                    "text": "type, size, and quality"
+                },
+                {
+                    "letter": "C",
+                    "text": "type, size, and quantity"
+                },
+                {
+                    "letter": "D",
+                    "text": "type, size, and verification"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "Unshielded couplings shall not be used to connect _____ piping unless it can be demonstrated that the fire-resistive rating of the penetration is maintained.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "ferrous"
+                },
+                {
+                    "letter": "B",
+                    "text": "combustible"
+                },
+                {
+                    "letter": "C",
+                    "text": "cast-iron"
+                },
+                {
+                    "letter": "D",
+                    "text": "noncombustible"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "The Authority Having Jurisdiction shall include _____ as part of the condition of satisfactory compliance with this chapter.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "proof of certification of installers"
+                },
+                {
+                    "letter": "B",
+                    "text": "proof of verification of installers"
+                },
+                {
+                    "letter": "C",
+                    "text": "destructive inspection"
+                },
+                {
+                    "letter": "D",
+                    "text": "a signed affidavit certified by the fire department"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "Prior to being _____, piping penetrations shall be inspected by the Authority Having Jurisdiction to verify compliance.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "installed"
+                },
+                {
+                    "letter": "B",
+                    "text": "tested"
+                },
+                {
+                    "letter": "C",
+                    "text": "certified"
+                },
+                {
+                    "letter": "D",
+                    "text": "concealed"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "The (inside) annular space between the sleeve and the penetrating item and the (outside) annular space between the sleeve and the fire-resistance-rated assembly shall be firestopped in accordance with this chapter.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "true"
+                },
+                {
+                    "letter": "B",
+                    "text": "false"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "D"
+        },
+        {
+            "number": 2,
+            "letter": "D"
+        },
+        {
+            "number": 3,
+            "letter": "B"
+        },
+        {
+            "number": 4,
+            "letter": "D"
+        },
+        {
+            "number": 5,
+            "letter": "C"
+        },
+        {
+            "number": 6,
+            "letter": "D"
+        },
+        {
+            "number": 7,
+            "letter": "C"
+        },
+        {
+            "number": 8,
+            "letter": "D"
+        },
+        {
+            "number": 9,
+            "letter": "A"
+        }
+    ]
+}

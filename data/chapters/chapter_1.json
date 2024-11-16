@@ -1,0 +1,629 @@
+{
+    "number": 1,
+    "text": "ADMINISTRATION",
+    "questions": [
+        {
+            "number": 1,
+            "text": "This document shall be known as the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Uniform Plumbing Code"
+                },
+                {
+                    "letter": "B",
+                    "text": "Universal Plumbing Code"
+                },
+                {
+                    "letter": "C",
+                    "text": "National Plumbing Code"
+                },
+                {
+                    "letter": "D",
+                    "text": "World Plumbing Code"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "The _____ may require the submission of plans, specifications, drawings, and such other information, prior to the commencement of work regulated by this code.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "plumbing inspector"
+                },
+                {
+                    "letter": "B",
+                    "text": "building authority"
+                },
+                {
+                    "letter": "C",
+                    "text": "Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "D",
+                    "text": "building official"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "The provisions of _____ shall apply to the erection, installation, alteration, repair, relocation, replacement, addition to, use, or maintenance of plumbing systems within this jurisdiction.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "this code"
+                },
+                {
+                    "letter": "B",
+                    "text": "the Building Code"
+                },
+                {
+                    "letter": "C",
+                    "text": "the international code"
+                },
+                {
+                    "letter": "D",
+                    "text": "NFPA 99C"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "All openings into a drainage or vent system, except those openings to which plumbing fixtures are properly connected or that constitute vent terminals, shall be permanently plugged or capped _____ in accordance with this code.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "with old rags"
+                },
+                {
+                    "letter": "B",
+                    "text": "with duct tape"
+                },
+                {
+                    "letter": "C",
+                    "text": "using appropriate materials"
+                },
+                {
+                    "letter": "D",
+                    "text": "with plastic tape"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "The _____ shall be responsible for maintenance of plumbing systems.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "city"
+                },
+                {
+                    "letter": "B",
+                    "text": "plumbing inspector"
+                },
+                {
+                    "letter": "C",
+                    "text": "owner or owner\u2019s agent"
+                },
+                {
+                    "letter": "D",
+                    "text": "building department"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "Plumbing systems, lawfully in existence at the time of the adoption of this code shall be permitted to have their use, maintenance, or repair continued as long as the original design has no hazard _____ created by such plumbing system.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the owner"
+                },
+                {
+                    "letter": "B",
+                    "text": "a tennant"
+                },
+                {
+                    "letter": "C",
+                    "text": "the city"
+                },
+                {
+                    "letter": "D",
+                    "text": "life, health, or property"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "When the requirements within the jurisdiction of this plumbing code conflict with the requirements of the mechanical code, _____ shall prevail.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the mechanical code"
+                },
+                {
+                    "letter": "B",
+                    "text": "this code"
+                },
+                {
+                    "letter": "C",
+                    "text": "the Building Code"
+                },
+                {
+                    "letter": "D",
+                    "text": "either code"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "Plumbing systems that are a part of a building or structure undergoing a change in use or occupancy, as defined by the building code, shall be in accordance with the requirements of _____ that are applicable to the new use or occupancy.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the code in effect at time of construction"
+                },
+                {
+                    "letter": "B",
+                    "text": "this code"
+                },
+                {
+                    "letter": "C",
+                    "text": "the Building Code"
+                },
+                {
+                    "letter": "D",
+                    "text": "the plumbing inspector"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "Parts of the plumbing system of a building or part thereof that is moved from one foundation to another, or from one location to another, shall be in accordance with the provisions of _____ for new installations.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the building code"
+                },
+                {
+                    "letter": "B",
+                    "text": "the code in effect when originally constructed"
+                },
+                {
+                    "letter": "C",
+                    "text": "this code"
+                },
+                {
+                    "letter": "D",
+                    "text": "any code"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 10,
+            "text": "The _____ shall be the authority duly appointed to enforce this code.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "B",
+                    "text": "plumbing inspector"
+                },
+                {
+                    "letter": "C",
+                    "text": "building official"
+                },
+                {
+                    "letter": "D",
+                    "text": "building inspector"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 11,
+            "text": "Where work is being done contrary to the provisions of this code, the Authority Having Jurisdiction shall be permitted to order the _____ by notice in writing served on persons engaged in the doing or causing such work to be done.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "completion of work"
+                },
+                {
+                    "letter": "B",
+                    "text": "immediate inspection"
+                },
+                {
+                    "letter": "C",
+                    "text": "work stopped"
+                },
+                {
+                    "letter": "D",
+                    "text": "summons to court"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "It shall be unlawful for any person, firm, or corporation to make any installation, alteration, repair, replacement, or remodel a plumbing system regulated by this code, except as permitted in section 104. 2, or to cause the same to be done without first obtaining _____ for each separate building or structure.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "permission"
+                },
+                {
+                    "letter": "B",
+                    "text": "authorization"
+                },
+                {
+                    "letter": "C",
+                    "text": "a separate plumbing permit"
+                },
+                {
+                    "letter": "D",
+                    "text": "a work order from owner"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "To obtain a permit, the applicant shall first file _____ therefore in writing on a form furnished by the Authority Having Jurisdiction for that purpose.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a request"
+                },
+                {
+                    "letter": "B",
+                    "text": "for permission"
+                },
+                {
+                    "letter": "C",
+                    "text": "an application"
+                },
+                {
+                    "letter": "D",
+                    "text": "plans"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "Plumbing systems for which a permit is required by this code shall be inspected by the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "building inspector"
+                },
+                {
+                    "letter": "B",
+                    "text": "Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "C",
+                    "text": "mechanical inspector"
+                },
+                {
+                    "letter": "D",
+                    "text": "health department"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 15,
+            "text": "Plumbing systems shall be _____ in accordance with this code or the Authority Having Jurisdiction.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "inspected"
+                },
+                {
+                    "letter": "B",
+                    "text": "installed"
+                },
+                {
+                    "letter": "C",
+                    "text": "tested and approved"
+                },
+                {
+                    "letter": "D",
+                    "text": "permitted"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 16,
+            "text": "It shall be the duty of the _____ authorized by a permit to notify the Authority Having Jurisdiction that such work is ready for inspection.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "person doing the work"
+                },
+                {
+                    "letter": "B",
+                    "text": "plumber"
+                },
+                {
+                    "letter": "C",
+                    "text": "owner"
+                },
+                {
+                    "letter": "D",
+                    "text": "general contractor"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 17,
+            "text": "The Authority Having Jurisdiction shall be notified that work is ready for inspection not less than _____ hours before the work is to be inspected.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "72"
+                },
+                {
+                    "letter": "B",
+                    "text": "24"
+                },
+                {
+                    "letter": "C",
+                    "text": "48"
+                },
+                {
+                    "letter": "D",
+                    "text": "12"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 18,
+            "text": "It shall be the duty of the _____ to make sure that the work will stand the test prescribed before giving the notification for inspection.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "owner"
+                },
+                {
+                    "letter": "B",
+                    "text": "general contractor"
+                },
+                {
+                    "letter": "C",
+                    "text": "person doing the work"
+                },
+                {
+                    "letter": "D",
+                    "text": "holder of the permit"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 19,
+            "text": "No person shall make connections from a source of energy or fuel to any plumbing system or equipment regulated by this code and for which a permit is required until approved by the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "gas company"
+                },
+                {
+                    "letter": "B",
+                    "text": "Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "C",
+                    "text": "owner"
+                },
+                {
+                    "letter": "D",
+                    "text": "contractor"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 20,
+            "text": "This code is an ordinance to provide _____ for the protection of the public health, safety, and welfare.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "guidelines"
+                },
+                {
+                    "letter": "B",
+                    "text": "maximum requirements and standards"
+                },
+                {
+                    "letter": "C",
+                    "text": "suggested ways of installation"
+                },
+                {
+                    "letter": "D",
+                    "text": "minimum requirements and standards"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 21,
+            "text": "Where a section, subsection, sentence, clause, or phrase of this code is, for a reason held to be unconstitutional, such decision shall _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "render the entire code is invalid"
+                },
+                {
+                    "letter": "B",
+                    "text": "not affect the validity of the remaining portions of this code"
+                },
+                {
+                    "letter": "C",
+                    "text": "apply in every jurisdiction in the state"
+                },
+                {
+                    "letter": "D",
+                    "text": "allow Authority Having Jurisdiction to overrule the court decision"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 22,
+            "text": "Whenever, in this code, reference is made to an appendix, the appendix shall not apply unless specifically _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "adopted"
+                },
+                {
+                    "letter": "B",
+                    "text": "stated"
+                },
+                {
+                    "letter": "C",
+                    "text": "noted"
+                },
+                {
+                    "letter": "D",
+                    "text": "provided for"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 23,
+            "text": "Temporary connection of the plumbing equipment to the source of energy or fuel for the purpose of testing _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "is not allowed unless the inspector is present"
+                },
+                {
+                    "letter": "B",
+                    "text": "shall be permitted to be authorized by the Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "C",
+                    "text": "is not allowed unless the equipment has been inspected and approved"
+                },
+                {
+                    "letter": "D",
+                    "text": "is not allowed under any circumstances"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "A"
+        },
+        {
+            "number": 2,
+            "letter": "C"
+        },
+        {
+            "number": 3,
+            "letter": "A"
+        },
+        {
+            "number": 4,
+            "letter": "C"
+        },
+        {
+            "number": 5,
+            "letter": "C"
+        },
+        {
+            "number": 6,
+            "letter": "D"
+        },
+        {
+            "number": 7,
+            "letter": "B"
+        },
+        {
+            "number": 8,
+            "letter": "B"
+        },
+        {
+            "number": 9,
+            "letter": "C"
+        },
+        {
+            "number": 10,
+            "letter": "A"
+        },
+        {
+            "number": 11,
+            "letter": "C"
+        },
+        {
+            "number": 12,
+            "letter": "C"
+        },
+        {
+            "number": 13,
+            "letter": "C"
+        },
+        {
+            "number": 14,
+            "letter": "B"
+        },
+        {
+            "number": 15,
+            "letter": "C"
+        },
+        {
+            "number": 16,
+            "letter": "A"
+        },
+        {
+            "number": 17,
+            "letter": "B"
+        },
+        {
+            "number": 18,
+            "letter": "D"
+        },
+        {
+            "number": 19,
+            "letter": "B"
+        },
+        {
+            "number": 20,
+            "letter": "D"
+        },
+        {
+            "number": 21,
+            "letter": "B"
+        },
+        {
+            "number": 22,
+            "letter": "A"
+        },
+        {
+            "number": 23,
+            "letter": "B"
+        }
+    ]
+}

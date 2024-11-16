@@ -1,0 +1,2654 @@
+{
+    "number": 19,
+    "text": "GENERAL EXAMINATION #2",
+    "questions": [
+        {
+            "number": 1,
+            "text": "A plumbing permit expires if work authorized by such permit is not commenced within _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "60 days"
+                },
+                {
+                    "letter": "B",
+                    "text": "90 days"
+                },
+                {
+                    "letter": "C",
+                    "text": "120 days"
+                },
+                {
+                    "letter": "D",
+                    "text": "180 days"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "As long as such repairs do not require the replacement or rearrangement of valves, pipes or fittings, a plumbing permit is not required _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "when work is done by the owner"
+                },
+                {
+                    "letter": "B",
+                    "text": "for the clearing of stoppages"
+                },
+                {
+                    "letter": "C",
+                    "text": "when the contract is less than $100.00"
+                },
+                {
+                    "letter": "D",
+                    "text": "for water piping"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "The maximum units on a 2 inch horizontal waste line is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "four"
+                },
+                {
+                    "letter": "B",
+                    "text": "six"
+                },
+                {
+                    "letter": "C",
+                    "text": "eight"
+                },
+                {
+                    "letter": "D",
+                    "text": "five"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "The common vent pipe size for five domestic kitchen sinks is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 1/2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "3 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "4 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "A refrigerator, not regularly classed as a plumbing fixture may discharge into a/an _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "trap"
+                },
+                {
+                    "letter": "B",
+                    "text": "laundry sink"
+                },
+                {
+                    "letter": "C",
+                    "text": "bathtub"
+                },
+                {
+                    "letter": "D",
+                    "text": "approved open receptor"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "Per Table 702. 2(b), one fixture unit has a discharge capacity of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "up to 7 1/2 gpm"
+                },
+                {
+                    "letter": "B",
+                    "text": "8 to 15 gpm"
+                },
+                {
+                    "letter": "C",
+                    "text": "18 to 20 gpm"
+                },
+                {
+                    "letter": "D",
+                    "text": "over 20 gpm"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "Gas appliances connected to a piping system shall have an accessible, approved manual shutoff valve within _____ feet of the equipment it serves.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "3"
+                },
+                {
+                    "letter": "B",
+                    "text": "4"
+                },
+                {
+                    "letter": "C",
+                    "text": "5"
+                },
+                {
+                    "letter": "D",
+                    "text": "6"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "The size of the supply piping outlet for a gas appliance shall not be less than _____ inch.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/4"
+                },
+                {
+                    "letter": "B",
+                    "text": "3/8"
+                },
+                {
+                    "letter": "C",
+                    "text": "1/2"
+                },
+                {
+                    "letter": "D",
+                    "text": "3/4"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "Except for direct vent appliances, a through-the-wall mechanical draft venting system shall terminate at least _____ feet above any forced air inlet located within 10 feet.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2"
+                },
+                {
+                    "letter": "B",
+                    "text": "3"
+                },
+                {
+                    "letter": "C",
+                    "text": "4"
+                },
+                {
+                    "letter": "D",
+                    "text": "8"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 10,
+            "text": "A fixture trap is vented to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "prevent the loss of a trap seal by siphonage or back pressure"
+                },
+                {
+                    "letter": "B",
+                    "text": "add to the cost of installation"
+                },
+                {
+                    "letter": "C",
+                    "text": "reduce noises in drain systems"
+                },
+                {
+                    "letter": "D",
+                    "text": "prevent cross-connections"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 11,
+            "text": "Except for plastic piping, water piping systems shall be permitted to be tested with a (an) _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "water pressure test of 10 psi"
+                },
+                {
+                    "letter": "B",
+                    "text": "air pressure test of 25 psi"
+                },
+                {
+                    "letter": "C",
+                    "text": "no test required"
+                },
+                {
+                    "letter": "D",
+                    "text": "air pressure test of 50 psi"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "A valve that has the highest friction loss to water flow is the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "gate valve"
+                },
+                {
+                    "letter": "B",
+                    "text": "angle valve"
+                },
+                {
+                    "letter": "C",
+                    "text": "flush valve"
+                },
+                {
+                    "letter": "D",
+                    "text": "globe valve"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "Of those listed, gas piping shall be tested with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "water"
+                },
+                {
+                    "letter": "B",
+                    "text": "oxygen"
+                },
+                {
+                    "letter": "C",
+                    "text": "air"
+                },
+                {
+                    "letter": "D",
+                    "text": "ether"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "ABS DWV pipe installed horizontally shall be supported at intervals not to exceed _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "3 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "4 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "5 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 15,
+            "text": "Three-inch horizontal drainage piping shall have a uniform slope of not less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "3/8 inch per foot"
+                },
+                {
+                    "letter": "B",
+                    "text": "1/16 inch per foot"
+                },
+                {
+                    "letter": "C",
+                    "text": "1/2 inch per foot"
+                },
+                {
+                    "letter": "D",
+                    "text": "1/4 inch per foot"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 16,
+            "text": "In sizing gas piping, the length of the system is measured from the meter location to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "where the first branch takes off"
+                },
+                {
+                    "letter": "B",
+                    "text": "the kitchen range, if located near the meter"
+                },
+                {
+                    "letter": "C",
+                    "text": "the most remote outlet on the system"
+                },
+                {
+                    "letter": "D",
+                    "text": "a wall heater, if located in a bathroom"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 17,
+            "text": "Where supplementary gas for standby use is connected downstream from a meter, a _____ shall be installed.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "device to prevent backflow"
+                },
+                {
+                    "letter": "B",
+                    "text": "globe valve"
+                },
+                {
+                    "letter": "C",
+                    "text": "gate valve"
+                },
+                {
+                    "letter": "D",
+                    "text": "regulator"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 18,
+            "text": "Indoor gas hose connectors shall be of minimum length and shall not exceed _____ feet.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2"
+                },
+                {
+                    "letter": "B",
+                    "text": "3"
+                },
+                {
+                    "letter": "C",
+                    "text": "5"
+                },
+                {
+                    "letter": "D",
+                    "text": "6"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 19,
+            "text": "Of those listed, which material may be installed underground as part of a drain, waste and vent system?",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "galvanized wrought-iron pipe"
+                },
+                {
+                    "letter": "B",
+                    "text": "cast-iron pipe"
+                },
+                {
+                    "letter": "C",
+                    "text": "galvanized steel"
+                },
+                {
+                    "letter": "D",
+                    "text": "aluminium pipe"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 20,
+            "text": "With some exceptions the upper terminal of each horizontal drainage pipe shall be provided with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "valves"
+                },
+                {
+                    "letter": "B",
+                    "text": "vent pipes"
+                },
+                {
+                    "letter": "C",
+                    "text": "a cleanout"
+                },
+                {
+                    "letter": "D",
+                    "text": "traps"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 21,
+            "text": "The maximum number of bathtubs allowed on a 2-inch vent is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "8"
+                },
+                {
+                    "letter": "B",
+                    "text": "12"
+                },
+                {
+                    "letter": "C",
+                    "text": "16"
+                },
+                {
+                    "letter": "D",
+                    "text": "20"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 22,
+            "text": "Six bathtubs and six showers require a common vent of not less than _____ inches.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 1/2"
+                },
+                {
+                    "letter": "B",
+                    "text": "2"
+                },
+                {
+                    "letter": "C",
+                    "text": "3"
+                },
+                {
+                    "letter": "D",
+                    "text": "4"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 23,
+            "text": "Where necessary, to insert fittings in gas pipe that has been installed in a concealed location, of those listed the pipe shall be reconnected with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "unions"
+                },
+                {
+                    "letter": "B",
+                    "text": "right and left couplings"
+                },
+                {
+                    "letter": "C",
+                    "text": "swing joints"
+                },
+                {
+                    "letter": "D",
+                    "text": "none of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 24,
+            "text": "A _____ is not a fitting approved for changes in direction of drainage flow.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "wye"
+                },
+                {
+                    "letter": "B",
+                    "text": "60 degree wye"
+                },
+                {
+                    "letter": "C",
+                    "text": "1/8 bend"
+                },
+                {
+                    "letter": "D",
+                    "text": "45 degree tee"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 25,
+            "text": "Of those listed, waste and vent pipes may be tested with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "5 foot head of water"
+                },
+                {
+                    "letter": "B",
+                    "text": "a smoke test"
+                },
+                {
+                    "letter": "C",
+                    "text": "15 psi air"
+                },
+                {
+                    "letter": "D",
+                    "text": "10 foot head of water"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 26,
+            "text": "Fuel gas piping pressure tests shall not be less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "10 pounds"
+                },
+                {
+                    "letter": "B",
+                    "text": "15 pounds"
+                },
+                {
+                    "letter": "C",
+                    "text": "20 pounds"
+                },
+                {
+                    "letter": "D",
+                    "text": "1 1/2 times the proposed maximum working pressure"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 27,
+            "text": "Type B gas vents shall terminate not less than _____ feet above the highest connected appliance draft hood or flue collar.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2"
+                },
+                {
+                    "letter": "B",
+                    "text": "3"
+                },
+                {
+                    "letter": "C",
+                    "text": "5"
+                },
+                {
+                    "letter": "D",
+                    "text": "10"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 28,
+            "text": "No _____ or urinal shall be installed on combination waste and vent systems.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "floor drain"
+                },
+                {
+                    "letter": "B",
+                    "text": "water closet"
+                },
+                {
+                    "letter": "C",
+                    "text": "shower drain"
+                },
+                {
+                    "letter": "D",
+                    "text": "floor sink"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 29,
+            "text": "Gas meters shall be located in _____ locations.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "secure"
+                },
+                {
+                    "letter": "B",
+                    "text": "readily accessible"
+                },
+                {
+                    "letter": "C",
+                    "text": "accessible"
+                },
+                {
+                    "letter": "D",
+                    "text": "unventilated"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 30,
+            "text": "A water closet seat shall be sized for the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "water closet tank hardware"
+                },
+                {
+                    "letter": "B",
+                    "text": "water closet bowl type"
+                },
+                {
+                    "letter": "C",
+                    "text": "floor covering material"
+                },
+                {
+                    "letter": "D",
+                    "text": "water supply type"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 31,
+            "text": "The minimum size gas supply for a mobile home is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 1/2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "1 inch"
+                },
+                {
+                    "letter": "C",
+                    "text": "3/4 inch"
+                },
+                {
+                    "letter": "D",
+                    "text": "1/2 inch"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 32,
+            "text": "A pressure regulator shall be installed when the static water pressure is exceeding _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "80 psi"
+                },
+                {
+                    "letter": "B",
+                    "text": "125 psi"
+                },
+                {
+                    "letter": "C",
+                    "text": "100 psi"
+                },
+                {
+                    "letter": "D",
+                    "text": "150 psi"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 33,
+            "text": "Of those listed, an expansion tank is required when _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the pressure exceeds 150 psi"
+                },
+                {
+                    "letter": "B",
+                    "text": "the water heater is in the basement"
+                },
+                {
+                    "letter": "C",
+                    "text": "a backflow preventer is installed"
+                },
+                {
+                    "letter": "D",
+                    "text": "the building is four stories high"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 34,
+            "text": "A backwater valve is used _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "to back water up the pipe"
+                },
+                {
+                    "letter": "B",
+                    "text": "to protect the system from back-siphonage"
+                },
+                {
+                    "letter": "C",
+                    "text": "to act as a bypass"
+                },
+                {
+                    "letter": "D",
+                    "text": "to prevent backflow of sewage in a drainage system"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 35,
+            "text": "All devices or assemblies installed in a potable water supply for protection against backflow shall be maintained in good working condition by _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the person having control of such devices"
+                },
+                {
+                    "letter": "B",
+                    "text": "the plumber"
+                },
+                {
+                    "letter": "C",
+                    "text": "the inspector"
+                },
+                {
+                    "letter": "D",
+                    "text": "the landscaper"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 36,
+            "text": "Of those listed, the approved fitting for connecting a horizontal drain line with a horizontal drain line would be a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "double tee"
+                },
+                {
+                    "letter": "B",
+                    "text": "double wye"
+                },
+                {
+                    "letter": "C",
+                    "text": "combination wye and 1/8 bend"
+                },
+                {
+                    "letter": "D",
+                    "text": "sanitary tee"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 37,
+            "text": "The maximum full pipe flow in gpm for a hydromechanical grease interceptor with a 60 gpm rating requires _____ gpm size of grease interceptor for a 2 minute drainage period.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "125"
+                },
+                {
+                    "letter": "B",
+                    "text": "75"
+                },
+                {
+                    "letter": "C",
+                    "text": "10"
+                },
+                {
+                    "letter": "D",
+                    "text": "35"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 38,
+            "text": "After allowing for friction and other pressure losses, the residual water pressure shall be of not less than _____ psi.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "5"
+                },
+                {
+                    "letter": "B",
+                    "text": "10"
+                },
+                {
+                    "letter": "C",
+                    "text": "15"
+                },
+                {
+                    "letter": "D",
+                    "text": "20"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 39,
+            "text": "Gas meters shall not be placed where they will be subjected to damage such as: _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "adjacent to a driveway"
+                },
+                {
+                    "letter": "B",
+                    "text": "under a fire escape"
+                },
+                {
+                    "letter": "C",
+                    "text": "in a well-lighted area"
+                },
+                {
+                    "letter": "D",
+                    "text": "both A and B apply"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 40,
+            "text": "The maximum fixture units on a 4 inch drainage stack are _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "256"
+                },
+                {
+                    "letter": "B",
+                    "text": "180"
+                },
+                {
+                    "letter": "C",
+                    "text": "300"
+                },
+                {
+                    "letter": "D",
+                    "text": "216"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 41,
+            "text": "Corrugated vent connectors shall _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "not be smaller than the listed appliance categorized vent diameter"
+                },
+                {
+                    "letter": "B",
+                    "text": "be sized as one-half the flue collar diameter"
+                },
+                {
+                    "letter": "C",
+                    "text": "be larger than the draft hood outlet diameter"
+                },
+                {
+                    "letter": "D",
+                    "text": "sized using Table 510.2.1"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 42,
+            "text": "The minimum dimension for an outdoor combustion air opening for a water heater shall not be less than _____ inches.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2"
+                },
+                {
+                    "letter": "B",
+                    "text": "3"
+                },
+                {
+                    "letter": "C",
+                    "text": "6"
+                },
+                {
+                    "letter": "D",
+                    "text": "12"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 43,
+            "text": "The developed length of 1-1/2 inch trap arms shall not exceed _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "4 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "5 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "6 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "3 feet, 6 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 44,
+            "text": "Of those listed, valves used to control 2 or more openings for water distribution shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "nonrising stem globe valve"
+                },
+                {
+                    "letter": "B",
+                    "text": "fullway gate valve"
+                },
+                {
+                    "letter": "C",
+                    "text": "heavy-duty globe valve"
+                },
+                {
+                    "letter": "D",
+                    "text": "ground key valve"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 45,
+            "text": "A sewage eject or receiving the discharge of water closets or urinals shall have a discharge capacity of not less than _____ gallons per minute.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "10"
+                },
+                {
+                    "letter": "B",
+                    "text": "15"
+                },
+                {
+                    "letter": "C",
+                    "text": "20"
+                },
+                {
+                    "letter": "D",
+                    "text": "40"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 46,
+            "text": "Using Appendix A, the pressure at the base of a column of water 10 feet high is approximately psi.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "0.43"
+                },
+                {
+                    "letter": "B",
+                    "text": "4.3"
+                },
+                {
+                    "letter": "C",
+                    "text": "10"
+                },
+                {
+                    "letter": "D",
+                    "text": "43.0"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 47,
+            "text": "The vent pipe serving a combination waste and vent system with a 4-inch drain pipe shall be at least _____ inches.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1-1/2"
+                },
+                {
+                    "letter": "B",
+                    "text": "2"
+                },
+                {
+                    "letter": "C",
+                    "text": "3"
+                },
+                {
+                    "letter": "D",
+                    "text": "4"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 48,
+            "text": "A 2-inch horizontal copper-tubing cold water line shall be supported at intervals of _____ feet.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "12"
+                },
+                {
+                    "letter": "B",
+                    "text": "10"
+                },
+                {
+                    "letter": "C",
+                    "text": "8"
+                },
+                {
+                    "letter": "D",
+                    "text": "6"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 49,
+            "text": "The maximum length of an indirect waste pipe without a vent is less than _____ feet.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "5"
+                },
+                {
+                    "letter": "B",
+                    "text": "10"
+                },
+                {
+                    "letter": "C",
+                    "text": "12"
+                },
+                {
+                    "letter": "D",
+                    "text": "15"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 50,
+            "text": "Traps are required for indirect waste pipes where the length exceeds _____ feet.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "5"
+                },
+                {
+                    "letter": "B",
+                    "text": "10"
+                },
+                {
+                    "letter": "C",
+                    "text": "12"
+                },
+                {
+                    "letter": "D",
+                    "text": "15"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 51,
+            "text": "The maximum temperature of any water discharging under pressure directly into any part of a plumbing or drainage system is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "140\u00b0F"
+                },
+                {
+                    "letter": "B",
+                    "text": "160\u00b0F"
+                },
+                {
+                    "letter": "C",
+                    "text": "180\u00b0F"
+                },
+                {
+                    "letter": "D",
+                    "text": "212\u00b0F"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 52,
+            "text": "The maximum distance allowed for a 2-inch trap arm is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "3 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "3 feet, 6 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "5 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 53,
+            "text": "The developed length between a trap of a water closet and its vent shall not exceed _____ feet.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "4"
+                },
+                {
+                    "letter": "B",
+                    "text": "6"
+                },
+                {
+                    "letter": "C",
+                    "text": "8"
+                },
+                {
+                    "letter": "D",
+                    "text": "10"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 54,
+            "text": "Fixture traps shall have a liquid seal of not less than _____ inch(es).",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1"
+                },
+                {
+                    "letter": "B",
+                    "text": "2"
+                },
+                {
+                    "letter": "C",
+                    "text": "3"
+                },
+                {
+                    "letter": "D",
+                    "text": "4"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 55,
+            "text": "Which of the following materials is prohibited by code for drainage and vent piping below ground?",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Type L copper tubing"
+                },
+                {
+                    "letter": "B",
+                    "text": "cast-iron pipe"
+                },
+                {
+                    "letter": "C",
+                    "text": "galvanized pipe"
+                },
+                {
+                    "letter": "D",
+                    "text": "ABS/PVC DWV"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 56,
+            "text": "Ofthoselisted, a watertight pan of corrosion resistant material is required when a water heater is located in a (an) _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "bathroom"
+                },
+                {
+                    "letter": "B",
+                    "text": "garage"
+                },
+                {
+                    "letter": "C",
+                    "text": "attic"
+                },
+                {
+                    "letter": "D",
+                    "text": "basement"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 57,
+            "text": "Where joints are permitted for copper water tubing under a building slab, they shall be brazed and fittings shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "cast brass"
+                },
+                {
+                    "letter": "B",
+                    "text": "wrought copper"
+                },
+                {
+                    "letter": "C",
+                    "text": "cast bronze"
+                },
+                {
+                    "letter": "D",
+                    "text": "DWV copper"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 58,
+            "text": "The minimum distance between the center of a water closet and a finished side wall or partition is _____ inches.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "15"
+                },
+                {
+                    "letter": "B",
+                    "text": "30"
+                },
+                {
+                    "letter": "C",
+                    "text": "12"
+                },
+                {
+                    "letter": "D",
+                    "text": "6"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 59,
+            "text": "The finished dam or threshold for a shower, excluding accessibility requirements, shall not be less than _____ inch(es).",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1"
+                },
+                {
+                    "letter": "B",
+                    "text": "2"
+                },
+                {
+                    "letter": "C",
+                    "text": "3"
+                },
+                {
+                    "letter": "D",
+                    "text": "6"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 60,
+            "text": "All shower compartments regardless of shape,excluding accessibility requirements and shower receptors having an overall dimension of not less than 30 inches in width and 60 inches in length, shall be capable of encompassing a minimum _____ inch circle.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "30"
+                },
+                {
+                    "letter": "B",
+                    "text": "36"
+                },
+                {
+                    "letter": "C",
+                    "text": "40"
+                },
+                {
+                    "letter": "D",
+                    "text": "48"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 61,
+            "text": "The minimum size septic tank for a three-bedroom residence is _____ gallons.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "750"
+                },
+                {
+                    "letter": "B",
+                    "text": "1,000"
+                },
+                {
+                    "letter": "C",
+                    "text": "1,200"
+                },
+                {
+                    "letter": "D",
+                    "text": "1,500"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 62,
+            "text": "A seepage pit shall have a minimum side wall (not including the arch) of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "10 feet below inlet"
+                },
+                {
+                    "letter": "B",
+                    "text": "20 feet below inlet"
+                },
+                {
+                    "letter": "C",
+                    "text": "10 feet below the dome"
+                },
+                {
+                    "letter": "D",
+                    "text": "20 feet belowground"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 63,
+            "text": "Flexible water connectors shall be installed in _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "accessible locations"
+                },
+                {
+                    "letter": "B",
+                    "text": "interior locations only"
+                },
+                {
+                    "letter": "C",
+                    "text": "readily accessible locations"
+                },
+                {
+                    "letter": "D",
+                    "text": "water softeners only"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 64,
+            "text": "The maximum trap loading for a 2 inch trap is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "one unit"
+                },
+                {
+                    "letter": "B",
+                    "text": "two units"
+                },
+                {
+                    "letter": "C",
+                    "text": "three units"
+                },
+                {
+                    "letter": "D",
+                    "text": "four units"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 65,
+            "text": "The minimum size trap for a shower with a single head",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 1/2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "3 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "4 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 66,
+            "text": "No indirect waste pipe need be larger in diameter than the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "trap to which it is connected"
+                },
+                {
+                    "letter": "B",
+                    "text": "largest drain in the building"
+                },
+                {
+                    "letter": "C",
+                    "text": "size required to drain the fixture in one minute"
+                },
+                {
+                    "letter": "D",
+                    "text": "drain outlet or tailpiece of the fixture"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 67,
+            "text": "Food preparation sinks shall be indirectly connected to the drainage system by means of a (an) _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "airgap"
+                },
+                {
+                    "letter": "B",
+                    "text": "floor drain"
+                },
+                {
+                    "letter": "C",
+                    "text": "grease trap"
+                },
+                {
+                    "letter": "D",
+                    "text": "standpipe"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 68,
+            "text": "The minimum size trap for a public (commercial) bar sink is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 1/2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "3 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "4 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 69,
+            "text": "Seepage pits shall be circular and have an excavated diameter of not less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "3 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "4 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "5 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 70,
+            "text": "No plumbing system or portion there of shall be covered, concealed or put into use until it is inspected and approved by the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "B",
+                    "text": "plumbing contractor"
+                },
+                {
+                    "letter": "C",
+                    "text": "general contractor"
+                },
+                {
+                    "letter": "D",
+                    "text": "owner"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 71,
+            "text": "A permit is not required for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "replacing water piping"
+                },
+                {
+                    "letter": "B",
+                    "text": "replacing gas piping"
+                },
+                {
+                    "letter": "C",
+                    "text": "capping a sewer"
+                },
+                {
+                    "letter": "D",
+                    "text": "reinstallation of a water closet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 72,
+            "text": "Waste outlets and fixture tailpieces for kitchen sinks, laundry sinks, and bathtubs shall not be less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 1/2 inches I.D."
+                },
+                {
+                    "letter": "B",
+                    "text": "1 1/2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "1 1/4 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "1 1/4 inches O.D."
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 73,
+            "text": "The total length of a 1-1/2-inch minimum sized vent pipe that may be installed horizontally is _____ feet.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "20"
+                },
+                {
+                    "letter": "B",
+                    "text": "30"
+                },
+                {
+                    "letter": "C",
+                    "text": "40"
+                },
+                {
+                    "letter": "D",
+                    "text": "60"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 74,
+            "text": "Vent pipes may offset horizontally when the distance above the overflow level of the fixture is not less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "1 foot"
+                },
+                {
+                    "letter": "C",
+                    "text": "6 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "18 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 75,
+            "text": "Each vent pipe or stack shall extend through its flashings and shall terminate vertically not less than _____ inches above the roof.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "6"
+                },
+                {
+                    "letter": "B",
+                    "text": "12"
+                },
+                {
+                    "letter": "C",
+                    "text": "18"
+                },
+                {
+                    "letter": "D",
+                    "text": "24"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 76,
+            "text": "A factor for determining loss in static pressure from the meter to the highest outlet is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "minimum water pressure"
+                },
+                {
+                    "letter": "B",
+                    "text": "elevation above water meter"
+                },
+                {
+                    "letter": "C",
+                    "text": "fixture units"
+                },
+                {
+                    "letter": "D",
+                    "text": "pipe material"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 77,
+            "text": "The minimum size gas pipe supplying a domestic freestanding gas range using natural gas with a pressure drop of 0. 5 inches water column, located 60 feet from the meter (1,100 Btu per cubic foot) is _____ inch.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/2"
+                },
+                {
+                    "letter": "B",
+                    "text": "3/4"
+                },
+                {
+                    "letter": "C",
+                    "text": "1"
+                },
+                {
+                    "letter": "D",
+                    "text": "3/8"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 78,
+            "text": "Closet bends must be cut off so as to present a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "smooth surface even with the top of the closet ring"
+                },
+                {
+                    "letter": "B",
+                    "text": "smooth surface even with the floor surface"
+                },
+                {
+                    "letter": "C",
+                    "text": "surface that can be sealed with putty"
+                },
+                {
+                    "letter": "D",
+                    "text": "surface that can be painted"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 79,
+            "text": "Leaks in gas piping shall be located by applying _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "fire or acid to the exterior of the piping"
+                },
+                {
+                    "letter": "B",
+                    "text": "noncorrosive leak detection fluid"
+                },
+                {
+                    "letter": "C",
+                    "text": "ether to the interior of the piping"
+                },
+                {
+                    "letter": "D",
+                    "text": "smoke to the interior of the piping"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 80,
+            "text": "Caulked joints shall be filled with molten lead to a depth of at least _____ inch(es).",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/2"
+                },
+                {
+                    "letter": "B",
+                    "text": "3/4"
+                },
+                {
+                    "letter": "C",
+                    "text": "1"
+                },
+                {
+                    "letter": "D",
+                    "text": "1 1/2"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 81,
+            "text": "The cleanout fitting for a 4-inch diameter drain pipe shall not be smaller than _____ inches.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2"
+                },
+                {
+                    "letter": "B",
+                    "text": "3"
+                },
+                {
+                    "letter": "C",
+                    "text": "3-1/2"
+                },
+                {
+                    "letter": "D",
+                    "text": "4"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 82,
+            "text": "A floor drain normally requires a 2-inch trap and a 2-inch waste line. In a combination waste and vent system, the size of the trap and waste line shall be at least _____ inches.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 1/2"
+                },
+                {
+                    "letter": "C",
+                    "text": "3"
+                },
+                {
+                    "letter": "D",
+                    "text": "3 1/2"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 83,
+            "text": "Fuel-burning water heaters shall be ensured an adequate supply of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "heat"
+                },
+                {
+                    "letter": "B",
+                    "text": "air"
+                },
+                {
+                    "letter": "C",
+                    "text": "base"
+                },
+                {
+                    "letter": "D",
+                    "text": "A and C"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 84,
+            "text": "Fuel-burning water heaters may be installed in a closet located in the bedroom provided the closet is equipped with a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "deadbolt lock"
+                },
+                {
+                    "letter": "B",
+                    "text": "12 inch x 12 inch opening"
+                },
+                {
+                    "letter": "C",
+                    "text": "metal door"
+                },
+                {
+                    "letter": "D",
+                    "text": "listed self-closing device"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 85,
+            "text": "An attic in which a water heater is installed shall be accessible through an opening of not less than.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "22\u2019\u2019 x 30\u2019\u2019"
+                },
+                {
+                    "letter": "B",
+                    "text": "24\u2019\u2019 x 24\u2019\u2019"
+                },
+                {
+                    "letter": "C",
+                    "text": "30\u2019\u2019 x 30\u2019\u2019"
+                },
+                {
+                    "letter": "D",
+                    "text": "36\u2019\u2019 x 36\u2019\u2019"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 86,
+            "text": "Approved drawn-copper alloy tubing traps may be used on fixtures discharging _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "acid waste"
+                },
+                {
+                    "letter": "B",
+                    "text": "chemical waste"
+                },
+                {
+                    "letter": "C",
+                    "text": "urinal waste"
+                },
+                {
+                    "letter": "D",
+                    "text": "domestic sewage"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 87,
+            "text": "Standpipe receptors for clothes washers shall extend above the trap not less than _____ inches.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "18"
+                },
+                {
+                    "letter": "B",
+                    "text": "24"
+                },
+                {
+                    "letter": "C",
+                    "text": "30"
+                },
+                {
+                    "letter": "D",
+                    "text": "48"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 88,
+            "text": "A horizontal drainage line connecting with other horizontal drainage lines shall enter through _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "tapped tee branches"
+                },
+                {
+                    "letter": "B",
+                    "text": "45-degree wye branches"
+                },
+                {
+                    "letter": "C",
+                    "text": "sanitary tee branches"
+                },
+                {
+                    "letter": "D",
+                    "text": "60-degree branches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 89,
+            "text": "Where approved by the Authority Having Jurisdiction, sewer piping 8 inches and larger may slope_____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/4 inch per foot"
+                },
+                {
+                    "letter": "B",
+                    "text": "1/8 inch per foot"
+                },
+                {
+                    "letter": "C",
+                    "text": "1/16 inch per foot"
+                },
+                {
+                    "letter": "D",
+                    "text": "no limit"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 90,
+            "text": "After connecting a building to the public sewer, abandoned private sewage disposal facilities shall be backfilled within _____ days.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "15"
+                },
+                {
+                    "letter": "B",
+                    "text": "30"
+                },
+                {
+                    "letter": "C",
+                    "text": "45"
+                },
+                {
+                    "letter": "D",
+                    "text": "90"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 91,
+            "text": "PEX tubing shall not be installed within the first _____ inches of piping connected to a water heater.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "6"
+                },
+                {
+                    "letter": "B",
+                    "text": "12"
+                },
+                {
+                    "letter": "C",
+                    "text": "18"
+                },
+                {
+                    "letter": "D",
+                    "text": "24"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 92,
+            "text": "Pressure-relief valves located inside buildings shall be provided with full-size discharge piping that shall extend _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "outside of the building"
+                },
+                {
+                    "letter": "B",
+                    "text": "under the building"
+                },
+                {
+                    "letter": "C",
+                    "text": "through an air break to a plumbing fixture"
+                },
+                {
+                    "letter": "D",
+                    "text": "by direct connection to a fixture tailpiece"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 93,
+            "text": "The valve installed on the cold water supply pipe to each water heater shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a globe valve"
+                },
+                {
+                    "letter": "B",
+                    "text": "a fullway valve"
+                },
+                {
+                    "letter": "C",
+                    "text": "a needle valve"
+                },
+                {
+                    "letter": "D",
+                    "text": "an angle valve"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 94,
+            "text": "Of those listed, the discharge line from a sewage ejector shall be provided with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a bypass"
+                },
+                {
+                    "letter": "B",
+                    "text": "a globe valve"
+                },
+                {
+                    "letter": "C",
+                    "text": "an air relief and siphon breaker"
+                },
+                {
+                    "letter": "D",
+                    "text": "a backwater valve and gate valve"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 95,
+            "text": "Standard trap seals are required to be no less than/nor more than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 inch/ 3 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 inches/ 4 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "3 inches/ 6 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "minimum 1 inch/ no maximum"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 96,
+            "text": "Copper tubing and fittings shall be permitted to be used with DWV systems except for _____ wastes.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "condensate"
+                },
+                {
+                    "letter": "B",
+                    "text": "chemical"
+                },
+                {
+                    "letter": "C",
+                    "text": "grease"
+                },
+                {
+                    "letter": "D",
+                    "text": "soil"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 97,
+            "text": "A room has dimensions of 24 feet x 24 feet x 9 feet. Using the Standard Method for calculating combustion air, this space can support a maximum water heater input rating of how many Btu/h?",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "90,000"
+                },
+                {
+                    "letter": "B",
+                    "text": "95,000"
+                },
+                {
+                    "letter": "C",
+                    "text": "100,000"
+                },
+                {
+                    "letter": "D",
+                    "text": "110,000"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 98,
+            "text": "A rainwater catchment system is designed with an underground storage tank. The tank shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "not less than 360 gallons capacity"
+                },
+                {
+                    "letter": "B",
+                    "text": "capable of supporting a hydrostatic load of 60 psf"
+                },
+                {
+                    "letter": "C",
+                    "text": "not greater than 5,000 gallons capacity"
+                },
+                {
+                    "letter": "D",
+                    "text": "ballasted or anchored"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "D"
+        },
+        {
+            "number": 2,
+            "letter": "B"
+        },
+        {
+            "number": 3,
+            "letter": "C"
+        },
+        {
+            "number": 4,
+            "letter": "B"
+        },
+        {
+            "number": 5,
+            "letter": "D"
+        },
+        {
+            "number": 6,
+            "letter": "A"
+        },
+        {
+            "number": 7,
+            "letter": "D"
+        },
+        {
+            "number": 8,
+            "letter": "C"
+        },
+        {
+            "number": 9,
+            "letter": "B"
+        },
+        {
+            "number": 10,
+            "letter": "A"
+        },
+        {
+            "number": 11,
+            "letter": "D"
+        },
+        {
+            "number": 12,
+            "letter": "D"
+        },
+        {
+            "number": 13,
+            "letter": "C"
+        },
+        {
+            "number": 14,
+            "letter": "C"
+        },
+        {
+            "number": 15,
+            "letter": "D"
+        },
+        {
+            "number": 16,
+            "letter": "C"
+        },
+        {
+            "number": 17,
+            "letter": "A"
+        },
+        {
+            "number": 18,
+            "letter": "D"
+        },
+        {
+            "number": 19,
+            "letter": "B"
+        },
+        {
+            "number": 20,
+            "letter": "C"
+        },
+        {
+            "number": 21,
+            "letter": "B"
+        },
+        {
+            "number": 22,
+            "letter": "B"
+        },
+        {
+            "number": 23,
+            "letter": "B"
+        },
+        {
+            "number": 24,
+            "letter": "D"
+        },
+        {
+            "number": 25,
+            "letter": "D"
+        },
+        {
+            "number": 26,
+            "letter": "A"
+        },
+        {
+            "number": 27,
+            "letter": "C"
+        },
+        {
+            "number": 28,
+            "letter": "B"
+        },
+        {
+            "number": 29,
+            "letter": "B"
+        },
+        {
+            "number": 30,
+            "letter": "B"
+        },
+        {
+            "number": 31,
+            "letter": "C"
+        },
+        {
+            "number": 32,
+            "letter": "A"
+        },
+        {
+            "number": 33,
+            "letter": "C"
+        },
+        {
+            "number": 34,
+            "letter": "D"
+        },
+        {
+            "number": 35,
+            "letter": "A"
+        },
+        {
+            "number": 36,
+            "letter": "C"
+        },
+        {
+            "number": 37,
+            "letter": "D"
+        },
+        {
+            "number": 38,
+            "letter": "C"
+        },
+        {
+            "number": 39,
+            "letter": "D"
+        },
+        {
+            "number": 40,
+            "letter": "A"
+        },
+        {
+            "number": 41,
+            "letter": "A"
+        },
+        {
+            "number": 42,
+            "letter": "B"
+        },
+        {
+            "number": 43,
+            "letter": "D"
+        },
+        {
+            "number": 44,
+            "letter": "B"
+        },
+        {
+            "number": 45,
+            "letter": "C"
+        },
+        {
+            "number": 46,
+            "letter": "B"
+        },
+        {
+            "number": 47,
+            "letter": "C"
+        },
+        {
+            "number": 48,
+            "letter": "B"
+        },
+        {
+            "number": 49,
+            "letter": "D"
+        },
+        {
+            "number": 50,
+            "letter": "A"
+        },
+        {
+            "number": 51,
+            "letter": "A"
+        },
+        {
+            "number": 52,
+            "letter": "D"
+        },
+        {
+            "number": 53,
+            "letter": "B"
+        },
+        {
+            "number": 54,
+            "letter": "B"
+        },
+        {
+            "number": 55,
+            "letter": "C"
+        },
+        {
+            "number": 56,
+            "letter": "C"
+        },
+        {
+            "number": 57,
+            "letter": "B"
+        },
+        {
+            "number": 58,
+            "letter": "A"
+        },
+        {
+            "number": 59,
+            "letter": "B"
+        },
+        {
+            "number": 60,
+            "letter": "A"
+        },
+        {
+            "number": 61,
+            "letter": "B"
+        },
+        {
+            "number": 62,
+            "letter": "A"
+        },
+        {
+            "number": 63,
+            "letter": "C"
+        },
+        {
+            "number": 64,
+            "letter": "D"
+        },
+        {
+            "number": 65,
+            "letter": "B"
+        },
+        {
+            "number": 66,
+            "letter": "D"
+        },
+        {
+            "number": 67,
+            "letter": "A"
+        },
+        {
+            "number": 68,
+            "letter": "A"
+        },
+        {
+            "number": 69,
+            "letter": "C"
+        },
+        {
+            "number": 70,
+            "letter": "A"
+        },
+        {
+            "number": 71,
+            "letter": "D"
+        },
+        {
+            "number": 72,
+            "letter": "B"
+        },
+        {
+            "number": 73,
+            "letter": "A"
+        },
+        {
+            "number": 74,
+            "letter": "C"
+        },
+        {
+            "number": 75,
+            "letter": "A"
+        },
+        {
+            "number": 76,
+            "letter": "B"
+        },
+        {
+            "number": 77,
+            "letter": "A"
+        },
+        {
+            "number": 78,
+            "letter": "A"
+        },
+        {
+            "number": 79,
+            "letter": "B"
+        },
+        {
+            "number": 80,
+            "letter": "C"
+        },
+        {
+            "number": 81,
+            "letter": "C"
+        },
+        {
+            "number": 82,
+            "letter": "C"
+        },
+        {
+            "number": 83,
+            "letter": "B"
+        },
+        {
+            "number": 84,
+            "letter": "D"
+        },
+        {
+            "number": 85,
+            "letter": "A"
+        },
+        {
+            "number": 86,
+            "letter": "D"
+        },
+        {
+            "number": 87,
+            "letter": "A"
+        },
+        {
+            "number": 88,
+            "letter": "B"
+        },
+        {
+            "number": 89,
+            "letter": "C"
+        },
+        {
+            "number": 90,
+            "letter": "B"
+        },
+        {
+            "number": 91,
+            "letter": "C"
+        },
+        {
+            "number": 92,
+            "letter": "A"
+        },
+        {
+            "number": 93,
+            "letter": "B"
+        },
+        {
+            "number": 94,
+            "letter": "D"
+        },
+        {
+            "number": 95,
+            "letter": "B"
+        },
+        {
+            "number": 96,
+            "letter": "B"
+        },
+        {
+            "number": 97,
+            "letter": "C"
+        },
+        {
+            "number": 98,
+            "letter": "D"
+        }
+    ]
+}

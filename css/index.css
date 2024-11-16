@@ -1,0 +1,181 @@
+:root {
+    --background_color: #212121;
+    --highlight_background_color: #3e3e3e;
+    --text_color: rgb(151, 81, 31);
+    --highlight_text_color: rgb(255, 191, 80);
+    --link_color: rgb(109, 176, 202);
+    --highlight_link_color: rgb(159, 255, 244);
+    --border_color_1: gray;
+    --border_color_2: var(--text_color);
+    --border_color_3: var(--link_color);
+}
+body {
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    background-color: #212121;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color: var(--text_color);
+}
+h2 {
+    padding: 5px;
+    margin: 5px;
+    margin-top: 0px;
+}
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    justify-self: center;
+    text-align: center;
+    border: 1px solid var(--border_color_1);
+    border-radius: 15px;
+    width: 75%;
+    padding: 5px;
+    padding-bottom: 10px;
+    margin: 10px;
+}
+li {
+    margin: 8px;
+    color: var(--link_color);
+    cursor: pointer;
+}
+li:hover {
+    color: var(--text_color);
+}
+a {
+    color: var(--link_color);
+    text-decoration: none;
+    font-size: larger;
+}
+.div_header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--background_color);
+    color: white;
+}
+.div_body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+/* Card */ 
+.div_card_buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    width: 80%;
+}
+.div_card_buttons button {
+    margin: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid var(--border_color_1);
+    background-color: var(--background_color);
+    color: var(--link_color);
+    width: 33%;
+}
+.div_card_buttons button:hover {
+    background-color: var(--link_color);
+    color: var(--background_color);
+    border: 1px solid var(--link_color);
+    cursor: pointer;
+}
+.question_label {
+    margin: 15px;
+    width: 80%;
+}
+.question_image {
+    margin-top: 10px;
+    width: 90%;
+}
+.question_image:hover {
+    cursor: pointer;
+}
+.option {
+    border: 1px solid var(--border_color_1);
+    color: var(--link_color);
+    border-radius: 15px;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+    width: 75%;
+    text-align: center;
+}
+.option:hover {
+    border: 1px solid var(--border_color_2);
+    color: var(--text_color);
+    background-color: var(--highlight_background_color);
+}
+.option_selected {
+    border: 1px solid var(--border_color_2);
+    color: var(--text_color);
+}
+.option_correct {
+    border: 1px solid var(--highlight_link_color);
+    color: var(--highlight_text_color);
+    background-color: var(--highlight_background_color);
+}
+.show_answer_option {
+    border: 1px solid var(--border_color_1);
+    color: var(--link_color);
+    border-radius: 15px;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+    width: 75%;
+    text-align: center;
+    background-color: var(--background_color);
+    width: 50%;
+}
+.show_answer_option:hover {
+    border: 1px solid var(--border_color_2);
+    color: var(--text_color);
+}
+.results_div {
+    display: flex;
+    flex-direction: column;
+    align-content: left;
+}
+.orange_label{
+    color: var(--text_color);
+}
+.blue_label{
+    color: var(--link_color);
+}
+.highlight_blue_label{
+    color: var(--highlight_link_color)
+}
+.highlight_orange_label{
+    color: var(--highlight_text_color)
+}
+.home_button {
+    margin: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid var(--border_color_1);
+    background-color: var(--background_color);
+    color: var(--link_color);
+    width: 100%;
+}
+.home_button:hover {
+    background-color: var(--link_color);
+    color: var(--background_color);
+    border: 1px solid var(--link_color);
+    cursor: pointer;
+}

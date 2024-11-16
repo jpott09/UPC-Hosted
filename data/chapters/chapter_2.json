@@ -1,0 +1,1742 @@
+{
+    "number": 2,
+    "text": "DEFINITIONS",
+    "questions": [
+        {
+            "number": 1,
+            "text": "A room equipped with a shower, bathtub or combination bath/shower is a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "toilet room"
+                },
+                {
+                    "letter": "B",
+                    "text": "bathroom"
+                },
+                {
+                    "letter": "C",
+                    "text": "shower room"
+                },
+                {
+                    "letter": "D",
+                    "text": "washroom"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "Fixture connections that require the removal of an access panel for servicing are considered _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "accessible"
+                },
+                {
+                    "letter": "B",
+                    "text": "readily accessible"
+                },
+                {
+                    "letter": "C",
+                    "text": "not accessible"
+                },
+                {
+                    "letter": "D",
+                    "text": "exposed"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "That part of the lowest piping of a drainage system that receives the discharge from soil, waste, and other drainage pipes inside the walls of the building and conveys it to a point 2 feet outside the building wall is a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "building drain"
+                },
+                {
+                    "letter": "B",
+                    "text": "building sewer"
+                },
+                {
+                    "letter": "C",
+                    "text": "waste pipe"
+                },
+                {
+                    "letter": "D",
+                    "text": "soil stack"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "A vertical vent that is a continuation of the drain to which it connects is a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "circuit vent"
+                },
+                {
+                    "letter": "B",
+                    "text": "relief vent"
+                },
+                {
+                    "letter": "C",
+                    "text": "continuous vent"
+                },
+                {
+                    "letter": "D",
+                    "text": "branch vent"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "A horizontal drain that is sized to provide free movement of air above the flow line of the drain is called a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "continuous waste system"
+                },
+                {
+                    "letter": "B",
+                    "text": "durham waste and vent system"
+                },
+                {
+                    "letter": "C",
+                    "text": "combination waste and vent system"
+                },
+                {
+                    "letter": "D",
+                    "text": "solvent waste and vent system"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "The length along the centerline of the pipe and fittings is the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "diagonal length"
+                },
+                {
+                    "letter": "B",
+                    "text": "diameter length"
+                },
+                {
+                    "letter": "C",
+                    "text": "circumference length"
+                },
+                {
+                    "letter": "D",
+                    "text": "developed length"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "A device integrated within an air accumulator vessel that is designed to discharge a predetermined quantity of water to fixtures for flushing purposes is a(n) _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "expansion tank"
+                },
+                {
+                    "letter": "B",
+                    "text": "surge tank"
+                },
+                {
+                    "letter": "C",
+                    "text": "flushometer tank"
+                },
+                {
+                    "letter": "D",
+                    "text": "day tank"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "The combination of fittings that may be used to make an offset and is considered a vertical pipe are _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 - 90 degree and 1 - 45 degree"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 - 90 degree and 1 - 45 degree"
+                },
+                {
+                    "letter": "C",
+                    "text": "1 - 45 degree and 1 - 60 degree"
+                },
+                {
+                    "letter": "D",
+                    "text": "1 - 45 degree and 1 - 45 degree"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "Water that is satisfactory for drinking, culinary and domestic purposes and that meets the requirements of the Authority Having Jurisdiction is referred to by this code as _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "potable water"
+                },
+                {
+                    "letter": "B",
+                    "text": "industrial water"
+                },
+                {
+                    "letter": "C",
+                    "text": "soft water"
+                },
+                {
+                    "letter": "D",
+                    "text": "hard water"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 10,
+            "text": "By code definition, a stack is always _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "straight"
+                },
+                {
+                    "letter": "B",
+                    "text": "horizontal"
+                },
+                {
+                    "letter": "C",
+                    "text": "vertical"
+                },
+                {
+                    "letter": "D",
+                    "text": "exposed"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 11,
+            "text": "A vent that also serves as a drain is a(an) _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "island vent"
+                },
+                {
+                    "letter": "B",
+                    "text": "vent stack"
+                },
+                {
+                    "letter": "C",
+                    "text": "loop vent"
+                },
+                {
+                    "letter": "D",
+                    "text": "wet vent"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "A pipe that makes an angle of not more than 45 degrees with the vertical is considered _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "vertical"
+                },
+                {
+                    "letter": "B",
+                    "text": "horizontal"
+                },
+                {
+                    "letter": "C",
+                    "text": "crooked pipe"
+                },
+                {
+                    "letter": "D",
+                    "text": "diagonal pipe"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "The vertical depth of a trap seal is measured from _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the crown weir to the top of the dip of the trap"
+                },
+                {
+                    "letter": "B",
+                    "text": "the inlet of the trap to the bottom of the trap"
+                },
+                {
+                    "letter": "C",
+                    "text": "the outlet of the trap to the bottom of the trap"
+                },
+                {
+                    "letter": "D",
+                    "text": "the inlet of the trap to the outlet of the trap"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "Select the word or term that fits the sketch",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "waste pipe"
+                },
+                {
+                    "letter": "B",
+                    "text": "drain pipe"
+                },
+                {
+                    "letter": "C",
+                    "text": "dirty arm"
+                },
+                {
+                    "letter": "D",
+                    "text": "trap arm"
+                }
+            ],
+            "image": "chapter 2 - figure 14"
+        },
+        {
+            "number": 15,
+            "text": "Select the word or term that fits the sketch",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "industrial waste disposal system"
+                },
+                {
+                    "letter": "B",
+                    "text": "private sewage retention system"
+                },
+                {
+                    "letter": "C",
+                    "text": "public sewage retention system"
+                },
+                {
+                    "letter": "D",
+                    "text": "private sewage disposal system"
+                }
+            ],
+            "image": "chapter 2 - figure 15"
+        },
+        {
+            "number": 16,
+            "text": "Select the word or term that fits the sketch",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "relief vent"
+                },
+                {
+                    "letter": "B",
+                    "text": "yoke vent"
+                },
+                {
+                    "letter": "C",
+                    "text": "fixture vent"
+                },
+                {
+                    "letter": "D",
+                    "text": "branch vent"
+                }
+            ],
+            "image": "chapter 2 - figure 16"
+        },
+        {
+            "number": 17,
+            "text": "Select the word or term that fits the sketch",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "holding tank"
+                },
+                {
+                    "letter": "B",
+                    "text": "catch basin"
+                },
+                {
+                    "letter": "C",
+                    "text": "sand trap"
+                },
+                {
+                    "letter": "D",
+                    "text": "sump"
+                }
+            ],
+            "image": "chapter 2 - figure 17"
+        },
+        {
+            "number": 18,
+            "text": "Select the word or term that fits the sketch",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "fixture branch"
+                },
+                {
+                    "letter": "B",
+                    "text": "industrial waste"
+                },
+                {
+                    "letter": "C",
+                    "text": "indirect waste pipe"
+                },
+                {
+                    "letter": "D",
+                    "text": "island sink drain"
+                }
+            ],
+            "image": "chapter 2 - figure 18"
+        },
+        {
+            "number": 19,
+            "text": "Select the word or term that fits the sketch",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "distance below grade"
+                },
+                {
+                    "letter": "B",
+                    "text": "grade of pipe"
+                },
+                {
+                    "letter": "C",
+                    "text": "velocity of flow"
+                },
+                {
+                    "letter": "D",
+                    "text": "direction of flow"
+                }
+            ],
+            "image": "chapter 2 - figure 19"
+        },
+        {
+            "number": 20,
+            "text": "Select the word or term that fits the sketch",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "manufacturer\u2019s trademark"
+                },
+                {
+                    "letter": "B",
+                    "text": "critical Ievel marking"
+                },
+                {
+                    "letter": "C",
+                    "text": "crown line"
+                },
+                {
+                    "letter": "D",
+                    "text": "corrosive Iimit"
+                }
+            ],
+            "image": "chapter 2 - figure 20"
+        },
+        {
+            "number": 21,
+            "text": "Select the word or term that fits the sketch",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "airgap"
+                },
+                {
+                    "letter": "B",
+                    "text": "airbreak"
+                },
+                {
+                    "letter": "C",
+                    "text": "overflow rim"
+                },
+                {
+                    "letter": "D",
+                    "text": "static head"
+                }
+            ],
+            "image": "chapter 2 - figure 21"
+        },
+        {
+            "number": 22,
+            "text": "Select the word or term that fits the sketch",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "fixture supply"
+                },
+                {
+                    "letter": "B",
+                    "text": "fixture drain"
+                },
+                {
+                    "letter": "C",
+                    "text": "horizontal branch"
+                },
+                {
+                    "letter": "D",
+                    "text": "building drain"
+                }
+            ],
+            "image": "chapter 2 - figure 22"
+        },
+        {
+            "number": 23,
+            "text": "Select the word or term that fits the sketch",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "individual vent"
+                },
+                {
+                    "letter": "B",
+                    "text": "wet vent"
+                },
+                {
+                    "letter": "C",
+                    "text": "wet drain"
+                },
+                {
+                    "letter": "D",
+                    "text": "yoke vent"
+                }
+            ],
+            "image": "chapter 2 - figure 23"
+        },
+        {
+            "number": 24,
+            "text": "A mixing valve that senses outlet temperature and compensates for fluctuations in incoming hot or cold water temperature is a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "thermostatic"
+                },
+                {
+                    "letter": "B",
+                    "text": "combination thermostatic/pressure-balancing valve"
+                },
+                {
+                    "letter": "C",
+                    "text": "pressure-balancing valve"
+                },
+                {
+                    "letter": "D",
+                    "text": "none of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 25,
+            "text": "The restroom facilities in a private day care center are classified as public use.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "true"
+                },
+                {
+                    "letter": "B",
+                    "text": "false"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 26,
+            "text": "The discharge from clinical sinks and conveyed to the building drain is defined as a waste pipe.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "true"
+                },
+                {
+                    "letter": "B",
+                    "text": "false"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 27,
+            "text": "A combined building sewer is a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "combination of all sewer and drainage piping from inside and outside of a building"
+                },
+                {
+                    "letter": "B",
+                    "text": "building sewer that conveys industrial waste and domestic sewage"
+                },
+                {
+                    "letter": "C",
+                    "text": "building sewer that conveys both sewage and storm water"
+                },
+                {
+                    "letter": "D",
+                    "text": "building drains that convey waste and storm water"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 28,
+            "text": "PEX is defined as _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "polyethylene"
+                },
+                {
+                    "letter": "B",
+                    "text": "cross-linked polyethylene"
+                },
+                {
+                    "letter": "C",
+                    "text": "polybutylene X"
+                },
+                {
+                    "letter": "D",
+                    "text": "none of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 29,
+            "text": "The lowest portion of the inside of a horizontal pipe is called the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "bottom"
+                },
+                {
+                    "letter": "B",
+                    "text": "flat vent"
+                },
+                {
+                    "letter": "C",
+                    "text": "invert"
+                },
+                {
+                    "letter": "D",
+                    "text": "invert mass"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 30,
+            "text": "The part of the horizontal piping of a drainage system that begins _____ feet downstream from the last mobile home site and conveys it to a public sewer is called a mobile home park sewer.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2"
+                },
+                {
+                    "letter": "B",
+                    "text": "3"
+                },
+                {
+                    "letter": "C",
+                    "text": "3-1/2"
+                },
+                {
+                    "letter": "D",
+                    "text": "5"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 31,
+            "text": "A device and system of piping that maintains a water seal in a remote trap is called a trap primer.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "true"
+                },
+                {
+                    "letter": "B",
+                    "text": "false"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 32,
+            "text": "Static pressure is pressure existing without any flow.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "true"
+                },
+                {
+                    "letter": "B",
+                    "text": "false"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 33,
+            "text": "A permanently installed mechanical device, other than an ejector, for removing sewage or liquid waste from a sump is called a sewage pump.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "true"
+                },
+                {
+                    "letter": "B",
+                    "text": "false"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 34,
+            "text": "A standard that is an extensive compilation of provisions covering broad subject matter is the definition for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "standards"
+                },
+                {
+                    "letter": "B",
+                    "text": "listed"
+                },
+                {
+                    "letter": "C",
+                    "text": "legal document"
+                },
+                {
+                    "letter": "D",
+                    "text": "code"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 35,
+            "text": "The principal artery of the venting system to which branches may be connected is called the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "branch vent"
+                },
+                {
+                    "letter": "B",
+                    "text": "vertical vent"
+                },
+                {
+                    "letter": "C",
+                    "text": "vent"
+                },
+                {
+                    "letter": "D",
+                    "text": "main vent"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 36,
+            "text": "A joint obtained by the joining of metal parts with metallic mixtures or alloys that melt at a temperature up to and including 840\u00b0 F is a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "soldered joint"
+                },
+                {
+                    "letter": "B",
+                    "text": "brazed joint"
+                },
+                {
+                    "letter": "C",
+                    "text": "metallic joint"
+                },
+                {
+                    "letter": "D",
+                    "text": "flared joint"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 37,
+            "text": "The organization, office, or individual responsible for enforcing the requirements of a code or standard is the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "administrative authority"
+                },
+                {
+                    "letter": "B",
+                    "text": "building department"
+                },
+                {
+                    "letter": "C",
+                    "text": "plumbing inspector or department"
+                },
+                {
+                    "letter": "D",
+                    "text": "Authority Having Jurisdiction"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 38,
+            "text": "That portion of a drainage system that does not drain by gravity into the building sewer is known as a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "building supply"
+                },
+                {
+                    "letter": "B",
+                    "text": "building subdrain"
+                },
+                {
+                    "letter": "C",
+                    "text": "sewer ejector"
+                },
+                {
+                    "letter": "D",
+                    "text": "storm sewer"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 39,
+            "text": "A pipe inside a building that conveys storm water from the roof to a storm drain, combined building sewer, or other approved point of disposal is called a(an) ______.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "conductor"
+                },
+                {
+                    "letter": "B",
+                    "text": "building storm drain"
+                },
+                {
+                    "letter": "C",
+                    "text": "adductor"
+                },
+                {
+                    "letter": "D",
+                    "text": "rain leader"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 40,
+            "text": "An outlet on a boiler to permit emptying or discharging of sediment is called a(an) _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "relief valve"
+                },
+                {
+                    "letter": "B",
+                    "text": "atmospheric check valve"
+                },
+                {
+                    "letter": "C",
+                    "text": "aspirator"
+                },
+                {
+                    "letter": "D",
+                    "text": "boiler blowoff"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 41,
+            "text": "A device designed to provide protection against hydraulic shock in the building water supply system is called a a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "backflow preventor"
+                },
+                {
+                    "letter": "B",
+                    "text": "air chamber"
+                },
+                {
+                    "letter": "C",
+                    "text": "flushometer valve"
+                },
+                {
+                    "letter": "D",
+                    "text": "water hammer arrestor"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 42,
+            "text": "A device installed in a drainage system to prevent reverse flow is a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "sewage ejector"
+                },
+                {
+                    "letter": "B",
+                    "text": "check valve"
+                },
+                {
+                    "letter": "C",
+                    "text": "backwater valve"
+                },
+                {
+                    "letter": "D",
+                    "text": "backflow preventor"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 43,
+            "text": "Any pressure less than that exerted by the atmosphere is a  _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "vacuum"
+                },
+                {
+                    "letter": "B",
+                    "text": "negative pressure"
+                },
+                {
+                    "letter": "C",
+                    "text": "atmospheric pressure"
+                },
+                {
+                    "letter": "D",
+                    "text": "positive pressure"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 44,
+            "text": "A document, the main text of which contains only mandatory provisions using the word \u201cshall\u201d to indicate requirements, is best described as a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "legal document"
+                },
+                {
+                    "letter": "B",
+                    "text": "code"
+                },
+                {
+                    "letter": "C",
+                    "text": "law"
+                },
+                {
+                    "letter": "D",
+                    "text": "standard"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 45,
+            "text": "Unsanitary and insanitary share the same meaning.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "true"
+                },
+                {
+                    "letter": "B",
+                    "text": "false"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 46,
+            "text": "When a back flow prevention device does not bear a critical level marking, the part of the device that shall constitute the critical level is the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "top"
+                },
+                {
+                    "letter": "B",
+                    "text": "bottom"
+                },
+                {
+                    "letter": "C",
+                    "text": "center"
+                },
+                {
+                    "letter": "D",
+                    "text": "outlet invert"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 47,
+            "text": "A water heater is by definition an appliance for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "heating water to a maximum of 210\u00b0F"
+                },
+                {
+                    "letter": "B",
+                    "text": "supplying steam for domestic and commercial purposes"
+                },
+                {
+                    "letter": "C",
+                    "text": "heating water and equipped with a draft hood"
+                },
+                {
+                    "letter": "D",
+                    "text": "supplying hot water to a maximum of 190\u00b0F"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 48,
+            "text": "The pipe or duct that connects a fuel-gas-burning water heater to a gas vent or chimney is a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "flue collar"
+                },
+                {
+                    "letter": "B",
+                    "text": "vent connector"
+                },
+                {
+                    "letter": "C",
+                    "text": "collar connecter"
+                },
+                {
+                    "letter": "D",
+                    "text": "chimney collar connector"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 49,
+            "text": "A water heater that is constructed and installed so that all air for combustion is derived directly from the outside atmosphere and all flue gases are discharged to the outside atmosphere is a(n) _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "direct-vent appliance"
+                },
+                {
+                    "letter": "B",
+                    "text": "gravity-vent appliance"
+                },
+                {
+                    "letter": "C",
+                    "text": "forced-draft vent appliance"
+                },
+                {
+                    "letter": "D",
+                    "text": "induced vent appliance"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 50,
+            "text": "Type B vent is used for venting a listed or approved appliance equipped to burn _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "only gas"
+                },
+                {
+                    "letter": "B",
+                    "text": "only oil"
+                },
+                {
+                    "letter": "C",
+                    "text": "gas or oil"
+                },
+                {
+                    "letter": "D",
+                    "text": "solid fuel"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 51,
+            "text": "The piping and equipment between the street gas main and the gas piping system inlet, which is installed by and is under the control and maintenance of the serving gas supplier, is listed in the code as _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "gas piping"
+                },
+                {
+                    "letter": "B",
+                    "text": "service piping"
+                },
+                {
+                    "letter": "C",
+                    "text": "gas fitting"
+                },
+                {
+                    "letter": "D",
+                    "text": "yard piping"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 52,
+            "text": "Grounding electrodes are devices that establish an electrical connection to the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "earth"
+                },
+                {
+                    "letter": "B",
+                    "text": "cold water piping"
+                },
+                {
+                    "letter": "C",
+                    "text": "building structural steel"
+                },
+                {
+                    "letter": "D",
+                    "text": "building electrical wiring"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 53,
+            "text": "SCFM means _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "standard criteria for medicine"
+                },
+                {
+                    "letter": "B",
+                    "text": "standard criteria for medical gas"
+                },
+                {
+                    "letter": "C",
+                    "text": "standard cubic feet per minute"
+                },
+                {
+                    "letter": "D",
+                    "text": "standard cubic feet per meter"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 54,
+            "text": "A valve that controls the gas or vacuum service to a particular area is a (an) _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "zone valve"
+                },
+                {
+                    "letter": "B",
+                    "text": "branch valve"
+                },
+                {
+                    "letter": "C",
+                    "text": "area valve"
+                },
+                {
+                    "letter": "D",
+                    "text": "isolation valve"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 55,
+            "text": "The pipe from the source of supply to a building or structure is the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "water main"
+                },
+                {
+                    "letter": "B",
+                    "text": "building supply"
+                },
+                {
+                    "letter": "C",
+                    "text": "water-distributing pipe"
+                },
+                {
+                    "letter": "D",
+                    "text": "water riser"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 56,
+            "text": "The service valve serves _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "vertical piping extending from a horizontal branch"
+                },
+                {
+                    "letter": "B",
+                    "text": "horizontal piping extending from a riser to a station outlet or inlet"
+                },
+                {
+                    "letter": "C",
+                    "text": "a designated zone"
+                },
+                {
+                    "letter": "D",
+                    "text": "all piping downstream from the source"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 57,
+            "text": "The T rating limits the maximum temperature rise of _____ above its initial temperature through the penetration on the nonfire side.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "400\u00b0F"
+                },
+                {
+                    "letter": "B",
+                    "text": "300\u00b0F"
+                },
+                {
+                    "letter": "C",
+                    "text": "325\u00b0F"
+                },
+                {
+                    "letter": "D",
+                    "text": "375\u00b0F"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 58,
+            "text": "The definition of gray water is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "untreated wastewater that has not come into contact with kitchen sink or dishwasher waste"
+                },
+                {
+                    "letter": "B",
+                    "text": "untreated wastewater that has not come into contact with toilet waste"
+                },
+                {
+                    "letter": "C",
+                    "text": "wastewater from bathtubs, showers, lavatories, clothes washers and laundry tubs"
+                },
+                {
+                    "letter": "D",
+                    "text": "all of the above are requirements"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 59,
+            "text": "Reclaimed water systems are defined as follows: _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "domestic wastewater"
+                },
+                {
+                    "letter": "B",
+                    "text": "tertiary treated nonpotable water"
+                },
+                {
+                    "letter": "C",
+                    "text": "meet Federal requirements"
+                },
+                {
+                    "letter": "D",
+                    "text": "both b and c apply"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 60,
+            "text": "A device located at the bottom of the tank for the purpose of flushing water closets and similar fixtures is a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "balIcock"
+                },
+                {
+                    "letter": "B",
+                    "text": "tank ball"
+                },
+                {
+                    "letter": "C",
+                    "text": "flush valve"
+                },
+                {
+                    "letter": "D",
+                    "text": "flushometer valve"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 61,
+            "text": "Gray water is untreated wastewater that has not come into contact with waste from which one of the following?",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "showers"
+                },
+                {
+                    "letter": "B",
+                    "text": "tubs"
+                },
+                {
+                    "letter": "C",
+                    "text": "toilets"
+                },
+                {
+                    "letter": "D",
+                    "text": "lavatories"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 62,
+            "text": "A physical separation that may be a low inlet into the indirect waste receptor from the fixtures, appliances, or devices indirectly connected is the definition for an _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "airbreak"
+                },
+                {
+                    "letter": "B",
+                    "text": "airgap"
+                },
+                {
+                    "letter": "C",
+                    "text": "indirect waste"
+                },
+                {
+                    "letter": "D",
+                    "text": "individual vent"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 63,
+            "text": "A pipe that makes an angIe of 45 degrees from the vertical is considered _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "vertical"
+                },
+                {
+                    "letter": "B",
+                    "text": "horizontal"
+                },
+                {
+                    "letter": "C",
+                    "text": "crooked"
+                },
+                {
+                    "letter": "D",
+                    "text": "offset"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 64,
+            "text": "The definition for the word \u201cstack\u201d does not include _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "soil piping"
+                },
+                {
+                    "letter": "B",
+                    "text": "vent piping"
+                },
+                {
+                    "letter": "C",
+                    "text": "waste piping"
+                },
+                {
+                    "letter": "D",
+                    "text": "water piping"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 65,
+            "text": "A medical gas system whose failure can cause minor injury to patients is defined as Category _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1"
+                },
+                {
+                    "letter": "B",
+                    "text": "2"
+                },
+                {
+                    "letter": "C",
+                    "text": "3"
+                },
+                {
+                    "letter": "D",
+                    "text": "4"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 66,
+            "text": "Air supplied from cylinders, bulk containers or reconstructed from oxygen USP is defined as Medical _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Air"
+                },
+                {
+                    "letter": "B",
+                    "text": "Vacuum"
+                },
+                {
+                    "letter": "C",
+                    "text": "Oxygen"
+                },
+                {
+                    "letter": "D",
+                    "text": "Nitrous Oxide"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "B"
+        },
+        {
+            "number": 2,
+            "letter": "A"
+        },
+        {
+            "number": 3,
+            "letter": "A"
+        },
+        {
+            "number": 4,
+            "letter": "C"
+        },
+        {
+            "number": 5,
+            "letter": "C"
+        },
+        {
+            "number": 6,
+            "letter": "D"
+        },
+        {
+            "number": 7,
+            "letter": "C"
+        },
+        {
+            "number": 8,
+            "letter": "D"
+        },
+        {
+            "number": 9,
+            "letter": "A"
+        },
+        {
+            "number": 10,
+            "letter": "C"
+        },
+        {
+            "number": 11,
+            "letter": "D"
+        },
+        {
+            "number": 12,
+            "letter": "A"
+        },
+        {
+            "number": 13,
+            "letter": "A"
+        },
+        {
+            "number": 14,
+            "letter": "D"
+        },
+        {
+            "number": 15,
+            "letter": "D"
+        },
+        {
+            "number": 16,
+            "letter": "B"
+        },
+        {
+            "number": 17,
+            "letter": "D"
+        },
+        {
+            "number": 18,
+            "letter": "C"
+        },
+        {
+            "number": 19,
+            "letter": "B"
+        },
+        {
+            "number": 20,
+            "letter": "B"
+        },
+        {
+            "number": 21,
+            "letter": "A"
+        },
+        {
+            "number": 22,
+            "letter": "C"
+        },
+        {
+            "number": 23,
+            "letter": "B"
+        },
+        {
+            "number": 24,
+            "letter": "A"
+        },
+        {
+            "number": 25,
+            "letter": "A"
+        },
+        {
+            "number": 26,
+            "letter": "B"
+        },
+        {
+            "number": 27,
+            "letter": "C"
+        },
+        {
+            "number": 28,
+            "letter": "B"
+        },
+        {
+            "number": 29,
+            "letter": "C"
+        },
+        {
+            "number": 30,
+            "letter": "A"
+        },
+        {
+            "number": 31,
+            "letter": "A"
+        },
+        {
+            "number": 32,
+            "letter": "A"
+        },
+        {
+            "number": 33,
+            "letter": "A"
+        },
+        {
+            "number": 34,
+            "letter": "D"
+        },
+        {
+            "number": 35,
+            "letter": "D"
+        },
+        {
+            "number": 36,
+            "letter": "A"
+        },
+        {
+            "number": 37,
+            "letter": "D"
+        },
+        {
+            "number": 38,
+            "letter": "B"
+        },
+        {
+            "number": 39,
+            "letter": "A"
+        },
+        {
+            "number": 40,
+            "letter": "D"
+        },
+        {
+            "number": 41,
+            "letter": "D"
+        },
+        {
+            "number": 42,
+            "letter": "C"
+        },
+        {
+            "number": 43,
+            "letter": "A"
+        },
+        {
+            "number": 44,
+            "letter": "D"
+        },
+        {
+            "number": 45,
+            "letter": "A"
+        },
+        {
+            "number": 46,
+            "letter": "B"
+        },
+        {
+            "number": 47,
+            "letter": "A"
+        },
+        {
+            "number": 48,
+            "letter": "B"
+        },
+        {
+            "number": 49,
+            "letter": "A"
+        },
+        {
+            "number": 50,
+            "letter": "A"
+        },
+        {
+            "number": 51,
+            "letter": "B"
+        },
+        {
+            "number": 52,
+            "letter": "A"
+        },
+        {
+            "number": 53,
+            "letter": "C"
+        },
+        {
+            "number": 54,
+            "letter": "A"
+        },
+        {
+            "number": 55,
+            "letter": "B"
+        },
+        {
+            "number": 56,
+            "letter": "B"
+        },
+        {
+            "number": 57,
+            "letter": "C"
+        },
+        {
+            "number": 58,
+            "letter": "D"
+        },
+        {
+            "number": 59,
+            "letter": "B"
+        },
+        {
+            "number": 60,
+            "letter": "C"
+        },
+        {
+            "number": 61,
+            "letter": "C"
+        },
+        {
+            "number": 62,
+            "letter": "A"
+        },
+        {
+            "number": 63,
+            "letter": "A"
+        },
+        {
+            "number": 64,
+            "letter": "D"
+        },
+        {
+            "number": 65,
+            "letter": "B"
+        },
+        {
+            "number": 66,
+            "letter": "A"
+        }
+    ]
+}

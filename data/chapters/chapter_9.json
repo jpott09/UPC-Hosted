@@ -1,0 +1,1763 @@
+{
+    "number": 9,
+    "text": "VENTS",
+    "questions": [
+        {
+            "number": 1,
+            "text": "Vent pipes protect fixture traps against _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "evaporation"
+                },
+                {
+                    "letter": "B",
+                    "text": "siphonage"
+                },
+                {
+                    "letter": "C",
+                    "text": "clogging"
+                },
+                {
+                    "letter": "D",
+                    "text": "cross-connections"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "In the above sketch, the primary settling tank _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "requires a backwater valve"
+                },
+                {
+                    "letter": "B",
+                    "text": "requires a vent pipe"
+                },
+                {
+                    "letter": "C",
+                    "text": "is correct as shown"
+                },
+                {
+                    "letter": "D",
+                    "text": "does not require a cleanout"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "Under certain conditions, traps serving sinks that are part of the equipment of bars, soda fountains, and counters _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "need not be vented"
+                },
+                {
+                    "letter": "B",
+                    "text": "shall be vented"
+                },
+                {
+                    "letter": "C",
+                    "text": "may be wet-vented"
+                },
+                {
+                    "letter": "D",
+                    "text": "need relief vents"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "One factor for determining the size of a vent pipe is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "its accessibility"
+                },
+                {
+                    "letter": "B",
+                    "text": "its length"
+                },
+                {
+                    "letter": "C",
+                    "text": "the type of building"
+                },
+                {
+                    "letter": "D",
+                    "text": "the price of material"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "The combination of vent pipes that will provide sufficient aggregate cross-sectional vent area for required a 4-inch house sewer is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 - 2 inch and 4 \u2013 1-1/2 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 - 2 inch and 1 \u2013 2-1/2 inch"
+                },
+                {
+                    "letter": "C",
+                    "text": "3 - 2 inch and 1 \u2013 1-1/2 inch"
+                },
+                {
+                    "letter": "D",
+                    "text": "4 - 2 inch"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "The maximum horizontal length permitted for a required 2-inch vent pipe is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "20 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "40 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "60 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "120 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "The diameter of an individual vent sha lI not be less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1-1/4 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "1-1/2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "3 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "The distance \u201cX\u201d in the sketch above shall be at least _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "6 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "12 inches"
+                }
+            ],
+            "image": "chapter 9 - figure 8"
+        },
+        {
+            "number": 9,
+            "text": "The acceptable method for connecting a vent pipe to a horizontal drain pipe is shown above by _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "sketch \u201cA\u201d"
+                },
+                {
+                    "letter": "B",
+                    "text": "sketches \u201cA\u201d and \u201cB\u201d"
+                },
+                {
+                    "letter": "C",
+                    "text": "sketch \u201cB\u201d"
+                },
+                {
+                    "letter": "D",
+                    "text": "sketches \u201cB\u201d and \u201cC\u201d"
+                }
+            ],
+            "image": "chapter 9 - figure 9"
+        },
+        {
+            "number": 10,
+            "text": "The vent pipe opening is above the crown weir of the trap in _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "sketch \u201cA\u201d"
+                },
+                {
+                    "letter": "B",
+                    "text": "sketch \u201cB\u201d"
+                },
+                {
+                    "letter": "C",
+                    "text": "sketch \u201cC\u201d"
+                },
+                {
+                    "letter": "D",
+                    "text": "sketches \u201cA\u201d and \u201cB\u201d"
+                }
+            ],
+            "image": "chapter 9 - figure 10"
+        },
+        {
+            "number": 11,
+            "text": "A 2-inch vent pipe will serve a total of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "14 bathtubs"
+                },
+                {
+                    "letter": "B",
+                    "text": "16 showers"
+                },
+                {
+                    "letter": "C",
+                    "text": "24 lavatories"
+                },
+                {
+                    "letter": "D",
+                    "text": "15 water closets"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "Each vent pipe or stack sha lI extend through its flashing and shall terminate vertically above the roof at least _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "6 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "12 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "18 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "24 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "Refer to question 12. The distance from the vent pipe opening to any vertical surface shall be at least _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "6 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "12 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "18 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "24 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "Horizontal termination of vents from any open able window, door opening, air in take or vent shaft shall be not less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 foot"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "10 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "12 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 15,
+            "text": "Except for alleys and streets, vent termination from a lot line shall not be less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1 foot"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "3 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "4 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 16,
+            "text": "Vents terminating in roof areas used for sunbathing shall be extended above the roof at least _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "7 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "10 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "12 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "15 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 17,
+            "text": "Joints at the roof around vent pipes shall be made watertight by the use of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "waterproof epoxy sealer"
+                },
+                {
+                    "letter": "B",
+                    "text": "three Iayers 15 pound felt"
+                },
+                {
+                    "letter": "C",
+                    "text": "hot tar compound"
+                },
+                {
+                    "letter": "D",
+                    "text": "approved flashings"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 18,
+            "text": "Parallel vent stacks are required for drainage stacks that extend above the building drain _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "five stories or more"
+                },
+                {
+                    "letter": "B",
+                    "text": "10 stories or more"
+                },
+                {
+                    "letter": "C",
+                    "text": "50 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "100 feet"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 19,
+            "text": "The parallel vent stack shall be connected to the drainage stack by means of a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "circuit vent"
+                },
+                {
+                    "letter": "B",
+                    "text": "loop vent"
+                },
+                {
+                    "letter": "C",
+                    "text": "yoke vents"
+                },
+                {
+                    "letter": "D",
+                    "text": "continuous vents"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 20,
+            "text": "The pipe size for the common vent serving lavatories installed back-to-back shall be not less than _____ inch(es).",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1"
+                },
+                {
+                    "letter": "B",
+                    "text": "1-1/4"
+                },
+                {
+                    "letter": "C",
+                    "text": "1-1/2"
+                },
+                {
+                    "letter": "D",
+                    "text": "2"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 21,
+            "text": "Horizontal vent pipes shall be level or so graded as to drip back by gravity to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the main vent pipe"
+                },
+                {
+                    "letter": "B",
+                    "text": "the main soil stack"
+                },
+                {
+                    "letter": "C",
+                    "text": "the loop vent"
+                },
+                {
+                    "letter": "D",
+                    "text": "the drainage pipe they serve"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 22,
+            "text": "The minimum size vent pipe that may serve a 4-inch trap is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1-1/4 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "1-1/2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "4 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 23,
+            "text": "Increasing vents one pipe size wiI l _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "provide increased drainage"
+                },
+                {
+                    "letter": "B",
+                    "text": "allow a uniform installation"
+                },
+                {
+                    "letter": "C",
+                    "text": "remove lengths limitations"
+                },
+                {
+                    "letter": "D",
+                    "text": "allow vents to be shorter"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 24,
+            "text": "Changes in direction of vent piping sha lI be made by _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "heating the pipe and bending"
+                },
+                {
+                    "letter": "B",
+                    "text": "welded joints where possible"
+                },
+                {
+                    "letter": "C",
+                    "text": "threaded fittings or caulked joints"
+                },
+                {
+                    "letter": "D",
+                    "text": "appropriate use of approved fittings"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 25,
+            "text": "A drainage stack extends 14 stories above the building drain and is served by a parallel vent stack. A relief yoke vent connection between the vent stack and the drainage stack is required at _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "floors 5 and 10"
+                },
+                {
+                    "letter": "B",
+                    "text": "floors 4 and 9"
+                },
+                {
+                    "letter": "C",
+                    "text": "floors 4 and 10"
+                },
+                {
+                    "letter": "D",
+                    "text": "floors 5 and 9"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 26,
+            "text": "The fitting that is required for making the yoke vent intersection with the drainage stack is a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "sanitary tee"
+                },
+                {
+                    "letter": "B",
+                    "text": "tapped tee"
+                },
+                {
+                    "letter": "C",
+                    "text": "double tee branch"
+                },
+                {
+                    "letter": "D",
+                    "text": "wye branch"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 27,
+            "text": "Referring to question 26 above, the size of the yoke vent shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "not less in diameter than either the drainage or the vent stack, whichever is smaller"
+                },
+                {
+                    "letter": "B",
+                    "text": "a minimum of 4 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "two pipe sizes larger than the drain line"
+                },
+                {
+                    "letter": "D",
+                    "text": "two pipe sizes smaller than the drain line"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 28,
+            "text": "If,due to structural conditions,horizontal vents are less than 6 inches above the overflow rim of the fixture, the horizontal portion shall be installed with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "approved venting material and fittings"
+                },
+                {
+                    "letter": "B",
+                    "text": "approved drainage material and fittings and grade to drain"
+                },
+                {
+                    "letter": "C",
+                    "text": "smaller diameter piping"
+                },
+                {
+                    "letter": "D",
+                    "text": "larger diameter piping"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 29,
+            "text": "Vent terminals in locations having minimum design temperatures below 0 F shall be a minimum of.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "4 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "one pipe size larger than normally required"
+                },
+                {
+                    "letter": "D",
+                    "text": "A and C apply"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 30,
+            "text": "Copper tube shall not be used for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "chemical or industrial wastes"
+                },
+                {
+                    "letter": "B",
+                    "text": "water piping"
+                },
+                {
+                    "letter": "C",
+                    "text": "underground drainage piping"
+                },
+                {
+                    "letter": "D",
+                    "text": "aboveground drainage piping"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 31,
+            "text": "ABS or PVC DWV piping installations exposed within ducts or plenums shall be limited to a flame-spread index of not more than 25 or a smoke developed index of 50 except for _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "two-story buildings"
+                },
+                {
+                    "letter": "B",
+                    "text": "structures not over three floors above grade"
+                },
+                {
+                    "letter": "C",
+                    "text": "the restrictions found in IS 31"
+                },
+                {
+                    "letter": "D",
+                    "text": "single-family dwelling units"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 32,
+            "text": "Sheet lead used for flashings of vent terminals shall be not less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2 pounds per square foot"
+                },
+                {
+                    "letter": "B",
+                    "text": "3 pounds per square foot"
+                },
+                {
+                    "letter": "C",
+                    "text": "4 pounds per square foot"
+                },
+                {
+                    "letter": "D",
+                    "text": "5 pounds per square foot"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 33,
+            "text": "Section A refers to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a combination waste and vent system"
+                },
+                {
+                    "letter": "B",
+                    "text": "a vertical wet-vented section"
+                },
+                {
+                    "letter": "C",
+                    "text": "special venting for island fixtures"
+                },
+                {
+                    "letter": "D",
+                    "text": "an indirect waste and vent system"
+                }
+            ],
+            "image": "chapter 9 - figure 33-37"
+        },
+        {
+            "number": 34,
+            "text": "The pipe section between the kitchen sink inlet and the lavatory inlet (point \u201cA\u201d) serves as a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "vent pipe for the kitchen sink"
+                },
+                {
+                    "letter": "B",
+                    "text": "waste pipe for the lavatory"
+                },
+                {
+                    "letter": "C",
+                    "text": "vent pipe for the lavatory"
+                },
+                {
+                    "letter": "D",
+                    "text": "both A and B"
+                }
+            ],
+            "image": "chapter 9 - figure 33-37"
+        },
+        {
+            "number": 35,
+            "text": "The total number of fixture units at point \u201cB\u201d is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "one unit"
+                },
+                {
+                    "letter": "B",
+                    "text": "two units"
+                },
+                {
+                    "letter": "C",
+                    "text": "three units"
+                },
+                {
+                    "letter": "D",
+                    "text": "four units"
+                }
+            ],
+            "image": "chapter 9 - figure 33-37"
+        },
+        {
+            "number": 36,
+            "text": "The vent section \u201cB\u201d shall be a minimum pipe size of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1-1/4 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "1-1/2 inch"
+                },
+                {
+                    "letter": "C",
+                    "text": "2 inch"
+                },
+                {
+                    "letter": "D",
+                    "text": "2-1/2 inch"
+                }
+            ],
+            "image": "chapter 9 - figure 33-37"
+        },
+        {
+            "number": 37,
+            "text": "ln this type of installation, the diameter of the lavatory trap arm _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "shall be increased one pipe size"
+                },
+                {
+                    "letter": "B",
+                    "text": "shall be increased two pipe sizes"
+                },
+                {
+                    "letter": "C",
+                    "text": "may be as normally required"
+                },
+                {
+                    "letter": "D",
+                    "text": "may be decreased one pipe size"
+                }
+            ],
+            "image": "chapter 9 - figure 33-37"
+        },
+        {
+            "number": 38,
+            "text": "The sketch represents _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "reverse circuit loop venting"
+                },
+                {
+                    "letter": "B",
+                    "text": "continuous waste and vent"
+                },
+                {
+                    "letter": "C",
+                    "text": "special venting for island fixtures"
+                },
+                {
+                    "letter": "D",
+                    "text": "combination waste and vent"
+                }
+            ],
+            "image": "chapter 9 - figure 38-43"
+        },
+        {
+            "number": 39,
+            "text": "The pipe section at \u201cA\u201d is called a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "foot vent"
+                },
+                {
+                    "letter": "B",
+                    "text": "yoke vent"
+                },
+                {
+                    "letter": "C",
+                    "text": "loop vent"
+                },
+                {
+                    "letter": "D",
+                    "text": "fixture vent"
+                }
+            ],
+            "image": "chapter 9 - figure 38-43"
+        },
+        {
+            "number": 40,
+            "text": "The fitting at \u201cB\u201d is a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "45-degree elbow"
+                },
+                {
+                    "letter": "B",
+                    "text": "90-degree elbow"
+                },
+                {
+                    "letter": "C",
+                    "text": "1/16 bend"
+                },
+                {
+                    "letter": "D",
+                    "text": "1/8 bend"
+                }
+            ],
+            "image": "chapter 9 - figure 38-43"
+        },
+        {
+            "number": 41,
+            "text": "The minimum size (diameter) at \u201cC\u201d is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1-1/2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "2-1/2 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "3 inches"
+                }
+            ],
+            "image": "chapter 9 - figure 38-43"
+        },
+        {
+            "number": 42,
+            "text": "The type of fitting acceptable at \u201cD\u201d is a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "sanitary tee"
+                },
+                {
+                    "letter": "B",
+                    "text": "sanitary tapped tee"
+                },
+                {
+                    "letter": "C",
+                    "text": "90-degree elbow"
+                },
+                {
+                    "letter": "D",
+                    "text": "90-degree sweep"
+                }
+            ],
+            "image": "chapter 9 - figure 38-43"
+        },
+        {
+            "number": 43,
+            "text": "Of the following fittings, the one that would be approved at \u201cE\u201d is the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1-1/2 inch wye branch fitting"
+                },
+                {
+                    "letter": "B",
+                    "text": "1-1/2 inch sanitary tee"
+                },
+                {
+                    "letter": "C",
+                    "text": "2 inch tapped tee"
+                },
+                {
+                    "letter": "D",
+                    "text": "2 inch sink tee"
+                }
+            ],
+            "image": "chapter 9 - figure 38-43"
+        },
+        {
+            "number": 44,
+            "text": "The maximum length for piping \u201cC\u201d without a vent is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "5 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "10 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "15 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "25 feet"
+                }
+            ],
+            "image": "chapter 9 - figure 44-49"
+        },
+        {
+            "number": 45,
+            "text": "The minimum size (diameter) of the tailpiece for the floor drain served by \u201cA\u201d is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1-1/2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "2-1/2 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "3 inches"
+                }
+            ],
+            "image": "chapter 9 - figure 44-49"
+        },
+        {
+            "number": 46,
+            "text": "The minimum size (diameter) for branch \u201cA\u201d is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "2-1/2 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "3 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "4 inches"
+                }
+            ],
+            "image": "chapter 9 - figure 44-49"
+        },
+        {
+            "number": 47,
+            "text": "The minimum size (diameter) for vent piping \u201cB\u201d shall be approximately equal to _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "the cross-sectional area of the drain pipe served"
+                },
+                {
+                    "letter": "B",
+                    "text": "one-half the inside cross-sectional area of the drain pipe served"
+                },
+                {
+                    "letter": "C",
+                    "text": "the size of the uppermost trap"
+                },
+                {
+                    "letter": "D",
+                    "text": "one-half the size of the uppermost trap"
+                }
+            ],
+            "image": "chapter 9 - figure 44-49"
+        },
+        {
+            "number": 48,
+            "text": "Long mains shall be provided with relief vents at intervals of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "50 feet"
+                },
+                {
+                    "letter": "B",
+                    "text": "75 feet"
+                },
+                {
+                    "letter": "C",
+                    "text": "100 feet"
+                },
+                {
+                    "letter": "D",
+                    "text": "300 feet"
+                }
+            ],
+            "image": "chapter 9 - figure 44-49"
+        },
+        {
+            "number": 49,
+            "text": "The vent connection \u201cB\u201d shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "downstream of the last fixture"
+                },
+                {
+                    "letter": "B",
+                    "text": "within 15 feet of the fixture discharging the most total volume of waste"
+                },
+                {
+                    "letter": "C",
+                    "text": "within 15 feet of the uppermost fixture"
+                },
+                {
+                    "letter": "D",
+                    "text": "taken off above the centerline of the drain pipe and downstream of the trap being served"
+                }
+            ],
+            "image": "chapter 9 - figure 44-49"
+        },
+        {
+            "number": 50,
+            "text": "Horizontal wet venting _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "is not permitted by the code"
+                },
+                {
+                    "letter": "B",
+                    "text": "shall be permitted for public bathrooms"
+                },
+                {
+                    "letter": "C",
+                    "text": "shall be permitted for a bathroom group located on the same floor level"
+                },
+                {
+                    "letter": "D",
+                    "text": "shall be a minimum 4 inches in size"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 51,
+            "text": "The fixture that serves as a dry vent connection to the horizontal wet vent is a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "kitchen sink"
+                },
+                {
+                    "letter": "B",
+                    "text": "laundry tub"
+                },
+                {
+                    "letter": "C",
+                    "text": "shower"
+                },
+                {
+                    "letter": "D",
+                    "text": "bar sink"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 52,
+            "text": "The vent system shall be designed to prevent a trap seal from being exposed to a pressure differential on the outlet side of the trap that exceeds _____ inch of a water column.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "0.50"
+                },
+                {
+                    "letter": "B",
+                    "text": "1"
+                },
+                {
+                    "letter": "C",
+                    "text": "2"
+                },
+                {
+                    "letter": "D",
+                    "text": "3"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 53,
+            "text": "A horizontal wet vent shall be not less than two inches in diameter for _____ dfu or less.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2"
+                },
+                {
+                    "letter": "B",
+                    "text": "4"
+                },
+                {
+                    "letter": "C",
+                    "text": "5"
+                },
+                {
+                    "letter": "D",
+                    "text": "8"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 54,
+            "text": "The dry vent connection to the wet vent shall be a (an) _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "relief vent"
+                },
+                {
+                    "letter": "B",
+                    "text": "yoke vent"
+                },
+                {
+                    "letter": "C",
+                    "text": "foot vent"
+                },
+                {
+                    "letter": "D",
+                    "text": "individual vent"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 55,
+            "text": "The fixture drain or trap arm connection to the wet vent shall be downstream of fixture drain or trap arm connections to the horizontal branch.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "shower"
+                },
+                {
+                    "letter": "B",
+                    "text": "floor drain"
+                },
+                {
+                    "letter": "C",
+                    "text": "water closet"
+                },
+                {
+                    "letter": "D",
+                    "text": "bathtub"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 56,
+            "text": "An engineered vent system shall be designed by _____ and approved in accordance with Section 301. 5.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a registered design professional"
+                },
+                {
+                    "letter": "B",
+                    "text": "the building owner"
+                },
+                {
+                    "letter": "C",
+                    "text": "the plumber"
+                },
+                {
+                    "letter": "D",
+                    "text": "an engineer"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 57,
+            "text": "What is the maximum number of fixtures permitted on a circuit vent to be connected to a horizontal branch drain? _____",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "4"
+                },
+                {
+                    "letter": "B",
+                    "text": "6"
+                },
+                {
+                    "letter": "C",
+                    "text": "8"
+                },
+                {
+                    "letter": "D",
+                    "text": "10"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 58,
+            "text": "From the most downstream fixture drain connection on a circuit vent to the most upstream fixture drain connection to the horizontal branch, the horizontal branch drain shall be classified as a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "combination waste"
+                },
+                {
+                    "letter": "B",
+                    "text": "drain"
+                },
+                {
+                    "letter": "C",
+                    "text": "vent stack"
+                },
+                {
+                    "letter": "D",
+                    "text": "vent"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 59,
+            "text": "What is the minimum number of circuit vents required to vent 21 fixtures? _____",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "2"
+                },
+                {
+                    "letter": "B",
+                    "text": "3"
+                },
+                {
+                    "letter": "C",
+                    "text": "4"
+                },
+                {
+                    "letter": "D",
+                    "text": "5"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 60,
+            "text": "What is the minimum size circuit vent? _____",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1-1/4\u201d"
+                },
+                {
+                    "letter": "B",
+                    "text": "1-1/2\u201d"
+                },
+                {
+                    "letter": "C",
+                    "text": "2\u201d"
+                },
+                {
+                    "letter": "D",
+                    "text": "3\u201d"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 61,
+            "text": "The vent section of the horizontal branch drain shall slope not more than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/8\u201d per foot"
+                },
+                {
+                    "letter": "B",
+                    "text": "1/4\u201d per foot"
+                },
+                {
+                    "letter": "C",
+                    "text": "1/2\u201d per foot"
+                },
+                {
+                    "letter": "D",
+                    "text": "1\u201d per foot"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 62,
+            "text": "Multiple circuit vented branches shall be permitted to connect _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "on the same floor level"
+                },
+                {
+                    "letter": "B",
+                    "text": "on more than 2 floors"
+                },
+                {
+                    "letter": "C",
+                    "text": "below flood level"
+                },
+                {
+                    "letter": "D",
+                    "text": "on all floors above the 2nd floor"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 63,
+            "text": "A 2 inch relief vent shall be provided for circuit-vented horizontal branches receiving the discharge of _____ or more water closets.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "three"
+                },
+                {
+                    "letter": "B",
+                    "text": "four"
+                },
+                {
+                    "letter": "C",
+                    "text": "six"
+                },
+                {
+                    "letter": "D",
+                    "text": "eight"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 64,
+            "text": "Fixtures, other than circuit vented fixtures, located on the same floor as circuit-vented fixtures shall be either common vented or _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "individually vented"
+                },
+                {
+                    "letter": "B",
+                    "text": "wet vented"
+                },
+                {
+                    "letter": "C",
+                    "text": "island vented"
+                },
+                {
+                    "letter": "D",
+                    "text": "stack vented"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 65,
+            "text": "Where exposed to sunlight, ABS and PVC vent piping penetrating the roof shall be protected by _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "oil based paint"
+                },
+                {
+                    "letter": "B",
+                    "text": "latex based paint"
+                },
+                {
+                    "letter": "C",
+                    "text": "acrylic based paint"
+                },
+                {
+                    "letter": "D",
+                    "text": "roofing tar"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "B"
+        },
+        {
+            "number": 2,
+            "letter": "C"
+        },
+        {
+            "number": 3,
+            "letter": "A"
+        },
+        {
+            "number": 4,
+            "letter": "B"
+        },
+        {
+            "number": 5,
+            "letter": "D"
+        },
+        {
+            "number": 6,
+            "letter": "B"
+        },
+        {
+            "number": 7,
+            "letter": "A"
+        },
+        {
+            "number": 8,
+            "letter": "C"
+        },
+        {
+            "number": 9,
+            "letter": "A"
+        },
+        {
+            "number": 10,
+            "letter": "B"
+        },
+        {
+            "number": 11,
+            "letter": "C"
+        },
+        {
+            "number": 12,
+            "letter": "A"
+        },
+        {
+            "number": 13,
+            "letter": "B"
+        },
+        {
+            "number": 14,
+            "letter": "C"
+        },
+        {
+            "number": 15,
+            "letter": "C"
+        },
+        {
+            "number": 16,
+            "letter": "A"
+        },
+        {
+            "number": 17,
+            "letter": "D"
+        },
+        {
+            "number": 18,
+            "letter": "B"
+        },
+        {
+            "number": 19,
+            "letter": "C"
+        },
+        {
+            "number": 20,
+            "letter": "C"
+        },
+        {
+            "number": 21,
+            "letter": "D"
+        },
+        {
+            "number": 22,
+            "letter": "C"
+        },
+        {
+            "number": 23,
+            "letter": "C"
+        },
+        {
+            "number": 24,
+            "letter": "D"
+        },
+        {
+            "number": 25,
+            "letter": "B"
+        },
+        {
+            "number": 26,
+            "letter": "D"
+        },
+        {
+            "number": 27,
+            "letter": "A"
+        },
+        {
+            "number": 28,
+            "letter": "B"
+        },
+        {
+            "number": 29,
+            "letter": "A"
+        },
+        {
+            "number": 30,
+            "letter": "A"
+        },
+        {
+            "number": 31,
+            "letter": "D"
+        },
+        {
+            "number": 32,
+            "letter": "B"
+        },
+        {
+            "number": 33,
+            "letter": "B"
+        },
+        {
+            "number": 34,
+            "letter": "D"
+        },
+        {
+            "number": 35,
+            "letter": "C"
+        },
+        {
+            "number": 36,
+            "letter": "B"
+        },
+        {
+            "number": 37,
+            "letter": "C"
+        },
+        {
+            "number": 38,
+            "letter": "C"
+        },
+        {
+            "number": 39,
+            "letter": "A"
+        },
+        {
+            "number": 40,
+            "letter": "B"
+        },
+        {
+            "number": 41,
+            "letter": "B"
+        },
+        {
+            "number": 42,
+            "letter": "D"
+        },
+        {
+            "number": 43,
+            "letter": "A"
+        },
+        {
+            "number": 44,
+            "letter": "C"
+        },
+        {
+            "number": 45,
+            "letter": "B"
+        },
+        {
+            "number": 46,
+            "letter": "C"
+        },
+        {
+            "number": 47,
+            "letter": "B"
+        },
+        {
+            "number": 48,
+            "letter": "C"
+        },
+        {
+            "number": 49,
+            "letter": "C"
+        },
+        {
+            "number": 50,
+            "letter": "C"
+        },
+        {
+            "number": 51,
+            "letter": "C"
+        },
+        {
+            "number": 52,
+            "letter": "B"
+        },
+        {
+            "number": 53,
+            "letter": "B"
+        },
+        {
+            "number": 54,
+            "letter": "D"
+        },
+        {
+            "number": 55,
+            "letter": "C"
+        },
+        {
+            "number": 56,
+            "letter": "A"
+        },
+        {
+            "number": 57,
+            "letter": "C"
+        },
+        {
+            "number": 58,
+            "letter": "D"
+        },
+        {
+            "number": 59,
+            "letter": "B"
+        },
+        {
+            "number": 60,
+            "letter": "C"
+        },
+        {
+            "number": 61,
+            "letter": "D"
+        },
+        {
+            "number": 62,
+            "letter": "A"
+        },
+        {
+            "number": 63,
+            "letter": "B"
+        },
+        {
+            "number": 64,
+            "letter": "A"
+        },
+        {
+            "number": 65,
+            "letter": "B"
+        }
+    ]
+}

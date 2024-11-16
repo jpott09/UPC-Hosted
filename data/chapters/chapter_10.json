@@ -1,0 +1,1088 @@
+{
+    "number": 10,
+    "text": "TRAPS AND INTERCEPTORS",
+    "questions": [
+        {
+            "number": 1,
+            "text": "Each plumbing fixture, except for those having integral traps, shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "separately trapped by an approved liquid seal trap"
+                },
+                {
+                    "letter": "B",
+                    "text": "drained by means of an indirect waste line"
+                },
+                {
+                    "letter": "C",
+                    "text": "connected directly to the building drain without a trap"
+                },
+                {
+                    "letter": "D",
+                    "text": "illegal and should not be used"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 2,
+            "text": "One trap may serve a set of not more than _____ single compartment sinks.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "two"
+                },
+                {
+                    "letter": "B",
+                    "text": "one"
+                },
+                {
+                    "letter": "C",
+                    "text": "three"
+                },
+                {
+                    "letter": "D",
+                    "text": "four"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 3,
+            "text": "A food waste disposal unit installed in restaurant, commercial, or industrial sinks _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "may share a common trap"
+                },
+                {
+                    "letter": "B",
+                    "text": "must be separately trapped"
+                },
+                {
+                    "letter": "C",
+                    "text": "should be indirectly wasted"
+                },
+                {
+                    "letter": "D",
+                    "text": "need not be trapped"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 4,
+            "text": "The maximum vertical distance for a tailpiece allowed between a fixture and the trap weir is _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "6 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "12 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "18 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "24 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 5,
+            "text": "Each plumbing fixture trap shall be protected against siphonage and backpressure by a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "sanitary tee"
+                },
+                {
+                    "letter": "B",
+                    "text": "vent pipe"
+                },
+                {
+                    "letter": "C",
+                    "text": "air admittance device"
+                },
+                {
+                    "letter": "D",
+                    "text": "backflow preventer"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 6,
+            "text": "A trap arm smaller than 3 inches may change without a cleanout if the change in direction does direction not exceed _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "30 degrees"
+                },
+                {
+                    "letter": "B",
+                    "text": "45 degrees"
+                },
+                {
+                    "letter": "C",
+                    "text": "90 degrees"
+                },
+                {
+                    "letter": "D",
+                    "text": "180 degrees"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 7,
+            "text": "The vent pipe opening from a soil or waste pipe, except for water closets and similar fixtures, _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "may be below the trap weir"
+                },
+                {
+                    "letter": "B",
+                    "text": "shall not be below the weir of the trap"
+                },
+                {
+                    "letter": "C",
+                    "text": "must be below the weir of the trap"
+                },
+                {
+                    "letter": "D",
+                    "text": "does not need a vent"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 8,
+            "text": "The developed length of a 2\u201d trap arm, from the trap weir to the inner edge of the vent shall not exceed _____ feet.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "3"
+                },
+                {
+                    "letter": "B",
+                    "text": "5"
+                },
+                {
+                    "letter": "C",
+                    "text": "6"
+                },
+                {
+                    "letter": "D",
+                    "text": "10"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 9,
+            "text": "Each trap, except for traps within interceptors or similar devices, _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "shall be self-cleaning"
+                },
+                {
+                    "letter": "B",
+                    "text": "shall be one pipe size smaller than the fixture outlet"
+                },
+                {
+                    "letter": "C",
+                    "text": "shall have a cleanout on the bottom of the trap"
+                },
+                {
+                    "letter": "D",
+                    "text": "need not be vented"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 10,
+            "text": "No more than _____ approved slip joint fitting(s) may be used on the outlet side of a trap.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "one"
+                },
+                {
+                    "letter": "B",
+                    "text": "two"
+                },
+                {
+                    "letter": "C",
+                    "text": "three"
+                },
+                {
+                    "letter": "D",
+                    "text": "four"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 11,
+            "text": "The size of the trap connected to a fixture shall be sufficient to drain the fixture rapidly but _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "in no case smaller than the fixture drain"
+                },
+                {
+                    "letter": "B",
+                    "text": "not more than one size larger than the fixture drain"
+                },
+                {
+                    "letter": "C",
+                    "text": "may be the same size as the trap arm to which it is connected"
+                },
+                {
+                    "letter": "D",
+                    "text": "all of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 12,
+            "text": "No trap shall be used that _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "depends on movable parts for its seal"
+                },
+                {
+                    "letter": "B",
+                    "text": "has, with some exceptions, concealed interior partitions"
+                },
+                {
+                    "letter": "C",
+                    "text": "is classified as an S-trap or bell trap"
+                },
+                {
+                    "letter": "D",
+                    "text": "all of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 13,
+            "text": "Each fixture trap shall have a water seal of _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "not less than 2 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "not more than 4 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "both A and B"
+                },
+                {
+                    "letter": "D",
+                    "text": "none of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 14,
+            "text": "Floor drains shall connect into a trap so constructed that it can be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "accessible"
+                },
+                {
+                    "letter": "B",
+                    "text": "easily removed"
+                },
+                {
+                    "letter": "C",
+                    "text": "readily cleaned"
+                },
+                {
+                    "letter": "D",
+                    "text": "none of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 15,
+            "text": "Floor drains or similar traps directly connected to the drainage system and subject to infrequent use shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "primed weekly, except when not deemed necessary by the Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "B",
+                    "text": "covered when not in use, except when not deemed necessary by the Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "C",
+                    "text": "protected with an accessible trap seal primer, except when not deemed necessary by the Authority Having Jurisdiction"
+                },
+                {
+                    "letter": "D",
+                    "text": "prohibited"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 16,
+            "text": "Each building trap when installed shall be provided with _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "a cleanout"
+                },
+                {
+                    "letter": "B",
+                    "text": "a relieving vent or fresh air intake on the inlet side of the trap"
+                },
+                {
+                    "letter": "C",
+                    "text": "both A and B"
+                },
+                {
+                    "letter": "D",
+                    "text": "none of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 17,
+            "text": "Interceptors shall be provided when, in the judgment of the Authority Having Jurisdiction, they are necessary for the proper handling of liquid wastes containing _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "grease and flammable wastes"
+                },
+                {
+                    "letter": "B",
+                    "text": "sand and/or solids"
+                },
+                {
+                    "letter": "C",
+                    "text": "acid or alkaline substances"
+                },
+                {
+                    "letter": "D",
+                    "text": "all of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 18,
+            "text": "Interceptors for sand and similar heavy solids shall have a water seal of not less than _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "4 inches"
+                },
+                {
+                    "letter": "B",
+                    "text": "6 inches"
+                },
+                {
+                    "letter": "C",
+                    "text": "8 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "10 inches"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 19,
+            "text": "Interceptors shall _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "be properly vented"
+                },
+                {
+                    "letter": "B",
+                    "text": "have covers that are readily accessible for service and maintenance"
+                },
+                {
+                    "letter": "C",
+                    "text": "be placed aboveground"
+                },
+                {
+                    "letter": "D",
+                    "text": "both A and B apply"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 20,
+            "text": "Every public or private wash rack and floor or slab used for cleaning machinery or machine parts shall _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "be adequately protected against storm or surface water"
+                },
+                {
+                    "letter": "B",
+                    "text": "drain or discharge into the main sewer system"
+                },
+                {
+                    "letter": "C",
+                    "text": "drain or discharge into an approved interceptor"
+                },
+                {
+                    "letter": "D",
+                    "text": "both A and C"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 21,
+            "text": "Laundry equipment in commercial buildings that do not have integral strainers shall discharge into an interceptor having a wire basket or similar device that will prevent the passing of solids _____ or larger in maximum dimension.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1/4 inch"
+                },
+                {
+                    "letter": "B",
+                    "text": "1/8 inch"
+                },
+                {
+                    "letter": "C",
+                    "text": "1/2 inch"
+                },
+                {
+                    "letter": "D",
+                    "text": "3/4 inch"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 22,
+            "text": "The Authority Having Jurisdiction has mandated grease pretreatment for the following fixtures: four non- emergency floor drains, two commercial food prep sinks, one service sink with a 3-inch trap, and two dishwashers discharging 20 gallons per minute each. The minimum size gravity grease interceptor in gallons required shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "500"
+                },
+                {
+                    "letter": "B",
+                    "text": "750"
+                },
+                {
+                    "letter": "C",
+                    "text": "1,000"
+                },
+                {
+                    "letter": "D",
+                    "text": "1,250"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 23,
+            "text": "Each plumbing fixture connected to a type A and B hydro mechanical grease interceptor shall be provided with a _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "vent terminating to the atmosphere inside the building"
+                },
+                {
+                    "letter": "B",
+                    "text": "flow control device"
+                },
+                {
+                    "letter": "C",
+                    "text": "gate valve"
+                },
+                {
+                    "letter": "D",
+                    "text": "removable cover"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 24,
+            "text": "Each fixture discharging into a gravity grease interceptor shall be _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "in the same room"
+                },
+                {
+                    "letter": "B",
+                    "text": "individually trapped and vented"
+                },
+                {
+                    "letter": "C",
+                    "text": "readily accessible"
+                },
+                {
+                    "letter": "D",
+                    "text": "approved for that use"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 25,
+            "text": "The total capacity in gallons of fixtures discharging into any hydromechanical grease interceptor shall not exceed _____ times the certified gpm flow rate.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1-1/2"
+                },
+                {
+                    "letter": "B",
+                    "text": "2"
+                },
+                {
+                    "letter": "C",
+                    "text": "2-1/2"
+                },
+                {
+                    "letter": "D",
+                    "text": "3"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 26,
+            "text": "Sand interceptors shall be required _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "whenever the discharge of a fixture or drain may contain solids or semisolids heavier than water that would be harmful to the drainage system"
+                },
+                {
+                    "letter": "B",
+                    "text": "whenever the Authority Having Jurisdiction deems it advisable to protect the drainage system"
+                },
+                {
+                    "letter": "C",
+                    "text": "both A and B"
+                },
+                {
+                    "letter": "D",
+                    "text": "none of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 27,
+            "text": "The sand interceptor shall have a minimum dimension of _____ square feet for the net free opening of the inlet section and a minimum depth under the invert of the outlet pipe of _____ feet.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1-1/2, 1-1/2"
+                },
+                {
+                    "letter": "B",
+                    "text": "2-1/2, 2-1/2"
+                },
+                {
+                    "letter": "C",
+                    "text": "2, 2"
+                },
+                {
+                    "letter": "D",
+                    "text": "3, 3"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 28,
+            "text": "Sand and similar interceptors shall have a water seal of not less than _____ inches.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "4"
+                },
+                {
+                    "letter": "B",
+                    "text": "6"
+                },
+                {
+                    "letter": "C",
+                    "text": "8"
+                },
+                {
+                    "letter": "D",
+                    "text": "10"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 29,
+            "text": "Repair garages and gas stations with grease racks or grease pits and all factories that have oily and/or flammable wastes shall be provided with an oil or flammable liquid interceptor that shall _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "be connected to necessary floor drains"
+                },
+                {
+                    "letter": "B",
+                    "text": "have a separation or vapor compartment independently vented to the outer air"
+                },
+                {
+                    "letter": "C",
+                    "text": "have a flammable vapor vent not less than 2 inches"
+                },
+                {
+                    "letter": "D",
+                    "text": "all of the above"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 30,
+            "text": "Oil and flammable liquid interceptors not rated by the manufacturer shall have a depth of not less than ____ feet below the invert of the discharge drain and an outlet opening with not less than _____ inch water seal.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "1-1/2, 12"
+                },
+                {
+                    "letter": "B",
+                    "text": "2, 18"
+                },
+                {
+                    "letter": "C",
+                    "text": "2-1/2, 24"
+                },
+                {
+                    "letter": "D",
+                    "text": "3, 36"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 31,
+            "text": "If the Authority Having Jurisdiction determines that a grease interceptor is not being properly cleaned, the Authority Having Jurisdiction has the authority to mandate _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "hiring more employees"
+                },
+                {
+                    "letter": "B",
+                    "text": "firing the manager"
+                },
+                {
+                    "letter": "C",
+                    "text": "a maintenance program"
+                },
+                {
+                    "letter": "D",
+                    "text": "less grease to be used"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 32,
+            "text": "A _____ shall be installed downstream of hydromechanical grease interceptor in accordance with the requirements of this code.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "check valve"
+                },
+                {
+                    "letter": "B",
+                    "text": "vent"
+                },
+                {
+                    "letter": "C",
+                    "text": "backflow preventer"
+                },
+                {
+                    "letter": "D",
+                    "text": "filter"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 33,
+            "text": "Gravity grease interceptors shall not be installed in any part of the building where _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "laundry is handled"
+                },
+                {
+                    "letter": "B",
+                    "text": "food is handled"
+                },
+                {
+                    "letter": "C",
+                    "text": "there is public access"
+                },
+                {
+                    "letter": "D",
+                    "text": "the fixture served is on the second floor"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 34,
+            "text": "The volume of the gravity interceptor shall be determined by using _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "Table 313.1"
+                },
+                {
+                    "letter": "B",
+                    "text": "Table 1014.2.1"
+                },
+                {
+                    "letter": "C",
+                    "text": "Table 1014.3.6"
+                },
+                {
+                    "letter": "D",
+                    "text": "Table 610.3"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 35,
+            "text": "Gravity grease interceptors shall be placed as close as practical to the _____.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "fixtures they serve"
+                },
+                {
+                    "letter": "B",
+                    "text": "soil pipe"
+                },
+                {
+                    "letter": "C",
+                    "text": "system vents"
+                },
+                {
+                    "letter": "D",
+                    "text": "egress doors"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 36,
+            "text": "It is recommended that a _____ be located at the outlet end of all gravity grease interceptors.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "pH monitor"
+                },
+                {
+                    "letter": "B",
+                    "text": "CO2 monitor"
+                },
+                {
+                    "letter": "C",
+                    "text": "sight glass"
+                },
+                {
+                    "letter": "D",
+                    "text": "sample box"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 37,
+            "text": "Abandoned grease interceptors shall be _____ and _____ as required for abandoned sewers and sewage disposal facilities.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "broke up, removed"
+                },
+                {
+                    "letter": "B",
+                    "text": "pumped, filled"
+                },
+                {
+                    "letter": "C",
+                    "text": "painted, sealed"
+                },
+                {
+                    "letter": "D",
+                    "text": "cleaned, reused"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 38,
+            "text": "Water closets and urinals shall _____ into or through a grease interceptor.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "drain"
+                },
+                {
+                    "letter": "B",
+                    "text": "directly connect"
+                },
+                {
+                    "letter": "C",
+                    "text": "indirectly connect"
+                },
+                {
+                    "letter": "D",
+                    "text": "not drain"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 39,
+            "text": "Listed _____ may be used to connect listed metal tubing traps.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "male adapters"
+                },
+                {
+                    "letter": "B",
+                    "text": "female adapters"
+                },
+                {
+                    "letter": "C",
+                    "text": "PEX adapters"
+                },
+                {
+                    "letter": "D",
+                    "text": "plastic trap adapters"
+                }
+            ],
+            "image": "none"
+        },
+        {
+            "number": 40,
+            "text": "Grease interceptors shall at all times be _____ for inspection, cleaning and removal of grease.",
+            "options": [
+                {
+                    "letter": "A",
+                    "text": "easily accessible"
+                },
+                {
+                    "letter": "B",
+                    "text": "labeled with instructions"
+                },
+                {
+                    "letter": "C",
+                    "text": "documented by the manufacturer"
+                },
+                {
+                    "letter": "D",
+                    "text": "open"
+                }
+            ],
+            "image": "none"
+        }
+    ],
+    "answers": [
+        {
+            "number": 1,
+            "letter": "A"
+        },
+        {
+            "number": 2,
+            "letter": "C"
+        },
+        {
+            "number": 3,
+            "letter": "B"
+        },
+        {
+            "number": 4,
+            "letter": "D"
+        },
+        {
+            "number": 5,
+            "letter": "B"
+        },
+        {
+            "number": 6,
+            "letter": "C"
+        },
+        {
+            "number": 7,
+            "letter": "B"
+        },
+        {
+            "number": 8,
+            "letter": "B"
+        },
+        {
+            "number": 9,
+            "letter": "A"
+        },
+        {
+            "number": 10,
+            "letter": "A"
+        },
+        {
+            "number": 11,
+            "letter": "D"
+        },
+        {
+            "number": 12,
+            "letter": "D"
+        },
+        {
+            "number": 13,
+            "letter": "C"
+        },
+        {
+            "number": 14,
+            "letter": "C"
+        },
+        {
+            "number": 15,
+            "letter": "C"
+        },
+        {
+            "number": 16,
+            "letter": "C"
+        },
+        {
+            "number": 17,
+            "letter": "D"
+        },
+        {
+            "number": 18,
+            "letter": "B"
+        },
+        {
+            "number": 19,
+            "letter": "D"
+        },
+        {
+            "number": 20,
+            "letter": "D"
+        },
+        {
+            "number": 21,
+            "letter": "C"
+        },
+        {
+            "number": 22,
+            "letter": "C"
+        },
+        {
+            "number": 23,
+            "letter": "B"
+        },
+        {
+            "number": 24,
+            "letter": "B"
+        },
+        {
+            "number": 25,
+            "letter": "C"
+        },
+        {
+            "number": 26,
+            "letter": "C"
+        },
+        {
+            "number": 27,
+            "letter": "C"
+        },
+        {
+            "number": 28,
+            "letter": "B"
+        },
+        {
+            "number": 29,
+            "letter": "D"
+        },
+        {
+            "number": 30,
+            "letter": "B"
+        },
+        {
+            "number": 31,
+            "letter": "C"
+        },
+        {
+            "number": 32,
+            "letter": "B"
+        },
+        {
+            "number": 33,
+            "letter": "B"
+        },
+        {
+            "number": 34,
+            "letter": "C"
+        },
+        {
+            "number": 35,
+            "letter": "A"
+        },
+        {
+            "number": 36,
+            "letter": "D"
+        },
+        {
+            "number": 37,
+            "letter": "B"
+        },
+        {
+            "number": 38,
+            "letter": "D"
+        },
+        {
+            "number": 39,
+            "letter": "D"
+        },
+        {
+            "number": 40,
+            "letter": "A"
+        }
+    ]
+}
