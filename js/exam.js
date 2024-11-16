@@ -1,4 +1,4 @@
-import { Results } from "./js/objects.js";
+import { Results } from "./objects.js";
 
 export class Exam{
     constructor(chapter){

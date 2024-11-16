@@ -1,4 +1,4 @@
-import { Chapter, Question } from "./js/objects.js";
+import { Chapter, Question } from "./objects.js";
 
 export function isMobile(){
     // use mobi to detect any mobile device
