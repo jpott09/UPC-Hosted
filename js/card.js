@@ -1,4 +1,4 @@
-import { Exam } from "/js/exam.js";
+import { Exam } from "./js/exam.js";
 
 export class Card{
     constructor(parent_div, current_question){
