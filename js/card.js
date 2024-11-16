@@ -169,8 +169,10 @@ export class CardDisplay{
         this.header_element.innerText = "Results: "+text;
     }
     goHome(){
-        this.remove();
-        this.home_callback();
+        if(confirm("Your progress will be lost when you leave this site.  Leave?")){
+            this.remove();
+            this.home_callback();
+        }
     }
     showResults(){
         // update header div
