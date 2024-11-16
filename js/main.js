@@ -6,7 +6,7 @@ import * as utils from "./utilities.js";
 document.addEventListener("DOMContentLoaded", () => {
 
     // OBJECTS AND VARIABLES
-    let image_folder_path = "../assets/web_images/"
+    let image_folder_path = "./assets/web_images/"
     let div_body = document.getElementById("div_body");
 
     // DISPLAY OBJECTS
