@@ -50,6 +50,16 @@ export class Card{
             this.image.addEventListener("click", () =>{window.open(current_question.image);});
             this.div.appendChild(this.image);
         }
+        // if the user has already answered the question, select the option
+        if(current_question.user_answer_letter){
+            let options = this.options_div.getElementsByTagName("label");
+            for(let i = 0; i < options.length; i++){
+                if(options[i].innerText.startsWith(current_question.user_answer_letter)){
+                    this.selectOption(options[i]);
+                    break;
+                }
+            }
+        }
     }
     selectOption(label){
         let options = this.options_div.getElementsByTagName("label");
