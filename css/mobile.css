@@ -1,7 +1,7 @@
 :root {
     --background_color: #212121;
     --highlight_background_color: #3e3e3e;
-    --text_color: rgb(151, 81, 31);
+    --text_color: rgb(203, 109, 42);
     --highlight_text_color: rgb(255, 191, 80);
     --link_color: rgb(109, 176, 202);
     --highlight_link_color: rgb(159, 255, 244);
@@ -111,9 +111,10 @@ a {
     cursor: pointer;
 }
 .question_label {
-    font-size: 36pt;
+    font-size: 38pt;
     margin: 15px;
     width: 80%;
+    text-align: center;
 }
 .question_image {
     margin-top: 10px;
@@ -190,6 +191,7 @@ a {
     margin: 5px;
     margin-left: 0px;
     margin-right: 0px;
+    font-size: 36pt;
     padding: 5px;
     border-radius: 5px;
     border: 1px solid var(--border_color_1);

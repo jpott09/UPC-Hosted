@@ -102,6 +102,7 @@ export class CardDisplay{
         this.home_button = document.createElement("button");
         this.home_button.id = "home_button";
         this.home_button.innerText = "Home";
+        this.home_button.borderRadius = "0px";
         this.home_button.addEventListener("click", () => {
             this.goHome();
         });
