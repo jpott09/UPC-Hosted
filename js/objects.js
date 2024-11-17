@@ -60,6 +60,9 @@ export class Chapter{
     addAnswer(answer_number, answer_letter){
         this.answers.push(new Answer(answer_number, answer_letter));
     }
+    addAnswerObject(answer){
+        this.answers.push(answer);
+    }
     getQuestion(question_number){
         for (let q of this.questions) {
             if (q.number === question_number) {
@@ -69,6 +72,9 @@ export class Chapter{
         return null;
     }
     getLastQuestionNumber(){
+        if(this.questions.length === 0){
+            return 0;
+        }
         let last_question = this.questions[this.questions.length-1];
         return last_question.number;
     }

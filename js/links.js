@@ -1,5 +1,5 @@
 export class Links {
-    constructor(header_element,parent_div, async_onlclick_callback){
+    constructor(header_element,parent_div, async_onlclick_callback,async_randomized_exam_callback){
         /* Takes a parent div (to draw links within) and callback function to call when a link is clicked */
         // parent div is the div where this class will be shown
         this.header_element = header_element;
@@ -8,11 +8,18 @@ export class Links {
         this.parent_div = parent_div;
         // on_click_callback is the function that will be called when a link is clicked
         this.async_onlclick_callback = async_onlclick_callback;
+        this.async_randomized_exam_callback = async_randomized_exam_callback;
         // links div will hold the unordered lists with li links
         this.links_div = document.createElement("div");
         this.links_div.id = "links";
         this.links_div.classList.add("div_body");
         // {"Exam Name": chapter_number}
+        this.random = {
+            "Random Exam: 25 Questions": 25,
+            "Random Exam: 50 Questions": 50,
+            "Random Exam: 100 Questions": 100,
+            "Random Exam: 150 Questions": 150
+        }
         this.exams = {
             "General Examination #1": 18,
             "General Examination #2": 19,
@@ -36,6 +43,22 @@ export class Links {
             "Alternative Water Sources for Nonpotable Applications": 15,
             "Nonpotable Rainwater Catchment Systems": 16,
             "Referenced Standards": 17
+        }
+        // RANDOM EXAMS ---------------------------------------------
+        this.random_header = document.createElement("h2");
+        this.random_header.innerText = "Randomized Exams";
+        this.links_div.appendChild(this.random_header);
+        this.random_list = document.createElement("ul");
+        this.random_list.id = "random_list";
+        this.links_div.appendChild(this.random_list);
+        for (let exam in this.random){
+            let li = document.createElement("li");
+            li.innerText = exam;
+            li.id = this.random[exam];
+            li.addEventListener("click", async () => {
+                await this.async_randomized_exam_callback(li.id);
+            })
+            this.random_list.appendChild(li);
         }
         // GENERAL EXAMS ---------------------------------------------
         this.general_exams_header = document.createElement("h2");

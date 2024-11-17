@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let div_body = document.getElementById("div_body");
 
     // DISPLAY OBJECTS
-    let links = new Links(h2_header, div_body, getExam);
+    let links = new Links(h2_header, div_body, getExam, randomizedExam);
     let card_display = null;
 
 
@@ -20,6 +20,12 @@ document.addEventListener("DOMContentLoaded", () => {
         let data = await utils.ajaxChapter(chapter_number);
         let chapter = utils.dataToChapter(data,image_folder_path);
         if(!chapter){console.log("Error in getExam(): chapter is null");return}
+        links.hide();
+        card_display = new CardDisplay(h2_header, div_body, chapter,showHome);
+    }
+    async function randomizedExam(question_count=100){
+        let chapter = await utils.ajaxRandomizedExam(question_count);
+        if(!chapter){console.log("Error in randomizedExam(): chapter is null");return}
         links.hide();
         card_display = new CardDisplay(h2_header, div_body, chapter,showHome);
     }
