@@ -1733,7 +1733,7 @@
         },
         {
             "number": 76,
-            "text": "Where static water pressure in the water supply piping is exceeding psi an approved type pressure regulator preceded by an adequate strainer shall be installed.",
+            "text": "Where static water pressure in the water supply piping is exceeding _____ psi an approved type pressure regulator preceded by an adequate strainer shall be installed.",
             "options": [
                 {
                     "letter": "A",

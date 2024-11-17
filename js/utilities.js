@@ -94,6 +94,21 @@ export async function ajaxRandomizedExam(question_count,image_folder_path=""){
         let this_question_number = randomized_exam.getLastQuestionNumber() + 1;
         random_question.number = this_question_number;
         random_answer.number = this_question_number;
+        // shuffle the option letters and set the new answer letter
+        let option_letters = random_question.options.map(o => o.letter);
+        let correct_answer = random_question.answer;
+        let options = random_question.options;
+        let correct_option = options.find(o => o.letter === correct_answer.letter);
+        let shuffled_options = options.sort(() => Math.random() - 0.5);
+        let correct_option_index = shuffled_options.indexOf(correct_option);
+        for(let i = 0; i < option_letters.length; i++)[
+            shuffled_options[i].letter = option_letters[i]
+        ]
+        correct_answer.letter = shuffled_options[correct_option_index].letter;
+        random_answer.letter = correct_answer.letter;
+        random_question.options = shuffled_options;
+        random_question.answer = correct_answer;
+
         // add the question and answer to the randomized exam
         randomized_exam.addQuestionObject(random_question);
         randomized_exam.addAnswerObject(random_answer);
