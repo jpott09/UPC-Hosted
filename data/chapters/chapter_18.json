@@ -165,7 +165,7 @@
         },
         {
             "number": 8,
-            "text": "AType B-W gas vent shall terminate at least _____ feet in vertical height above the bottom of the wall furnace.",
+            "text": "A Type B-W gas vent shall terminate at least _____ feet in vertical height above the bottom of the wall furnace.",
             "options": [
                 {
                     "letter": "A",
@@ -1112,7 +1112,7 @@
         },
         {
             "number": 49,
-            "text": "Chemical or industrial liquid wastes that are likely to damage the public sanitary sewer system shall.",
+            "text": "Chemical or industrial liquid wastes that are likely to damage the public sanitary sewer system shall _____.",
             "options": [
                 {
                     "letter": "A",
@@ -2170,7 +2170,7 @@
         },
         {
             "number": 95,
-            "text": "Single-wall metal vent pipe shall be constructed of _____ not less than 0. 0304 inch thick.",
+            "text": "Single-wall metal vent pipe shall be constructed of _____ not less than 0.0304 inch thick.",
             "options": [
                 {
                     "letter": "A",
